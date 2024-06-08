@@ -8,7 +8,7 @@
             "ideal_answer": [
                 "No. Non-coding region variants upstream of MEF2C cause severe developmental disorder through three distinct loss-of-function mechanisms."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "61f80d5d882a024a1000003c",
             "snippets": [
@@ -49,7 +49,7 @@
             "ideal_answer": [
                 "Human transcriptome contains a large number of circular RNAs (circRNAs) that are mainly produced by back splicing of pre-mRNA."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "62211c853a8413c65300006d",
             "snippets": [
@@ -183,7 +183,7 @@
             "ideal_answer": [
                 "No. METTL1 is frequently amplified and overexpressed in cancers and is associated with poor patient survival."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "620c27e93a8413c653000006",
             "snippets": [
@@ -205,7 +205,7 @@
             "ideal_answer": [
                 "No. There is a report of pathogenic variants in KCNT2 causing a developmental phenotype without epilepsy."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "61f80c37882a024a1000003b",
             "snippets": [
@@ -243,7 +243,7 @@
             "ideal_answer": [
                 "Yes. Pyostomatitis vegetans (PV) is a rare condition characterized by pustules that affect the oral mucosa. It is a highly specific marker for inflammatory bowel disease and its correct recognition may lead to the diagnosis of ulcerative colitis or Crohn's disease."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "61f593f8882a024a1000000f",
             "snippets": [
@@ -445,7 +445,7 @@
             "ideal_answer": [
                 "Yes,\nplatelets transport serotonin."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6217e1ac3a8413c653000031",
             "snippets": [
@@ -502,7 +502,7 @@
             "ideal_answer": [
                 "Yes. Among high-risk patients with mild-to-moderate Covid-19, sotrovimab reduced the risk of disease progression."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "61f59592882a024a10000010",
             "snippets": [
@@ -599,7 +599,7 @@
             "ideal_answer": [
                 "Yes,\notolin-1 is a otoconia matrix protein."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "621b5bcc3a8413c65300003d",
             "snippets": [
@@ -645,7 +645,7 @@
             "ideal_answer": [
                 "Yes. AGO2 localizes to cytokinetic protrusions in a p38-dependent manner and is needed for accurate cell division."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "620aedee3a8413c653000001",
             "snippets": [
@@ -678,7 +678,7 @@
             "ideal_answer": [
                 "Yes,\nLow HOXA11 expression may promote the proliferation, migration, invasion of endometrial cancer cells"
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "621b61833a8413c65300003e",
             "snippets": [
@@ -770,7 +770,7 @@
             "ideal_answer": [
                 "CD4(+)CD25(+) regulatory T cells (Tregs) are negative regulators of the immune system that induce and maintain immune tolerance."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "621ed10f3a8413c653000062",
             "snippets": [
@@ -1167,7 +1167,7 @@
             "ideal_answer": [
                 "Yes, atemoya juice inhibits the CYP1A2 enzyme."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "62057b35c9dfcb9c0900002d",
             "snippets": [
@@ -1201,7 +1201,7 @@
             "ideal_answer": [
                 "Yes,\nNeurofilament light chain (NfL) has recently been proposed as a promising biomarker in frontotemporal dementia (FTD)."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6217dc9d3a8413c65300002d",
             "snippets": [
@@ -1256,7 +1256,7 @@
             "ideal_answer": [
                 "Epistaxis is a frequent complication associated with dental implant placement."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "621ebec63a8413c65300005d",
             "snippets": [
@@ -1297,7 +1297,7 @@
             "ideal_answer": [
                 "Yes. Daprodustat is a hypoxia-inducible factor-prolyl hydroxylase inhibitor for the treatment of anemia of chronic kidney disease."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "61f58a1a882a024a10000009",
             "snippets": [
@@ -1439,7 +1439,7 @@
             "ideal_answer": [
                 "No, REGN5458 is a bispecific antibody."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "621218353a8413c653000013",
             "snippets": [
@@ -1464,7 +1464,7 @@
             "ideal_answer": [
                 "Yes, the anti-IL-5 antibody benralizumab has been reported to reduce Chronic Spontaneous Urticaria symptoms."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6020a7391cb411341a00007e",
             "snippets": [
@@ -1534,7 +1534,7 @@
             "ideal_answer": [
                 "Yes,\nAmot binds Talin"
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6217dd013a8413c65300002f",
             "snippets": [
@@ -1581,7 +1581,7 @@
                 "RNA Binding Proteins (RBPs) that bind to adenine uridine (AU)-rich elements (AREs) in the 3' untranslated region (UTR) of mRNAs (AU-RBPs) have emerged as key players in regulating the DNA Damage Response (DDR) and preserving genome integrity.",
                 "We investigated 2 mRNA-binding proteins - HuR and TIAR showing specificity to AU-Rich Element (ARE) sites in 3'UTR of mRNA."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6220cbf83a8413c653000067",
             "snippets": [
@@ -1811,7 +1811,7 @@
             "ideal_answer": [
                 "Yes, CPX-351 has been approved by the US FDA and the EMA."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6211566a3a8413c653000010",
             "snippets": [
@@ -1837,7 +1837,7 @@
             "ideal_answer": [
                 "yes,\nBacterial viruses (bacteriophages, phages) of the gut have increasingly become a focus in microbiome studies, with an understanding that they are likely key players in health and disease."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6217dc173a8413c65300002b",
             "snippets": [
@@ -1896,7 +1896,7 @@
             "ideal_answer": [
                 "Yes, tirabrutinib appears to be effective for lymphoma. It was approved in Japan for the treatment of recurrent or refractory primary central nervous system lymphoma."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "601d6fe11cb411341a000033",
             "snippets": [
@@ -2040,7 +2040,7 @@
                 "Yes. Epoxyeicosatrienoic acids (EETs) are synthesized by cytochrome P450 epoxygenases from arachidonic acid.",
                 "Epoxyeicosatrienoic acids (EETs) are synthesized from arachidonic acid by cytochrome P450 epoxygenases in endothelial cells."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "621ea5a53a8413c653000055",
             "snippets": [
@@ -2302,7 +2302,7 @@
             "ideal_answer": [
                 "Oral trimetazidine 35 mg twice daily over several years in patients receiving optimal medical therapy, after successful PCI, does not influence the recurrence of angina or the outcome; these findings should be taken into account when considering the place of trimetazidine in clinical practice."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6027446d1cb411341a0000dd",
             "snippets": [
@@ -2350,7 +2350,7 @@
                 "Due to lack of 3' termini, circRNAs are more resistant to degradation by exonuclease RNase R and possess greater stability than linear RNAs.",
                 "Yes. Circular RNAs are a kind of closed circular RNA molecule widely existing in transcriptomes. Due to lack of free ends, they are not easily cleaved by RNase R, thus avoiding degradation."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "62211d6f3a8413c65300006f",
             "snippets": [
@@ -2572,7 +2572,7 @@
             "ideal_answer": [
                 "No, atemoya juice does not inhibit CYP3A4."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "62057f1ec9dfcb9c0900002e",
             "snippets": [
@@ -2597,7 +2597,7 @@
             "ideal_answer": [
                 "Yes,\nMycobacterium abscessus is unique in terms of its high morbidity and treatment failure rates."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6217db763a8413c653000028",
             "snippets": [
@@ -2643,7 +2643,7 @@
             "ideal_answer": [
                 "No, MEDI2228 is an antibody drug conjugate (ADC)."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "62121c583a8413c653000016",
             "snippets": [
@@ -2684,7 +2684,7 @@
             "ideal_answer": [
                 "Yes, proton beam therapy is used for treatment of craniopharyngioma."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "601c4ff61cb411341a000022",
             "snippets": [
@@ -2979,7 +2979,7 @@
                 "9There a a number of different genetic mutations or syndromes(Saethre-Chotzen, Aperts, Crouzon, Pfeiffer) associated with craniostenosis.",
                 "Saethre-Chotzen syndrome is an autosomal domi\"\"t disease characterized by craniosynostosis, ptosis, and limb and external ear abnormalities"
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "601d73261cb411341a00003a",
             "snippets": [
@@ -3113,7 +3113,7 @@
             "ideal_answer": [
                 "Yes, bergapten can cross the blood-brain barrier."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "620586a8c9dfcb9c09000032",
             "snippets": [
@@ -3135,7 +3135,7 @@
             "ideal_answer": [
                 "Yes. TIMELESS-TIPIN and UBXN-3 promote replisome disassembly during DNA replication termination in Caenorhabditis elegans."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "620be4fd3a8413c653000002",
             "snippets": [
@@ -3167,7 +3167,7 @@
             "ideal_answer": [
                 "Yes,\nBeyond its physiological activity, hemoglobins are able to inhibit the growth of several microorganisms."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "60570fe494d57fd879000026",
             "snippets": [
@@ -3205,7 +3205,7 @@
             "ideal_answer": [
                 "Yes, phototoxicity is a side effect of bergapten."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "620588f9c9dfcb9c09000033",
             "snippets": [
@@ -3239,7 +3239,7 @@
             "ideal_answer": [
                 "Yes,\nIFNG-induce up-regulation of indoleamine 2,3-dioxygenase (IDO)"
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6217d9bf3a8413c653000024",
             "snippets": [
@@ -3293,7 +3293,7 @@
             "ideal_answer": [
                 "Therapeutic strategies to target TAMs to complement conventional therapies has yielded promising results."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "602c2ade1cb411341a000124",
             "snippets": [
@@ -3316,7 +3316,7 @@
             "ideal_answer": [
                 "Based on data from multicentre, randomised, double-blind, placebo-controlled trial (GaPP2), treatment with gabapentin did not result in significantly lower pain scores in women with chronic pelvic pain, and was associated with higher rates of side-effects than placebo."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6027434c1cb411341a0000dc",
             "snippets": [
@@ -3365,7 +3365,7 @@
             "ideal_answer": [
                 "Yes, main bioactive compounds of Royal Jelly, include proteins and  peptides."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6056fbfc94d57fd87900001d",
             "snippets": [
@@ -3411,7 +3411,7 @@
             "ideal_answer": [
                 "Yes. UBE4B might act as an oncogene in regulating renal cancer development. Therefore it could be served as an effective indicator to predict OS and a potential biomarker for targeted therapy of renal cancer patients."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6217c0b63a8413c65300001e",
             "snippets": [
@@ -3434,7 +3434,7 @@
             "ideal_answer": [
                 "No. Addition of  valproic acid and bevacizumab to radiation was well tolerated but did not appear to improve survival in children with diffuse intrinsic pontine glioma."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6025d9e41cb411341a0000b7",
             "snippets": [
@@ -3475,7 +3475,7 @@
             "ideal_answer": [
                 "Yes,\nSMOC2 response to wounding."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "621b950f3a8413c653000044",
             "snippets": [
@@ -3505,7 +3505,7 @@
             "ideal_answer": [
                 "No, atemoya juice does not change the pharmacokinetics of CYP1A2 substrates."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "620580afc9dfcb9c0900002f",
             "snippets": [
@@ -3555,7 +3555,7 @@
             "ideal_answer": [
                 "Yes, Cabotegravir is effective for HIV prevention."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "61f602a3882a024a1000001f",
             "snippets": [
@@ -3783,7 +3783,7 @@
                 "The  2H2-6M(4)-oxazole telomestatin derivative (6OTD) targets Glioma stem cells through G4 stabilization and promotion of DNA damage responses. Therefore, G4s are promising therapeutic targets for glioblastoma.",
                 "G-quadruplex DNA structures (G4 DNA) are a promising therapeutic target for glioblastoma because of their ability to stabilize DNA damage and promote DNA damage response in response to 6-oxazole 6-methyl-CoA reductase inhibitors (6OTD)."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "62211b973a8413c65300006c",
             "snippets": [
@@ -3861,7 +3861,7 @@
             "ideal_answer": [
                 "Yes, the rs34269950 SNP of the RUNX1T1 gene was significantly associated with obesity risk and metabolic abnormalities. Specifically, compared to AA genotype, rs34269950 del/del genotype was associated with a 1.47 [95% confidence interval (CI): 1.01-2.14, P\u2009=\u20090.042] fold higher rate of obesity risk."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "622608ea3a8413c653000079",
             "snippets": [
@@ -3899,7 +3899,7 @@
             "ideal_answer": [
                 "Yes. ADAMTS18 is a novel tumor suppressor and is critical to the pathology of human colorectal cancer. Adamts18 deficiency enhances tumorigenesis and intestinal inflammation through elevated Wnt/\u03b2-catenin and p38MAPK/ERK1/2 signaling and promotes colon cancer in this mouse model."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "61f9cb19c9dfcb9c09000002",
             "snippets": [
@@ -3935,7 +3935,7 @@
             "ideal_answer": [
                 "Yes, Ozanimod is effective for Ulcerative Colitis."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "61f5f89b882a024a10000019",
             "snippets": [
@@ -4058,7 +4058,7 @@
             "ideal_answer": [
                 "Yes,\nAltered glycoprotein expression has been demonstrated in tissue from patients with Barrett's esophagus and esophageal cancer but the mechanisms regarding such changes are unknown."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "621bd38d3a8413c653000046",
             "snippets": [
@@ -4112,7 +4112,7 @@
             "ideal_answer": [
                 "No, the m6A demethylase FTO suppresses pancreatic cancer tumorigenesis."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "622629d13a8413c65300007e",
             "snippets": [
@@ -4147,7 +4147,7 @@
             "ideal_answer": [
                 "Yes,\nlysozyme is the most prevalent protein in tear fluid."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "621b8dee3a8413c653000042",
             "snippets": [
@@ -4209,7 +4209,7 @@
             "ideal_answer": [
                 "Yes, FTY720 was approved by the US Food and Drug Administration (FDA) in 2010."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6052715494d57fd87900000e",
             "snippets": [
@@ -4234,7 +4234,7 @@
             "ideal_answer": [
                 "Yes,\ncytokeratin 19 fragment antigen 21-1 (CYFRA21-1) is a tumor marker."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "621d19cc3a8413c65300004a",
             "snippets": [
@@ -4280,7 +4280,7 @@
             "ideal_answer": [
                 "Yes, tofacitinib is a small JAK inhibitor."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "602596691cb411341a0000ad",
             "snippets": [
@@ -4313,7 +4313,7 @@
             "ideal_answer": [
                 "Species of plants from the genus Strychnos are the source of curare."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "60292dc61cb411341a000110",
             "snippets": [
@@ -4367,7 +4367,7 @@
             "ideal_answer": [
                 "Yes. FHF2 (also known as FGF13) variants are a cause of infantile-onset developmental and epileptic encephalopathy."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "61f9605f882a024a1000004f",
             "snippets": [
@@ -4397,7 +4397,7 @@
             "ideal_answer": [
                 "AZD9668 is a reversible and selective inhibitor of neutrophil elastase."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "602c26171cb411341a000122",
             "snippets": [
@@ -4429,7 +4429,7 @@
             "ideal_answer": [
                 "Yes,\nDiffuse intrinsic pontine gliomas (DIPG) are the most aggressive brain tumors in children with 5-year survival rates of only 2%. About 85% of all DIPG are characterized by a lysine-to-methionine substitution in histone 3, which leads to global H3K27 hypomethylation accompanied by H3K27 hyperacetylation."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "603400051cb411341a00014e",
             "snippets": [
@@ -4469,7 +4469,7 @@
             "ideal_answer": [
                 "Yes,\nFKBP52 is a co-chaperone."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6081a83f4e6a4cf630000007",
             "snippets": [
@@ -4508,7 +4508,7 @@
                 "Yes. \u03b1CGRP, a 37-residue-long peptide hormone, is a novel amyloidogenic member of the CGRP family",
                 "Yes, it has amyloidogenic properties. It is a member of the CGRP family."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "62004357c9dfcb9c09000015",
             "snippets": [
@@ -4538,7 +4538,7 @@
             "ideal_answer": [
                 "No. In clinical trial, istiratumab failed to improve efficacy of standard of care for pancreatic cancer."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "60282c3f1cb411341a0000fe",
             "snippets": [
@@ -4599,7 +4599,7 @@
             "ideal_answer": [
                 "Pulmonary toxicity is a devastating complication of bleomycin chemotherapy."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "601efda31cb411341a000069",
             "snippets": [
@@ -5039,7 +5039,7 @@
             "ideal_answer": [
                 "No, Keutel syndrome (OMIM 245150) is a very rare syndrome"
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6082f4374e6a4cf63000000f",
             "snippets": [
@@ -5116,7 +5116,7 @@
                 "Lemierre's syndrome is a rare condition that results from oropharyngeal infection with the gram-negative, anaerobic Fusobacterium necrophorum.",
                 "Lemierre's syndrome is defined as an oropharyngeal infection due to Fusobacterium necrophorum"
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "601d724a1cb411341a000035",
             "snippets": [
@@ -5532,7 +5532,7 @@
                 "In addition to DNA methylation, reversible epigenetic modification occurring in RNA has been discovered recently. The most abundant type of RNA methylation is N6-methyladenosine (m6A) modification, which is dynamically regulated by methylases (\"writers\"), demethylases (\"erasers\") and m6A-binding proteins (\"readers\")",
                 "N6-methyladenosine (m6A) is the most abundant internal modification on messenger RNAs (mRNAs) and long noncoding RNAs (lncRNAs) in eukaryotes"
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "621fd6083a8413c653000066",
             "snippets": [
@@ -5634,7 +5634,7 @@
             "ideal_answer": [
                 "Yes. Disruption of nuclear architecture is a cause of COVID-19 induced anosmia."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "620155b6c9dfcb9c09000024",
             "snippets": [
@@ -5667,7 +5667,7 @@
             "ideal_answer": [
                 "Yes,\n\u03b1-Taxilin, a binding partner of the syntaxin family, is a candidate tumor marker."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "622dd1433a8413c6530000a5",
             "snippets": [
@@ -5713,7 +5713,7 @@
             "ideal_answer": [
                 "No, PCAT6 is a long noncoding RNA."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "622668313a8413c653000087",
             "snippets": [
@@ -5735,7 +5735,7 @@
             "ideal_answer": [
                 "Yes. HDAC1 is required for GATA-1 transcription activity, global chromatin occupancy and hematopoiesis."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6201a4edc9dfcb9c09000028",
             "snippets": [
@@ -5771,7 +5771,7 @@
                 "Telomestatin is a natural product isolated from Streptomyces anulatus 3533-SV4 and has been shown to be a very potent telomerase inhibitor and is used to treat cancer.",
                 "Telomestatin is a natural product isolated from Streptomyces anulatus 3533-SV4 and has been shown to be a very potent telomerase inhibitor."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "623a24d6f0baec9a1b000002",
             "snippets": [
@@ -5917,7 +5917,7 @@
             "ideal_answer": [
                 "Yes. There series reporting Guillain\u2013Barr\u00e9 syndrome after COVID-19 vaccination."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "61f7d4da882a024a10000033",
             "snippets": [
@@ -6085,7 +6085,7 @@
             "ideal_answer": [
                 "No. High-dose erythropoietin treatment administered to extremely preterm infants from 24 hours after birth through 32 weeks of postmenstrual age did not result in a lower risk of severe neurodevelopmental impairment or death at 2 years of age."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "61fa904fc9dfcb9c09000004",
             "snippets": [
@@ -6167,7 +6167,7 @@
                 "Ameloblastoma (AM) is a slow growing and aggressive benign tumor with an odontogenic epithelial origin arising from the mandible or maxilla.",
                 "Ameloblastoma is a neoplasm arising in the craniofacial skeleton."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6226317a3a8413c653000080",
             "snippets": [
@@ -6516,7 +6516,7 @@
             "ideal_answer": [
                 "Ameloblastomas are benign but locally invasive neoplasms which can be metastatic"
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "622901d23a8413c65300008c",
             "snippets": [
@@ -6602,7 +6602,7 @@
             "ideal_answer": [
                 "Yes. 'Greek islands' first contribute to the formation of olfactory receptor compartments and then form a multi-chromosomal super-enhancer that associates with the single active olfactory receptor gene. The Greek-island-bound transcription factor LHX2 and adaptor protein LDB1 regulate the assembly and maintece of olfactory receptor compartments, Greek island hubs and olfactory receptor transcription, providing mechanistic insights into and functional support for the role of trans interactions in gene expression."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "620157bec9dfcb9c09000025",
             "snippets": [
@@ -6626,7 +6626,7 @@
             "ideal_answer": [
                 "Yes,\nRANKL promotes paxillin serine and tyrosine phosphorylation."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "622dc4b63a8413c6530000a4",
             "snippets": [
@@ -6666,7 +6666,7 @@
             "ideal_answer": [
                 "Yes,\nRetinol-binding protein 4 (RBP4) is a prominent adipokine."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "622b95dc3a8413c653000092",
             "snippets": [
@@ -6705,7 +6705,7 @@
             "ideal_answer": [
                 "Yes,\nHYDIN is a axonemal protein."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "622ce21d3a8413c65300009c",
             "snippets": [
@@ -6735,7 +6735,7 @@
             "ideal_answer": [
                 "Yes. Spiralize is an R package for visualizing data on spirals."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "621e62c33a8413c653000050",
             "snippets": [
@@ -6767,7 +6767,7 @@
             "ideal_answer": [
                 "No. The ALVAC-gp120 regimen did not prevent HIV-1 infection among participants in South Africa despite previous evidence of immunogenicity"
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "61faa3bac9dfcb9c0900000b",
             "snippets": [
@@ -6825,7 +6825,7 @@
             "ideal_answer": [
                 "Yes,\nAfamin is a plasma vitamin E-binding glycoprotein."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "622baf3f3a8413c653000099",
             "snippets": [
@@ -6896,7 +6896,7 @@
                 "Disruption of complex immune regulation mechanisms is associated with adverse preg\"\"cy outcomes, including preeclampsia (PE)",
                 "Inflammation and oxidative stress at the maternal-fetal interface characterize the placental dysfunction that underlies the preg\"\"cy disorder preeclampsia."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "622632483a8413c653000081",
             "snippets": [
@@ -7166,7 +7166,7 @@
             "ideal_answer": [
                 "Yes, a prognostic prediction model of CRC was built based on nine ARlncRNAs (NKILA, LINC00174, AC008760.1, LINC02041, PCAT6, AC156455.1, LINC01503, LINC00957, and CD27-AS1). The 5-year overall survival rate was significantly lower in the high-risk group than in the low-risk group among train set, validation set, and all patients (all p < 0.001). The model had high sensitivity and accuracy in predicting the 1-year overall survival rate (area under the curve = 0.717). The prediction model risk score was an independent predictor of CRC."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "62266c353a8413c65300008a",
             "snippets": [
@@ -7204,7 +7204,7 @@
             "ideal_answer": [
                 "Yes. Several landmark studies have shown that cohesin mutations perturb the balance between self-renewal and differentiation of hematopoietic stem and progenitor cells (HSPC). Emerging data now begin to uncover the molecular mechanisms that underpin this phenotype. Among these mechanisms is a role for cohesin in the control of inflammatory responses in HSPCs and myeloid cells. Inflammatory signals limit HSPC self-renewal and drive HSPC differentiation. Consistent with this, cohesin mutations promote resistance to inflammatory signals, and may provide a selective advantage for AML progression."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "621e9aa13a8413c653000053",
             "snippets": [
@@ -7230,7 +7230,7 @@
             "ideal_answer": [
                 "Yes,\nAsf1, a key histone H3-H4 chaperone required for this process, is phosphorylated by Tousled-like kinases (TLKs)."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "622d0aa63a8413c6530000a0",
             "snippets": [
@@ -7284,7 +7284,7 @@
             "ideal_answer": [
                 "Sphingosine-1 phosphate induces epiregulin (EREG) gene expression."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6237a6e93a8413c6530000b1",
             "snippets": [
@@ -7314,7 +7314,7 @@
             "ideal_answer": [
                 "Yes. Whole genome sequencing is a useful diagnostic test in patients with suspected mitochondrial disorders, yielding a diagnosis in a further 31% after exclusion of common causes. Most diagnoses were non-mitochondrial disorders and included developmental disorders with intellectual disability, epileptic encephalopathies, other metabolic disorders, cardiomyopathies, and leukodystrophies. These would have been missed if a targeted approach was taken, and some have specific treatments."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "62068e67c9dfcb9c09000038",
             "snippets": [
@@ -7336,7 +7336,7 @@
             "ideal_answer": [
                 "Yes, METTL3 can modulate methylation and expression of lncRNA."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "622662e13a8413c653000085",
             "snippets": [
@@ -7382,7 +7382,7 @@
             "ideal_answer": [
                 "A peptide named as SJMHE1 from Schistosoma japonicum can suppress asthma in mice."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "622f6ad13a8413c6530000aa",
             "snippets": [
@@ -7662,7 +7662,7 @@
                 "Yes. The CADM1 tumor suppressor gene is a major candidate gene in MDS with deletion of the long arm of chromosome 11.",
                 "Yes, CADM1 may be important in the physiopathology of the del(11q) MDS, extending its role as tumor-suppressor gene from solid tumors to hematopoietic malig\"\"cies with deletion of the long arm of chromosome 11."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6212c25c3a8413c653000019",
             "snippets": [
@@ -7699,7 +7699,7 @@
             "ideal_answer": [
                 "Periampullary carcinoma (PAC) a relatively rare gastrointestinal malig\"\"cy and includes Pancreaticobiliary as a subtype of Periampullary carcinoma"
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "625374a8e764a53204000027",
             "snippets": [
@@ -7802,7 +7802,7 @@
                 "Yes. SETD1A, a lysine-methyltransferase, is a key schizophrenia susceptibility gene. Mice carrying a heterozygous loss-of-function mutation of the orthologous gene exhibit alterations in axonal branching and cortical synaptic dynamics accompanied by working memory deficits. Setd1a binds both promoters and enhancers with a striking overlap between Setd1a and Mef2 on enhancers. Setd1a targets are highly expressed in pyramidal neurons and display a complex pattern of transcriptional up- and downregulations shaped by presumed opposing functions of Setd1a on promoters and Mef2-bound enhancers. Notably, evolutionarily conserved Setd1a targets are associated with neuropsychiatric genetic risk burden. Reinstating Setd1a expression in adulthood rescues cognitive deficits.",
                 "Yes. There is a mutation in the gene that codes for a protein called SetD1A. This protein is involved in the development of schizophrenia."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "62015485c9dfcb9c09000023",
             "snippets": [
@@ -7833,7 +7833,7 @@
             "ideal_answer": [
                 "Sotatercept was shown to be effective for Pulmonary Arterial Hypertension."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "61f7cca7882a024a1000002b",
             "snippets": [
@@ -7906,7 +7906,7 @@
                 "Conclusion. The German-SNOT-22 validated here matches the original SNOT-22. It is a reliable, valid and responsive questionnaire to assess symptoms, HRQOL and treatment-response in CRS-patients.",
                 "The Sino-Nasal-Outcome-Test-22 (SNOT-22) represents the reference questionnaire to assess symptoms, health-related quality-of-life (HRQOL) and treatment-response in patients with chronic rhinosinusitis (CRS)."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "624f2355e764a5320400000b",
             "snippets": [
@@ -8128,7 +8128,7 @@
             "ideal_answer": [
                 "No, pRETRO-SUPER is a retroviral vector."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "626aa563e764a53204000036",
             "snippets": [
@@ -8151,7 +8151,7 @@
                 "No. There is independence of chromatin conformation and gene regulation during Drosophila dorsoventral patterning",
                 "No. There is evidence for the independence of chromatin organization and dorsoventral gene expression in Drosophila. Tissue-specific chromatin conformation is not necessary for tissue-specific gene expression but rather acts as a scaffold facilitating gene expression when enhancers become active."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6201a85cc9dfcb9c0900002a",
             "snippets": [
@@ -8184,7 +8184,7 @@
             "ideal_answer": [
                 "No. Despite initially promising results in a randomized, open-label phase 2/3 trial, among patients who underwent tumor resection for first or second recurrence of glioblastoma or anaplastic astrocytoma, administration of Toca 511 and Toca FC did not improve overall survival or other efficacy end points."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "61faa1fcc9dfcb9c0900000a",
             "snippets": [
@@ -8239,7 +8239,7 @@
             "ideal_answer": [
                 "No. Perampanel should not be used for amyotrophic lateral sclerosis."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "61f93e68882a024a1000004d",
             "snippets": [
@@ -8280,7 +8280,7 @@
             "ideal_answer": [
                 "Yes,\ntranscription factor Satb1."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "624c88a1e764a53204000002",
             "snippets": [
@@ -8338,7 +8338,7 @@
             "ideal_answer": [
                 "Circular RNA (circRNA) are  associated with several eye diseases."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6228b3553a8413c65300008b",
             "snippets": [
@@ -8632,7 +8632,7 @@
             "ideal_answer": [
                 "Epigenetic alterations (epimutations) could thus contribute to heritable variation within populations and be subject to evolutionary processes such as natural selection and drift."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "626aaaa8e764a5320400003a",
             "snippets": [
@@ -8665,7 +8665,7 @@
             "ideal_answer": [
                 "Yes, Belimumab can be used for lupus nephritis."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "61f7d2a5882a024a10000032",
             "snippets": [
@@ -8825,7 +8825,7 @@
             "ideal_answer": [
                 "Yes,\nThe most commonly used melanocytic markers include S100, Melan-A, HMB45 and SOX10"
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "62507ca3e764a5320400000f",
             "snippets": [
@@ -8866,7 +8866,7 @@
             "ideal_answer": [
                 "No. In phase 3 clinical trials Tivantinib did not improve overall survival compared with placebo in patients with MET-high hepatocellular carcinoma despite promising phase 2 trial results."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "61f939a5882a024a1000004a",
             "snippets": [
@@ -8969,7 +8969,7 @@
                 "The EuroQol 5-Dimension Health Assessment (EQ-5D) is a widely used, simple instrument that monitors the general health-related quality of life (HRQoL) in chronic disease. It is a 6 question assessment.",
                 "The 6-question EuroQol 5-Dimension Health Assessment (EQ-5D) is a widely used, simple instrument that monitors general health-related quality of life (HRQoL) in chronic disease."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6250a545e764a53204000012",
             "snippets": [
@@ -9031,7 +9031,7 @@
             "ideal_answer": [
                 "Yes. Sacituzumab Govitecan  is a new and available treatment for metastatic triple-negative breast cancer."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "61f608d4882a024a10000023",
             "snippets": [
@@ -9253,7 +9253,7 @@
                 "Acute necrotizing encephalopathy (ANE) is a recently identified, uncommon encephalopathy affecting children. Acute necrotizing encephalopathy (ANE) is a specific type of encephalopathy usually followed by febrile infection",
                 "Acute necrotizing encephalopathy (ANE) is a specific type of encephalopathy usually followed by febrile infection"
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "622905043a8413c65300008e",
             "snippets": [
@@ -9445,7 +9445,7 @@
             "ideal_answer": [
                 "Yes, FXYD1 (encoding phospholemman) is a transmembrane protein."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6251465ae764a53204000017",
             "snippets": [
@@ -9486,7 +9486,7 @@
             "ideal_answer": [
                 "No. In a multicenter, randomized, parallel-group, double-blind, placebo-controlled trial Isradipine did not slow progression of Early Parkinson Disease."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "61f93c38882a024a1000004b",
             "snippets": [
@@ -9592,7 +9592,7 @@
             "ideal_answer": [
                 "Yes,\nSerum neurofilament light chain (sNfL) is a marker of neuroaxonal injury leading to numerous diseases such as frontotemporal dementia (FTD) and Multiple sclerosis (MS)."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "625144c9e764a53204000016",
             "snippets": [
@@ -9685,7 +9685,7 @@
                 "Is resistance training usually associated with increasing muscle hypertrophy? Yes.",
                 "While traditional resistance exercises have been widely used to promote muscle strength and hypertrophy in the elderly"
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "62532d42e764a53204000022",
             "snippets": [
@@ -10035,7 +10035,7 @@
             "ideal_answer": [
                 "No. Nerinetide did not improve the proportion of patients achieving good clinical outcomes after endovascular thrombectomy compared with patients receiving placebo."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "61f93cc7882a024a1000004c",
             "snippets": [
@@ -10074,7 +10074,7 @@
             "ideal_answer": [
                 "No. In phase 3 clinical trial Algenpantucel-L immunotherapy did not improve survival in patients with borderline resectable or locally advanced unresectable pancreatic cancer receiving SOC neoadjuvant chemotherapy and chemoradiation."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "61f938e7882a024a10000049",
             "snippets": [
@@ -10123,7 +10123,7 @@
             "ideal_answer": [
                 "Yes,\nMICAL is an oxidoreductase"
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "62515021e764a53204000018",
             "snippets": [
@@ -10169,7 +10169,7 @@
             "ideal_answer": [
                 "No. In a clinical trial Istiratumab failed to improve the efficacy of standard of care chemotherapy in metastatic pancreatic cancer patients."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "61fa9a60c9dfcb9c09000007",
             "snippets": [
@@ -10232,7 +10232,7 @@
             "ideal_answer": [
                 "Amblyopia, also called lazy eye, is a disorder of sight in which the brain fails to process inputs from one eye and over time favors the other eye. It results in decreased vision in an eye that otherwise typically appears normal"
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "605b9c2a94d57fd879000035",
             "snippets": [
@@ -10659,7 +10659,7 @@
                 "Differences in vasopressin levels in individuals suffering from the autism spectrum disorders have been demonstrated.",
                 "Preclinical research suggests that arginine vasopressin (AVP), a neuropeptide involved in promoting mammalian social behaviors, may be a possible treatment for ASD."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "603bc2b61cb411341a00015b",
             "snippets": [
@@ -10885,7 +10885,7 @@
                 "Nowadays, thalidomide is being used as an immunomodulatory drug.",
                 "Yes."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6278da4456bf9aee6f00000f",
             "snippets": [
@@ -11111,7 +11111,7 @@
                 "Yew, p85\u03b1 forms homodimers",
                 "p110\u03b1-free p85\u03b1 homodimerizes"
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6278d0a756bf9aee6f00000e",
             "snippets": [
@@ -11185,7 +11185,7 @@
                 "ACEIs and ARBs were not associated with an increased risk of Covid-19 hospitalization or with hospitalization involving ICU admission, invasive mechanical ventilation, or death.",
                 "No. ACEIs and ARBs have not been shown to increase the likelihood of severe COVID-19 hospitalization."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6276d2d956bf9aee6f000002",
             "snippets": [
@@ -11390,7 +11390,7 @@
                 "allow assessment of high-functioning boys with Duchenne muscular dystrophy.North Star Ambulatory Assessment is practical and reliable.",
                 "Yes, functional tests are a good biomarker for Duchenne Muscular Dystrophy. \nNorth Star Ambulatory Assessment is practical and reliable. allow assessment of high-functioning boys with Duchenna muscular dystrophy \nFunctional tests are used for assessment of  boys with  muscular atrophy."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6278ddfe56bf9aee6f000013",
             "snippets": [
@@ -11630,7 +11630,7 @@
                 "Findings indicate that clinical symptoms alone would be insufficient to distinguish between coronavirus disease 2019 and other respiratory infections (eg, influenza) and/or to evaluate the effects of preventive interventions (eg, vaccinations)",
                 "Findings indicate that clinical symptoms alone would be insufficient to distinguish between coronavirus disease 2019 and other respiratory infections (eg, influenza) and/or to evaluate the effects of preventive interventions (eg, vaccinations). At present, clinical workup of COVID-19 remains a hard task to accomplish."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "627926bc56bf9aee6f00001a",
             "snippets": [
@@ -11702,7 +11702,7 @@
                 "No. A lumbar puncture is contraindicated in any patient with signs of increased intracranial pressure because it may precipitate cerebral herniation and death. For this reason, a computed tomography (CT) or magnetic reso\"\"ce imaging (MRI) scan is done first. When the findings of the scan are normal, a lumbar puncture can be performed, if needed.",
                 "Lumbar puncture (LP) is usually contra-indicated in situations where the ICP is suspected to be high."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "627a6ef856bf9aee6f000020",
             "snippets": [
@@ -11796,7 +11796,7 @@
             "ideal_answer": [
                 "No. 12 months of treatment with losartan was well tolerated but was not effective in reducing the rate of brain atrophy in individuals with clinically diagnosed mild-to-moderate Alzheimer's disease."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6402c910201352f04a00000c",
             "snippets": [
@@ -11818,7 +11818,7 @@
             "ideal_answer": [
                 "Yes, PRP-40 regulation of neuronal microexons is a widely conserved phenomenon."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "63fa13da201352f04a000001",
             "snippets": [
@@ -11848,7 +11848,7 @@
                 "Casimersen is an antisense oligonucleotide drug designed to treat Duchenne muscular dystrophy (DMD) in patients with specific genetic mutations. It works by promoting exon 45 skipping during the pre-mRNA splicing process, which allows for the production of a partially functional dystrophin protein, essential for muscle function. The effectiveness of casimersen was demonstrated in a phase 3 clinical trial called ESSENCE (NCT02500381), which evaluated its safety and efficacy in DMD patients amenable to exon 45 skipping. In February 2021, the U.S. Food and Drug Administration (FDA) granted accelerated approval to casimersen (brand name Amondys 45) based on an increase in dystrophin production observed in skeletal muscle biopsies from treated patients. While this surrogate endpoint is reasonably likely to predict clinical benefit, confirmatory trials are needed to verify the drug's impact on motor function and other clinically meaningful outcomes. Overall, casimersen has shown promise as a treatment option for DMD patients with specific genetic mutations; however, further research is required to establish its long-term benefits and safety profile.",
                 "Casimersen is an FDA-approved treatment for Duchenne muscular dystrophy (DMD) in patients with a confirmed mutation of the DMD gene that is amenable to exon 45 skipping. The approval, granted on February 25, 2021, under the US FDA Accelerated Approval Program, was based on an observed increase in dystrophin production in skeletal muscle in patients treated with casimersen. This increase in dystrophin levels suggests that casimersen may be effective for treating DMD; however, further studies are needed to confirm its long-term efficacy and safety profile."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "64178e15690f196b51000020",
             "snippets": [
@@ -11884,7 +11884,7 @@
                 "No, medical hydrology and spa therapy are related but not the same. Medical hydrology involves the therapeutic use of water in a medical setting, while spa therapy uses water treatments in a relaxation and wellness setting.",
                 "Yes, medical hydrology is essentially the same as spa therapy, focusing on the use of water and its therapeutic properties for treating various health conditions."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "640e2616201352f04a00002a",
             "snippets": [
@@ -11954,7 +11954,7 @@
                 "Eteplirsen (brand name Exondys 51) is an FDA-approved drug for the treatment of Duchenne muscular dystrophy (DMD) in patients with a confirmed mutation amenable to exon 51 skipping. DMD is a rare genetic disorder characterized by progressive muscle degeneration and weakness, caused by mutations in the dystrophin gene. Eteplirsen works by promoting the skipping of exon 51 during mRNA processing, allowing for the production of a truncated but partially functional dystrophin protein.\n\nThe approval of eteplirsen was based on a small clinical trial that demonstrated an increase in dystrophin levels in treated patients. However, its clinical efficacy has been a subject of debate due to limited data on long-term functional outcomes. Some studies have reported modest improvements or stabilization in motor function, while others have not observed significant benefits. The FDA has required further clinical trials to confirm eteplirsen's effectiveness.\n\nIn summary, eteplirsen is approved for treating DMD patients with specific genetic mutations, but its overall effectiveness remains controversial. While it has shown potential in increasing dystrophin levels, more robust evidence from larger clinical trials is needed to conclusively establish its impact on long-term functional outcomes and quality of life for DMD patients.",
                 "Eteplirsen has shown effectiveness in the treatment of Duchenne muscular dystrophy (DMD) in multiple studies. In a retrospective matched control study, eteplirsen-treated patients experienced a statistically significant longer median time to loss of ambulation (LOA) by 2.09 years (5.09 vs. 3.00 years, p < 0.01) and significantly attenuated rates of pulmonary decline compared to natural history patients (FVC% change: -3.3 vs. -6.0 percentage points annually, p < 0.0001). Furthermore, at Years 3 and 4, eteplirsen-treated patients demonstrated markedly greater mean 6-minute walk test (6MWT) than controls with a difference in change from baseline of 132 m at Year 3 and 159 m at Year 4. Additionally, at Year 4, a significantly greater proportion of eteplirsen-treated patients were still ambulant versus controls (10/12 vs 3/11; p = 0.020). These findings support the long-term benefit of eteplirsen treatment in patients with DMD by attenuating ambulatory decline over a four-year observation period."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "64178e73690f196b51000023",
             "snippets": [
@@ -12000,7 +12000,7 @@
             "ideal_answer": [
                 "Yes. CIDEB mutation protects from liver disease."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "63f02a82f36125a426000013",
             "snippets": [
@@ -12061,7 +12061,7 @@
                 "The North Star Ambulatory Assessment (NSAA) score is a reliable clinical outcome measure for assessing disease progression in Duchenne Muscular Dystrophy (DMD). The NSAA is a 17-item scale designed to evaluate functional abilities in ambulant children with DMD, focusing on activities such as standing, walking, and climbing. It has been widely used in clinical trials and natural history studies to monitor disease progression and treatment efficacy. Multiple studies have demonstrated the validity, reliability, and sensitivity of the NSAA score in tracking functional decline over time in DMD patients. Furthermore, the NSAA has shown strong correlations with other established outcome measures like the 6-minute walk test (6MWT) and timed function tests. However, it is important to note that the NSAA may not be suitable for all stages of DMD, as its applicability decreases when patients lose ambulation or have severe functional limitations. In summary, the NSAA score is a valuable tool for assessing disease progression in ambulant DMD patients but should be complemented by other outcome measures depending on the patient's functional status.",
                 "The North Star Ambulatory Assessment (NSAA) is a validated 17-item functional rating scale widely used to assess motor function in boys with Duchenne muscular dystrophy (DMD). It has been shown to have high test-retest reliability for functional assessments, regardless of the time lag between assessments (up to 90 days) and across various age groups. Correlations among the functional measures and timed tests are strong, although less so with forced vital capacity (FVC). The NSAA score has been used to evaluate differences in disease progression between different genetic mutation groups and has been correlated with age at loss of ambulation (LOA) in DMD patients. Higher functional abilities at peak are associated with older age at LOA in DMD. These findings suggest that the NSAA score is a reliable clinical outcome for assessing disease progression in Duchenne muscular dystrophy."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "64105502201352f04a00002d",
             "snippets": [
@@ -12155,7 +12155,7 @@
             "ideal_answer": [
                 "Yes, four chimeric antigen receptor (CAR)-T cell therapies now approved for the treatment of B cell malig\"\"cies."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6415ca99690f196b51000019",
             "snippets": [
@@ -12194,7 +12194,7 @@
                 "Golodirsen (VYONDYS 53) is an antisense oligonucleotide drug designed to treat Duchenne muscular dystrophy (DMD) in patients with a confirmed mutation amenable to exon 53 skipping. It works by binding to a specific region of the DMD gene, allowing the cellular machinery to skip over exon 53 during mRNA processing and produce a truncated but partially functional dystrophin protein. The FDA granted accelerated approval for golodirsen in December 2019 based on an increase in dystrophin production observed in skeletal muscle biopsies from treated patients. However, the clinical benefit of golodirsen, such as improved motor function, has not been definitively established. Ongoing clinical trials are evaluating its long-term efficacy and safety profile. It is important to note that golodirsen is only applicable to a subset of DMD patients with mutations amenable to exon 53 skipping, which represents approximately 8% of the DMD population. In summary, golodirsen shows promise for treating DMD in a specific group of patients by increasing dystrophin production; however, further studies are needed to confirm its long-term effectiveness and safety.",
                 "Golodirsen is an effective treatment for a subset of Duchenne muscular dystrophy (DMD) patients with a confirmed mutation in the DMD gene amenable to exon 53 skipping, which accounts for approximately 8% of all DMD patients. In December 2019, golodirsen received its first global approval in the USA based on positive results from a phase I/II clinical trial. The drug has demonstrated increased dystrophin protein levels (16.0-fold; P\u2009<\u20090.001) and exon skipping (28.9-fold; P\u2009<\u20090.001), providing evidence for its biological activity and long-term safety in a declining DMD population. Additionally, golodirsen suggests functional benefits compared to external controls. It is one of four phosphorodiamidate morpholino oligomers (PMOs), including eteplirsen, casimersen, and viltolarsen, that have been conditionally approved by the FDA for the treatment of DMD."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "64178e4b690f196b51000022",
             "snippets": [
@@ -12257,7 +12257,7 @@
             "ideal_answer": [
                 "Yes. In two phase 3 trials involving patients with severe alopecia areata, oral baricitinib was superior to placebo with respect to hair regrowth at 36 weeks."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "63f043e4f36125a426000023",
             "snippets": [
@@ -12331,7 +12331,7 @@
                 "No, anemia is indeed associated with chronic kidney failure as it is a common complication of the condition.",
                 "Anaemia is a common manifestation ofa chronic kidney failure."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "64137616201352f04a000041",
             "snippets": [
@@ -12621,7 +12621,7 @@
                 "Deflazacort and prednisone/prednisolone are corticosteroids used in the treatment of Duchenne muscular dystrophy (DMD) to slow down disease progression and improve muscle strength. Comparative studies between deflazacort and prednisone/prednisolone have shown mixed results. A randomized controlled trial by Griggs et al. (2016) demonstrated that deflazacort was associated with a slower decline in muscle strength and function compared to prednisone, suggesting a potential advantage for deflazacort. However, other studies have reported no significant differences in efficacy between the two drugs. It is important to note that deflazacort may have a more favorable side effect profile, with reduced weight gain and less impact on linear growth compared to prednisone/prednisolone. In conclusion, while there is some evidence suggesting that deflazacort might be more efficient than prednisone/prednisolone in treating DMD, the overall data remains inconclusive. Further research is needed to establish the superiority of one drug over the other definitively.",
                 "Deflazacort and prednisone/prednisolone are both standard treatments for Duchenne muscular dystrophy (DMD) due to their ability to improve muscle strength, motor function, pulmonary function, and overall survival. Evidence from randomized clinical trials, prospective studies, meta-analyses, and post-hoc analyses suggests that patients receiving deflazacort experience similar or slower rates of functional decline compared with those receiving prednisone/prednisolone. A recent study comparing daily prednisone, daily deflazacort, and intermittent prednisone found that both daily prednisone and daily deflazacort were more effective than intermittent prednisone in improving a composite outcome comprising measures of motor function, pulmonary function, and satisfaction with treatment over three years. While the results indicate that both daily regimens are effective in managing DMD symptoms, it is not clear whether deflazacort is more efficient than prednisone/prednisolone as they show comparable efficacy in most aspects."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "64163660690f196b5100001d",
             "snippets": [
@@ -12715,7 +12715,7 @@
                 "Yes, anaphylaxis is a severe and life-threatening allergic reaction that occurs due to the activation of mast cells and basophils, which release various inflammatory mediators such as histamine, tryptase, and cytokines in response to an allergen or antigen.",
                 "Yes, anaphylaxis is a result of mast cell activation, which leads to the release of inflammatory mediators such as histamine, causing severe allergic reactions."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "64144200201352f04a000043",
             "snippets": [
@@ -13093,7 +13093,7 @@
                 "Viltolarsen is an antisense oligonucleotide drug that has shown promise in the treatment of Duchenne muscular dystrophy (DMD), specifically for patients with certain genetic mutations. DMD is a severe, progressive muscle-wasting disorder caused by mutations in the dystrophin gene. Viltolarsen works by promoting exon 53 skipping, which allows for the production of partially functional dystrophin protein in patients with amenable mutations. In a phase 2 clinical trial (NCT02740972), viltolarsen demonstrated significant improvements in dystrophin expression and motor function compared to placebo. Based on these results, viltolarsen received accelerated approval from the US Food and Drug Administration (FDA) in August 2020 under the brand name Viltepso for DMD patients amenable to exon 53 skipping therapy. However, it is important to note that this approval was based on surrogate endpoints, and further studies are needed to confirm its long-term efficacy and safety profile. Overall, viltolarsen appears to be a promising treatment option for specific subsets of DMD patients but requires additional research to fully establish its therapeutic potential.",
                 "Viltolarsen is a phosphorodiamidate morpholino antisense oligonucleotide (PMO) designed to treat Duchenne muscular dystrophy (DMD) by skipping exon 53 of the DMD gene. This process restores the reading frame of the gene, resulting in the production of a truncated but functional form of dystrophin. After demonstrating promising results in pre-clinical trials and several clinical trials conducted across North America and Japan, viltolarsen received approval from the US Food and Drug Administration (FDA) for DMD treatment in 2020. Therefore, viltolarsen has shown effectiveness in treating Duchenne muscular dystrophy by promoting the production of a functional dystrophin protein."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "64178e34690f196b51000021",
             "snippets": [
@@ -13155,7 +13155,7 @@
             "ideal_answer": [
                 "A \"virtual digital twin\" could serve to guide nutrition in a personalized manner."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6410f839201352f04a000032",
             "snippets": [
@@ -13185,7 +13185,7 @@
             "ideal_answer": [
                 "No. Pioglitazone did not delay the onset of mild cognitive impairment."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "64040edf201352f04a000011",
             "snippets": [
@@ -13207,7 +13207,7 @@
             "ideal_answer": [
                 "No, silencing of SRRM4 does not promote microexon inclusion."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "63f9cdb033942b094c000012",
             "snippets": [
@@ -13238,7 +13238,7 @@
             "ideal_answer": [
                 "No. Levosimendan was not superior to placebo in maintaining respiratory function in a broad population with amyotrophic lateral sclerosis. Although levosimendan was generally well tolerated, increased heart rate and headache occurred more frequently with levosimendan than with placebo."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "64040af9201352f04a00000d",
             "snippets": [
@@ -13304,7 +13304,7 @@
                 "Yes, iron deficiency anemia is a common complication of chronic kidney disease due to reduced erythropoietin production and decreased red blood cell lifespan, leading to decreased hemoglobin levels.",
                 "Yes, iron deficiency anemia is a common complication in patients with chronic kidney disease, especially those requiring dialysis."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "641365f6201352f04a00003a",
             "snippets": [
@@ -13966,7 +13966,7 @@
             "ideal_answer": [
                 "Amiloride reduces arrhythmogenicity through the modulation of KCNQ1 splicing. Therefore, the modulation of KCNQ1 splicing may help prevent arrhythmias."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6410ef9b201352f04a000031",
             "snippets": [
@@ -13988,7 +13988,7 @@
             "ideal_answer": [
                 "No, the disease affects mainly female patients."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6414c124690f196b51000002",
             "snippets": [
@@ -14010,7 +14010,7 @@
             "ideal_answer": [
                 "Yes, microexon mis-splicing leads to dysregulation of the Rho GTPase pathway with implications in central nervous system diseases."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "63f9cd2f33942b094c000011",
             "snippets": [
@@ -14059,7 +14059,7 @@
                 "No, prosopagnosia is also known as face blindness and is characterized by an inability to recognize faces. It is not related to lack of auditory recognition.",
                 "No, prosopagnosia is not related to auditory recognition. It is a visual agnosia that affects the ability to recognize faces."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6411b4a8201352f04a000035",
             "snippets": [
@@ -14232,7 +14232,7 @@
                 "Yes, cells undergoing necroptosis show disruption of their cell membranes due to the activation of the MLKL pseudokinase by upstream kinases, leading to membrane rupture and cell death.",
                 "Yes, cells undergoing necroptosis show disruption of their cell membranes, which is a key feature of this type of programmed cell death."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "641357bc201352f04a000039",
             "snippets": [
@@ -14427,7 +14427,7 @@
                 "No, they are not the same. LOD (limit of detection) is the lowest amount of analyte that can be detected, while LOQ (limit of quantification) is the lowest amount of analyte that can be accurately measured and quantified.",
                 "No, LOQ (Limit of Quantitation) and LOD (Limit of Detection) are not the same. LOD refers to the lowest concentration of a substance that can be detected, while LOQ is the lowest concentration that can be quantified with an acceptable level of accuracy and precision."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "641ad941690f196b5100003d",
             "snippets": [
@@ -14567,7 +14567,7 @@
                 "Recent studies have compared the performance of machine learning-based models with traditional statistical methods for survival analysis. The results suggest that machine learning-based models, such as random survival forests, gradient boosted survival model, and survival support vector machine, can outperform the Cox proportional hazard model. Additionally, DeepSurv models consistently outperformed CoxPH in terms of accuracy. However, both approaches performed best when provided with all the datasets. These findings indicate that machine learning-based methods may offer improved accuracy and predictive power for survival analysis in biomedical research. It is important to note that further research is needed to fully evaluate the potential benefits and limitations of these methods in clinical practice.",
                 "Machine learning-based methods have been shown to outperform traditional statistical methods for survival analysis in some cases. For instance, models such as random survival forests, gradient boosted survival model, and survival support vector machine can outperform the Cox proportional hazard model, a widely used statistical method in this domain (PMID: 36227551). Additionally, DeepSurv models consistently outperformed CoxPH when provided with all datasets (PMID: 33858811). These findings suggest that machine learning approaches may offer improved performance over traditional statistical methods in certain scenarios. However, it is essential to consider the specific context and dataset when choosing an appropriate method for survival analysis."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "64179337690f196b51000034",
             "snippets": [
@@ -14653,7 +14653,7 @@
             "ideal_answer": [
                 "No. Erythropoietin as an adjunct to corticosteroids conveyed neither functional nor structural neuroprotection in the visual pathways after optic neuritis."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6402c868201352f04a00000b",
             "snippets": [
@@ -14699,7 +14699,7 @@
                 "Multiple contexts indicate that infection caused by the Omicron variant of COVID-19 is less severe than infection caused by other variants. Studies have shown that Omicron is associated with milder symptoms and a lower risk of hospitalization compared to previous variants such as Delta. However, it is important to note that not all infected individuals experience a mild Omicron infection, and the severity of the illness can still vary depending on factors such as age and comorbidities.",
                 "COVID-19 caused by the Omicron variant appears to be less severe than infections caused by previous variants. Studies have reported milder symptoms and reduced hospitalization rates associated with Omicron infections. For instance, one study found a two-thirds reduction in the risk of COVID-19 hospitalization compared to the Delta variant. Another study comparing first-time SARS-CoV-2 infections during the emergence of Omicron and Delta variants found significantly less severe outcomes for Omicron cases. After adjusting for various factors, the 3-day risks of emergency department visits, hospitalizations, ICU admissions, and mechanical ventilation were consistently lower in the Omicron cohort compared to the Delta cohort. Furthermore, a large national cohort study assessing relative risks of hospital attendance, admission, or death showed that the risk of severe outcomes following SARS-CoV-2 infection is substantially lower for Omicron than for Delta. However, it is important to note that not all individuals infected with Omicron experience mild illness."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "64299b6a57b1c7a315000001",
             "snippets": [
@@ -14913,7 +14913,7 @@
             "ideal_answer": [
                 "Bexarotene is not recommended to treat patients with multiple sclerosis because of its poor tolerability and negative primary efficacy outcome."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "64040bd8201352f04a00000e",
             "snippets": [
@@ -14940,7 +14940,7 @@
                 "Analgesics or antipyretics can be taken for local or systemic side effects following vaccination since there is no evidence that they impact vaccine efficacy. However, prophylactic use of these agents before vaccination is not recommended because of the uncertain impact on the immune response to the vaccine.",
                 "Yes, short-term use of analgesics or antipyretics at non-prescription doses is unlikely to affect vaccine-induced immunity, according to available data from clinical trials of licensed COVID-19 vaccines and recommendations from public health bodies. However, prophylactic administration of antipyretic drugs at the time of vaccination is not recommended since antibody responses to several vaccine antigens may be reduced. Therapeutic treatment may be considered instead to ensure maximal vaccination efficacy and retain the possibility to treat pain and fever after vaccination."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6429ee7457b1c7a31500000b",
             "snippets": [
@@ -15083,7 +15083,7 @@
                 "Is OXLUMO (lumasiran) used for the treatment of primary hyperoxaluria                                                                                                                                                                                                                                                  ",
                 "OXLUMO (lumasiran) for the treatment of primary hyperoxaluria"
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "64281a47690f196b5100004f",
             "snippets": [
@@ -15246,7 +15246,7 @@
                 "No. There is no evidence to suggest that patients using inhaled glucocorticoids for asthma or COPD should stop these medications to prevent COVID-19. In fact, there is evidence to suggest that these medications may have a protective role in preventing severe COVID-19.",
                 "Several studies have investigated the use of inhaled corticosteroids (ICS) for patients with asthma or COPD during the COVID-19 pandemic. A meta-analysis found no significant difference in the risk for severe or fatal COVID-19 outcomes between patients who used ICS and those who did not. In fact, evidence from clinical studies suggests that ICS may have a protective role in preventing severe COVID-19 and could be a promising treatment for the disease. Additionally, patients with asthma who were regularly using ICS at home had significantly shorter hospital stays compared to those without treatment. Therefore, it is recommended that patients continue to use ICS as prescribed by their healthcare provider to maintain control of their respiratory symptoms and potentially reduce the severity of COVID-19 if they contract the virus."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6429cfb557b1c7a315000005",
             "snippets": [
@@ -15388,7 +15388,7 @@
             "ideal_answer": [
                 "No, Zanubrutinib is a next-generation BTK inhibitor."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6432f75757b1c7a31500001d",
             "snippets": [
@@ -15410,7 +15410,7 @@
             "ideal_answer": [
                 "No, Cinpanemab is not effective for Parkinson\u2019s Disease"
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "63eef94ff36125a426000010",
             "snippets": [
@@ -15432,7 +15432,7 @@
             "ideal_answer": [
                 "Yes, the CRISPR-Cas12a system can rapidly and sensitively detect circulating EGFR mutations, and thus, has potential prognostic or therapeutic implications."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "643306cc57b1c7a315000027",
             "snippets": [
@@ -15478,7 +15478,7 @@
             "ideal_answer": [
                 "Yes, PRP-40 is a central regulator of microexon splicing."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "63f9ccdc33942b094c00000f",
             "snippets": [
@@ -15502,7 +15502,7 @@
             "ideal_answer": [
                 "Yes, ocrelizumab is effective and approved for primary progressive multiple sclerosis."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6404199d201352f04a000019",
             "snippets": [
@@ -15548,7 +15548,7 @@
             "ideal_answer": [
                 "No, silencing of SRRM4 promotes tumor growth across cancers."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "63f9cdcc33942b094c000013",
             "snippets": [
@@ -15579,7 +15579,7 @@
             "ideal_answer": [
                 "Yes. Daridorexant an orally administered dual orexin type 1 and type 2 (OX1 and OX2) receptor antagonist (DORA) being developed for the treatment of insomnia."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "64041e97201352f04a00001e",
             "snippets": [
@@ -15611,7 +15611,7 @@
             "ideal_answer": [
                 "Yes. Deucravacitinib is effective for psoriasis."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "64041dae201352f04a00001d",
             "snippets": [
@@ -15663,7 +15663,7 @@
                 "DNA methylation and other heterochromatic epigenetic marks in gene introns can be sensed by protein complexes that regulate RNA processing and gene expression.",
                 "Yes, the epigenetic status of introns can affect gene expression. Recent studies have shown that DNA methylation in introns can regulate alternative splicing and affect the level of gene expression. Additionally, histone modifications in introns can also affect chromatin structure and gene expression."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6428da47690f196b51000051",
             "snippets": [
@@ -15766,7 +15766,7 @@
                 "No, Luminopsins are fusion proteins of light-sensing opsins and light-emitting luciferases.",
                 "No, luminopsins are fusion proteins of light-sensing opsins and light-emitting luciferases, not luminol and rhodopsin."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "642d4c9b57b1c7a315000013",
             "snippets": [
@@ -15829,7 +15829,7 @@
                 "No, the clinical features of COVID-19 overlap substantially with influenza and other respiratory viral illnesses. There is no way to distinguish among them without testing.",
                 "No, there isn't a definitive way to distinguish COVID-19 clinically from other respiratory illnesses, such as influenza, as they share many similar symptoms. Proper testing, such as PCR or antibody tests, is required for accurate diagnosis."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6428da98690f196b51000053",
             "snippets": [
@@ -15972,7 +15972,7 @@
                 "Yes, untranslated regions (UTRs) can regulate gene expression. UTRs are located at the ends of a gene's coding sequence and contain regulatory elements that can control the expression of the gene. These elements can affect the stability of the mRNA, the rate of translation, and the amount of protein produced. UTRs can also contain binding sites for transcription factors, which can further regulate gene expression.",
                 "Yes, untranslated regions (UTRs) can regulate gene expression by controlling mRNA stability and translation. The 5'-UTRs control transcriptional initiation and mRNA stability, while the 3'-UTRs play a key role in post-transcriptional regulation by harboring cis-acting elements that bind to RNA-binding proteins and microRNAs, thereby affecting mRNA stability and translation rates."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6428d7da690f196b51000050",
             "snippets": [
@@ -16138,7 +16138,7 @@
             "ideal_answer": [
                 "Yes, aberrations in alternative splicing have been observed in heart disease."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "63f9cbb433942b094c00000c",
             "snippets": [
@@ -16169,7 +16169,7 @@
             "ideal_answer": [
                 "No. In a phase 3 clinical trial Intepirdine as adjunctive therapy to donepezil did not produce statistical improvement over placebo on cognition or activities of daily living in mild-to-moderate Alzheimer's disease dementia patients."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "61fa941ec9dfcb9c09000005",
             "snippets": [
@@ -16211,7 +16211,7 @@
             "ideal_answer": [
                 "Yes, rilonacept is effective for pericarditis."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "61f7cb37882a024a10000029",
             "snippets": [
@@ -16283,7 +16283,7 @@
             "ideal_answer": [
                 "Yes. Tebentafusp effective for uveal melanoma."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "64041f38201352f04a00001f",
             "snippets": [
@@ -16329,7 +16329,7 @@
             "ideal_answer": [
                 "No. In a randomized clinical trial erenumab was not effective for treatment of trigeminal neuralgia."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "63f73f1b33942b094c000008",
             "snippets": [
@@ -16361,7 +16361,7 @@
             "ideal_answer": [
                 "Although there are no data regarding safety and efficacy when COVID-19 vaccines are co-administered with other vaccines, the Centers for Disease Control and Prevention (CDC) has stated that COVID-19 vaccines can be administered at any time in relation to other non-COVID-19 vaccines, and if needed, can be administered on the same day as other vaccines. This is based on the experience with non-COVID-19 vaccines, where the immunogenicity and adverse event profiles were generally similar when vaccines are administered simultaneously or alone.\n\nFurthermore, in a randomized trial, frequency of adverse effects and immunogenicity were largely similar when a COVID-19 vaccine (BNT162b2 or ChAdOx1) was given concomitantly with either an influenza vaccine or placebo."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "643c88a257b1c7a315000030",
             "snippets": [
@@ -16430,7 +16430,7 @@
                 "Music therapy has shown promising results in pain management for neonates. Several studies have demonstrated its effectiveness in reducing pain and stress levels in newborns undergoing various medical procedures. A systematic review by Hartling et al. (2009) found that music therapy, specifically live or recorded lullabies, can lead to significant reductions in heart rate, respiratory rate, and behavioral distress during painful interventions such as heel lance and venipuncture. Another study by Loewy et al. (2013) reported that music therapy reduced the need for analgesic medications and improved vital signs in premature infants receiving intensive care. Additionally, a meta-analysis by van der Heijden et al. (2016) concluded that music intervention significantly decreased pain scores in neonates during minor painful procedures. However, it is important to note that the quality of evidence varies across studies, and more rigorous research is needed to establish optimal protocols for music therapy implementation in neonatal pain management. Overall, current evidence suggests that music therapy can be an effective non-pharmacological intervention for managing pain in neonates when used alongside standard medical care.",
                 "Music therapy has shown some beneficial effects on the health of preterm infants in neonatal intensive care units, particularly for physiological and behavioral outcomes (PMID: 34919292). However, its effectiveness in pain management during specific procedures like venepuncture and heel lance is not consistently supported. One study found no additional benefit of music intervention on neonatal stress response to venepuncture in preterm infants (PMID: 31532835). Another study reported that while breastfeeding significantly reduced pain response during heel lance in healthy-term neonates, music therapy did not enhance the effect of pain relief provided by breastfeeding (PMID: 25467598). In summary, although music-based interventions may have some positive effects on preterm infants' overall health, their effectiveness in pain management during specific procedures remains inconclusive. Further research involving music therapists is needed to better understand the potential benefits of music therapy for neonatal pain management."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6441302d57b1c7a315000056",
             "snippets": [
@@ -16480,7 +16480,7 @@
             "ideal_answer": [
                 "Yes. Tripe palms sign is associated with cancer."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "63f02b50f36125a426000014",
             "snippets": [
@@ -16564,7 +16564,7 @@
                 "Yes, mutations in the SOD1 gene can cause familial Amyotrophic Lateral Sclerosis (ALS).",
                 "Yes, approximately 2% of ALS cases are caused by mutations in the SOD1 gene."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "641c516d690f196b5100003f",
             "snippets": [
@@ -16885,7 +16885,7 @@
             "ideal_answer": [
                 "Currently, no. Certain monoclonal antibodies had previously been demonstrated to prevent SARS-CoV-2 infection after exposure, but they mostly lack activity against circulating SARS-CoV-2 variants.\n\nOther agents (e.g., Hydroxychloroquine, Ivermectin, Tixagevimab/Cilgavimab) have not been shown to be effective."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "643c396457b1c7a31500002d",
             "snippets": [
@@ -17059,7 +17059,7 @@
             "ideal_answer": [
                 "Yes, RTA 408 is FDA approved."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6440092d57b1c7a315000040",
             "snippets": [
@@ -17120,7 +17120,7 @@
             "ideal_answer": [
                 "Protective and detectable immune responses are induced after SARS-CoV-2 infection but it is not yet established to what degree and for how long protection against reinfection lasts. Evidence suggests that some of these responses can be detected for at least a year following infection.\n\nThe short-term risk of reinfection (e.g., within the first several months after initial infection) is low. Several studies estimated the risk of reinfection to be less than 1 percent in the subsequent 5-8 months following initial infection. The risk of reinfection may be greater with the Omicron variant."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "643c446357b1c7a31500002f",
             "snippets": [
@@ -17345,7 +17345,7 @@
             "ideal_answer": [
                 "Artemis mutation disrupts development of adaptive immunity and leads to severe combined immunodeficiency."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "63ee5eeaf36125a426000002",
             "snippets": [
@@ -17420,7 +17420,7 @@
                 "No, Wilson's disease is not an iron storage disease. It is a copper storage disorder that affects the liver and brain.",
                 "Wilson disease is a genetic copper storage disorder that causes hepatic and neurologic symptoms."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "640c821c201352f04a000023",
             "snippets": [
@@ -17698,7 +17698,7 @@
             "ideal_answer": [
                 "No, omaveloxolone is an inhibitor of NF\u03baB."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6440084357b1c7a31500003e",
             "snippets": [
@@ -17722,7 +17722,7 @@
             "ideal_answer": [
                 "Yes. Efgartigimod is effective, approved and can be used for myasthenia gravis."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "64040d73201352f04a000010",
             "snippets": [
@@ -17775,7 +17775,7 @@
                 "Yes, Quercetin-biapigenin \"\"oparticles have been shown to be effective in penetrating the blood-brain barrier in an in vitro BBB model.",
                 "Quercetin-biapigenin \"\"oparticles are effective to penetrate the blood-brain barrier."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6422e7ba690f196b51000044",
             "snippets": [
@@ -17844,7 +17844,7 @@
             "ideal_answer": [
                 "Adenosine methylation is the most common mammalian epigenetic modification of mRNAs that is directed by a large methyltransferase complex containing Mettl3."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6429eb8457b1c7a31500000a",
             "snippets": [
@@ -17942,7 +17942,7 @@
                 "Breastfeeding has been shown to be an effective method for alleviating procedural pain in neonates. Several studies have demonstrated that breastfeeding during painful procedures, such as heel lance and venipuncture, can significantly reduce pain-related behaviors and crying time in newborns. The analgesic effect of breastfeeding is attributed to a combination of factors, including the comforting presence of the mother, skin-to-skin contact, and the release of endogenous opioids due to suckling. Additionally, breast milk contains components like lactose and tryptophan that may contribute to its pain-relieving properties. The World Health Organization (WHO) recommends breastfeeding or providing expressed breast milk as a non-pharmacological intervention for managing procedural pain in neonates. However, it is essential to consider individual circumstances and consult healthcare professionals before implementing any pain management strategy for newborns.",
                 "Breastfeeding can be used to alleviate procedural pain in neonates, as it is an effective non-pharmacological pain relief method. The duration between breastfeeding and heel lance may influence the perception of pain in newborns, with a shorter period potentially reducing pain perception. In addition to breastfeeding, mother's heartbeat sounds have also been shown to be effective in neonatal pain management. Among non-pharmacological methods, breastfeeding is considered the best, followed by non-nutritive sucking coupled with sucrose sucking. Non-pharmacological interventions like breastfeeding and non-nutritive sucking are useful primary strategies for managing pain in neonates."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "64412c2757b1c7a315000055",
             "snippets": [
@@ -17989,7 +17989,7 @@
             "ideal_answer": [
                 "Yes, lenacapavir can be used for HIV."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "64042000201352f04a000020",
             "snippets": [
@@ -18028,7 +18028,7 @@
             "ideal_answer": [
                 "No. Prehospital treatment with transdermal glyceryl trinitrate did not improve functional outcome in patients with presumed stroke."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6402c3fd201352f04a000009",
             "snippets": [
@@ -18058,7 +18058,7 @@
             "ideal_answer": [
                 "No, omaveloxolone is an activator of Nrf2."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "643ff48a57b1c7a31500003d",
             "snippets": [
@@ -18104,7 +18104,7 @@
                 "Salivary cortisol can be used as a non-invasive biomarker to evaluate pain in neonates. Several studies have demonstrated that salivary cortisol levels increase in response to painful stimuli or stressors in newborns, such as heel lance procedures and circumcision. This method offers advantages over traditional pain assessment tools, which often rely on subjective behavioral and physiological indicators that may not accurately reflect the infant's pain experience. Salivary cortisol sampling is easy to collect, minimally invasive, and causes minimal discomfort for the neonate. However, it is important to note that factors like gestational age, time of day, and previous exposure to stressors can influence cortisol levels. Therefore, while salivary cortisol has shown promise as a tool for evaluating neonatal pain, it should be used in conjunction with other established pain assessment methods to ensure accurate evaluation of an infant's pain experience.",
                 "Yes, salivary cortisol (SC) can be used to evaluate pain in neonates. A study observed an increase in SC concentrations in response to painful stimuli, and a correlation was found between Neonatal Infant Pain Scale (NIPS) scores and the increase in SC levels. This suggests that SC can serve as an objective parameter for assessing pain in neonates. The use of salivary cortisol as a biomarker for pain assessment offers a non-invasive method that could potentially improve the accuracy and reliability of neonatal pain evaluation."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "64410f8057b1c7a315000054",
             "snippets": [
@@ -18126,7 +18126,7 @@
             "ideal_answer": [
                 "No. The addition of nintedanib to chemotherapy was safe but did not improve the rate of pathological complete response in muscle-invasive bladder cancer."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6402c0d5201352f04a000008",
             "snippets": [
@@ -18148,7 +18148,7 @@
             "ideal_answer": [
                 "Neuronal-specific microexon splicing of TAF1 mRNA is directly regulated by SRRM4/nSR100."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "63f9ee5c33942b094c000014",
             "snippets": [
@@ -18192,7 +18192,7 @@
                 "Yes, twins with twin-twin transfusion syndrome are genetically identical.",
                 "Yes, in twin-twin transfusion syndrome, the twins are identical, meaning they share the same genetic material."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6431f71057b1c7a315000019",
             "snippets": [
@@ -18332,7 +18332,7 @@
                 "No, optogenetics is a technique that uses light to control genetically modified cells or neurons in living organisms.",
                 "No, optogenetics refers to a technique that uses light to control the activity of genetically modified neurons, allowing precise manipulation of neural circuits in living organisms."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6415b7b8690f196b5100000c",
             "snippets": [
@@ -18525,7 +18525,7 @@
             "ideal_answer": [
                 "Yes. DNX-2401 is tested for treatment of Diffuse Intrinsic Pontine Glioma."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "63f03155f36125a426000019",
             "snippets": [
@@ -18626,7 +18626,7 @@
                 "Functional neurological disorder (FND) is a clinical diagnosis that requires differentiation from other neurologic diseases / syndromes, and from the relatively rare diagnosis of feigning (malingering and factitious disorder).",
                 "Yes, Functional Neurological Disorder (FND) is classified as a psychosomatic disorder."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6436953757b1c7a315000028",
             "snippets": [
@@ -18830,7 +18830,7 @@
                 "Accessible enhancers are DNA sequences that can regulate gene expression by binding to transcription factors and promoting the recruitment of RNA polymerase. However, not all accessible enhancers are necessarily active. In fact, recent studies have shown that many accessible enhancers may be in a primed but inactive state, waiting for specific signals or conditions to become fully active. This is supported by evidence showing that some enhancers are only activated under certain cellular contexts or developmental stages. Additionally, it has been observed that some enhancers may be accessible but lack the necessary chromatin modifications or co-factors required for activation. Therefore, while accessibility is a necessary prerequisite for enhancer activity, it does not guarantee it. Further research is needed to better understand the mechanisms underlying enhancer activation and how they contribute to gene regulation in different biological contexts.",
                 "Recent studies suggest that the relationship between enhancer accessibility and activity is more complex than previously thought. While open chromatin is not a specific indicator of enhancer activity, active enhancers display a higher degree of accessibility than primed and repressed states. However, DNA accessibility is not likely to be the primary determi\"\"t of gene regulation, as euchromatin and heterochromatin have similar accessibilities, suggesting that transcription factors can penetrate heterochromatin. Furthermore, changes in gene expression can occur independently of changes in local chromatin accessibility in the context of a single-factor perturbation. Therefore, while accessible enhancers may be more likely to be active than their closed counterparts, other factors such as transcription factor binding are also important determi\"\"ts of enhancer activity."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "645004fa57b1c7a31500008b",
             "snippets": [
@@ -18924,7 +18924,7 @@
             "ideal_answer": [
                 "No, Prasinezumab is not effective for Parkinson\u2019s Disease."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "63eef9b6f36125a426000011",
             "snippets": [
@@ -18946,7 +18946,7 @@
             "ideal_answer": [
                 "No. AAVS3 was developed for hemophilia B."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "63f02e1bf36125a426000016",
             "snippets": [
@@ -18989,7 +18989,7 @@
                 "Yes, iron availability is essential for normal oligodendrocyte maturation as the oligodendrocytes depend on iron for their proper development, differentiation, and myelination.",
                 "Yes, iron plays a significant role in regulating oligodendrocyte maturation, contributing to myelination and proper functioning of the central nervous system."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6419d79c690f196b5100003b",
             "snippets": [
@@ -19204,7 +19204,7 @@
             "ideal_answer": [
                 "Epigenetics is defined as heritable changes in gene expression that are, unlike mutations, not attributable to alterations in the sequence of DNA. The predomi\"\"t epigenetic mechanisms are DNA methylation, modifications to chromatin, loss of imprinting, and non-coding RNA. These epigenetic programs may account for a significant fraction of the \"missing heritability\" problem that is observed in genome-wide association studies."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "644efd5157b1c7a315000086",
             "snippets": [
@@ -19559,7 +19559,7 @@
                 "Epigenetic changes are inheritable modifications that can modify gene expression without changing the DNA sequence. The most common epigenetic alternations consist of DNA methylation and histone modifications.",
                 "No, epigenetic changes do not change the DNA sequence. They are heritable modifications that can modify gene expression without altering the DNA sequence. The most common epigenetic changes consist of DNA methylation and histone modifications."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "644efd2c57b1c7a315000085",
             "snippets": [
@@ -19781,7 +19781,7 @@
             "ideal_answer": [
                 "Newly Developed Skin Picking After Methylphenidate Treatment in Attention Deficit Hyperactivity Disorder."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6414c5ba690f196b51000007",
             "snippets": [
@@ -19837,7 +19837,7 @@
                 "Enhancers are cis-regulatory elements in the genome that cooperate with promoters to control target gene transcription. Unlike promoters, enhancers are not necessarily adjacent to target genes and can exert their functions regardless of enhancer orientations, positions, and spatial segregations from target genes.",
                 "Enhancers are cis-regulatory elements in the genome that cooperate with promoters to control target gene transcription. Unlike promoters, enhancers are not necessarily adjacent to target genes and can exert their functions regardless of enhancer orientations, positions and spatial segregations from target genes."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "644f0fd257b1c7a31500008a",
             "snippets": [
@@ -19993,7 +19993,7 @@
                 "Yes, besides the well-known types 1-4 of Spinal Muscular Atrophy (SMA), there are other less common forms. These include adult-onset SMA, also known as SMA type 5 or Kennedy's disease, which is a rare X-linked recessive neuromuscular disorder caused by mutations in the androgen receptor gene. Another form is distal SMA, which affects the distal muscles of the limbs and can be further classified into several subtypes based on age of onset and inheritance pattern. Additionally, some cases of congenital SMA with arthrogryposis have been reported, characterized by joint contractures present at birth. It is important to note that these rarer forms of SMA may have overlapping clinical features with other neuromuscular disorders, making accurate diagnosis challenging. Genetic testing plays a crucial role in confirming the specific type of SMA and guiding appropriate management strategies for affected individuals.",
                 "Yes, there are other types of spinal muscular atrophy (SMA) besides the common types 1-4. One such example is spinal muscular atrophy with respiratory distress type 1 (SMARD1), which is an exceptionally rare form of SMA characterized by early-onset respiratory failure and progressive muscle weakness. Although there have been mentions of X-linked SMA in the literature, no convincing reports have been published to confirm its existence. In addition to these, research continues to uncover new genetic mutations and phenotypes associated with SMA, expanding our understanding of this group of neuromuscular disorders."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "64463f9357b1c7a31500006a",
             "snippets": [
@@ -20031,7 +20031,7 @@
             "ideal_answer": [
                 "No. Tilavonemab is not effective for progressive supranuclear palsy."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "640418af201352f04a000018",
             "snippets": [
@@ -20082,7 +20082,7 @@
                 "Current evidence suggests that SARS-CoV-2, the virus responsible for COVID-19, is not likely to be transmitted through breast milk. According to studies and case reports, the presence of the virus in breast milk has been rarely detected. The World Health Organization (WHO) and the Centers for Disease Control and Prevention (CDC) recommend that mothers with confirmed or suspected COVID-19 continue breastfeeding while following appropriate precautions, such as wearing a mask and practicing hand hygiene. Breast milk provides numerous health benefits to infants, including essential nutrients and antibodies that help protect against infections. Additionally, some research indicates that breast milk may contain specific antibodies against SARS-CoV-2, potentially offering some protection to the infant. However, it is important to note that close contact between an infected mother and her baby could still pose a risk of transmission through respiratory droplets. Therefore, it is crucial for mothers with COVID-19 to follow recommended guidelines to minimize the risk of transmission while continuing to provide the benefits of breastfeeding.",
                 "SARS-CoV-2 RNA can be found infrequently in breast milk after recent infection, but there is no evidence that breast milk contains infectious virus or that breastfeeding represents a risk factor for transmission of infection to infants. A study involving 110 lactating women found no presence of infectious SARS-CoV-2 in their milk, even when the viral RNA was detected. Based on the limited evidence available and considering the benefits of breastfeeding, it is not a contraindication for mothers with recent SARS-CoV-2 infection or detection of its RNA in human milk. Healthcare providers should encourage direct breastfeeding or extracted breast milk if the health of the mother and newborn allows, after discussing the risks of vertical transmission. However, preventive measures should be taken by COVID-19 positive mothers to prevent droplet transmission of infection to their infants while breastfeeding."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "641791ed690f196b51000032",
             "snippets": [
@@ -20260,7 +20260,7 @@
                 "Facioscapulohumeral muscular dystrophy (FSHD) is a genetic muscle disorder characterized by progressive weakness and atrophy of facial, shoulder, and upper arm muscles. Currently, there is no cure for FSHD; however, treatment options are available to manage symptoms and improve the quality of life for patients. These treatments primarily focus on supportive care and include physical therapy to maintain mobility and prevent contractures, occupational therapy to assist with daily activities, orthotic devices to provide support for weakened muscles, and pain management through medications or other interventions. In some cases, surgical intervention may be considered for scapular fixation or other procedures to address specific complications. Researchers are actively investigating potential therapies targeting the underlying genetic cause of FSHD, such as gene editing techniques and RNA-targeted approaches. Although these experimental treatments show promise in preclinical studies, they have not yet been proven effective in clinical trials. Therefore, current management of FSHD remains focused on symptom relief and maintaining function through multidisciplinary care involving medical professionals specializing in neuromuscular disorders.",
                 "Currently, there is no specific treatment or cure for Facioscapulohumeral Muscular Dystrophy (FSHD). The management of FSHD remains supportive and focuses on addressing the symptoms and improving the quality of life for patients. This slowly progressive muscular dystrophy has no approved therapies available at this time (source: http://www.ncbi.nlm.nih.gov/pubmed/35428982). Patients with FSHD may benefit from physical therapy, occupational therapy, and assistive devices to maintain mobility and function. Additionally, pain management and regular monitoring of respiratory function are essential aspects of care. Although research is ongoing to develop targeted therapies for FSHD, currently available treatments are limited to symptom management and supportive care (source: http://www.ncbi.nlm.nih.gov/pubmed/31794465)."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "644284a957b1c7a31500005c",
             "snippets": [
@@ -20300,7 +20300,7 @@
                 "Methionine is commonly considered as the first amino acid in most proteins. However, not all proteins start with methionine. In some cases, the initial methionine residue is removed post-translationally by specific enzymes called aminopeptidases. Additionally, alternative translation initiation sites can also lead to the production of protein isoforms that lack the N-terminal methionine residue. Moreover, some proteins have an initiator tRNA that carries a formylated methionine instead of a regular methionine at their N-terminus. This formyl group is usually removed later by deformylases. Therefore, while methionine is often present at the beginning of many proteins, it is not always required for proper protein function or stability.",
                 "All proteins do not necessarily start with methionine, but it is common for eukaryotic and archaeal proteins to begin with this amino acid. During the initiation of translation, the first codon in the mRNA sequence is typically an AUG codon, which codes for methionine. This process is facilitated by the initiator tRNA (tRNAi^Met) that carries methionine and recognizes the start codon. However, there are exceptions to this rule. In some cases, alternative start codons such as CUG, GUG, or UUG can be used to initiate translation in both prokaryotes and eukaryotes. These alternative start codons usually code for amino acids like leucine or valine instead of methionine. Additionally, post-translational modifications can occur after protein synthesis, leading to the removal of the initial methionine or its modification into another amino acid like acetylated methionine or formylmethionine (fMet), which is commonly found in bacterial proteins. Therefore, while many proteins do initially start with methionine due to the canonical AUG start codon, there are exceptions where alternative initiation events or post-translational modifications result in proteins that do not begin with this amino acid."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "644e642a57b1c7a315000075",
             "snippets": [
@@ -44165,7 +44165,7 @@
             "ideal_answer": [
                 "Preliminary clinical results have indicated that tocilizumab, can improve the outcomes of patients with severe or critical COVID-19 while maintaining a good safety profile."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "60258ebe1cb411341a0000a8",
             "snippets": [
@@ -44648,7 +44648,7 @@
             "ideal_answer": [
                 "No, tocilizumab, is a non-TNFi DMARD."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6025912a1cb411341a0000aa",
             "snippets": [
@@ -45351,7 +45351,7 @@
             "ideal_answer": [
                 "No, tocilizumab is a biological DMARD (bDMARD)."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "60259fe91cb411341a0000b3",
             "snippets": [
@@ -45374,7 +45374,7 @@
                 "Yes. Pathogenic SMAD6 variants substantially increase the risk of both nonsyndromic and syndromic presentations of craniosynostosis, especially metopic synostosis. Functional analysis is important to evaluate missense variants. Genotyping of rs1884302 is not clinically useful. Mechanisms to explain the remarkable diversity of phenotypes associated with SMAD6 variants remain obscure.",
                 "Yes, SMAD6 variants can cause craniosynostosis."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "601c1a271cb411341a000011",
             "snippets": [
@@ -46391,7 +46391,7 @@
                 "Yes. Genotoxic pks and E. Coli are known to cause mutations in the DNA of cells, which can lead to cell death and cancer.",
                 "Yes. Genotoxic pks and E. Coli are known to cause mutations in the DNA of cells, which can lead to cell death and cell death."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "601d75281cb411341a000043",
             "snippets": [
@@ -46641,7 +46641,7 @@
             "ideal_answer": [
                 "Exposure to bDMARDs during preg\"\"cy does not seem to interfere with post-natal development up to infancy."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "602599251cb411341a0000b1",
             "snippets": [
@@ -46676,7 +46676,7 @@
                 "No. The KMT2D missense variants do not cause KS1. They cause a different type of malformations disorder distinct from Kabuki Syndrome.",
                 "No. The KMT2D missense variants do not cause KS1, they cause a different type of malformations disorder distinct from Kabuki syndrome."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "601d46d61cb411341a000030",
             "snippets": [
@@ -46713,7 +46713,7 @@
             "ideal_answer": [
                 "Yes, cabergoline has been shown to be effective for treatment of the Nelson's syndrome."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "601c4e5e1cb411341a000021",
             "snippets": [
@@ -46865,7 +46865,7 @@
             "ideal_answer": [
                 "Yes,\nMany members of the mucin family are evolutionarily conserved and are often aberrantly expressed and glycosylated in various benign and malig\"\"t pathologies leading to tumor invasion, metastasis, and immune evasion."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "604903551cb411341a000162",
             "snippets": [
@@ -46938,7 +46938,7 @@
                 "Carpal tunnel syndrome (CTS) is the most common focal entrapment mononeuropathy, comprising medium nerve chronic inflammation and fibrosis.",
                 "Carpal tunnel syndrome is a neuropathy resulting from compression of the median nerve as it passes through a narrow tunnel in the wrist on its way to the hand."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "601d73ee1cb411341a00003f",
             "snippets": [
@@ -47273,7 +47273,7 @@
                 "No. Rare variants in PPARG with decreased activity in adipocyte differentiation are associated with increased risk of type 2 diabetes.",
                 "No. Rare variants in PPARG with decreased activity in adipocyte differentiation are associated with increased risk of type 2 diabetes"
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "602905e81cb411341a000108",
             "snippets": [
@@ -47533,7 +47533,7 @@
             "ideal_answer": [
                 "Yes, ubrogepant has entered phase III trials."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6026db1f1cb411341a0000cf",
             "snippets": [
@@ -47592,7 +47592,7 @@
                 "Yes, point mutations in PDXK gene may be associated with peripheral neuropathy.",
                 "Yes, PDXK mutations are associated with autosomal recessive polyneuropathy."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6031002d1cb411341a000129",
             "snippets": [
@@ -47686,7 +47686,7 @@
             "ideal_answer": [
                 "Yes. Avelumab is an anti-programmed death-ligand 1 monoclonal antibody that is approved for the treatment of urothelial carcinoma."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "601d76131cb411341a000044",
             "snippets": [
@@ -47896,7 +47896,7 @@
                 "Is MIS-C or Multisystem Inflammatory Syndrome in children a complication of Covid-19? Yes, it is.",
                 "Multisystem inflammatory syndrome in children (MIS-C) is a complication of Covid-19, clinically characterized by severe chronic inflammation in the central nervous system of children and adolescents."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "601dc46c1cb411341a000050",
             "snippets": [
@@ -48278,7 +48278,7 @@
             "ideal_answer": [
                 "No. Co-loss of BRCA2-RB1 in human prostate cancer cells induces an epithelial-to-mesenchymal transition, which is associated with invasiveness and a more aggressive disease phenotype."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6020010a1cb411341a00007c",
             "snippets": [
@@ -48300,7 +48300,7 @@
             "ideal_answer": [
                 "No, erenumab targets the calcitonin gene-related peptide receptor."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6028ffae1cb411341a000106",
             "snippets": [
@@ -48323,7 +48323,7 @@
             "ideal_answer": [
                 "Yes, radiosurgery is used for the DNET (Dysembryoplastic neuroepithelial) tumors. However, the level of evidence is limited."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "601c44ab1cb411341a00001c",
             "snippets": [
@@ -48385,7 +48385,7 @@
             "ideal_answer": [
                 "No. Minocycline did not delay the progress of cognitive or functional impairment in people with mild Alzheimer disease during a 2-year period."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6026754f1cb411341a0000c8",
             "snippets": [
@@ -48411,7 +48411,7 @@
                 "Yes. Genome-wide analyses indicate a association between mutations in ACVR1 and ulcerative colitis due to loss-of-function mutations in ADCY7.",
                 "Yes, there is an association of alterations in ADCY7 and ulcerative colitis."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "60290a131cb411341a000109",
             "snippets": [
@@ -48436,7 +48436,7 @@
             "ideal_answer": [
                 "Yes,\nmucins are overexpressed in various malig\"\"cies and inflammations."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "604906ed1cb411341a000163",
             "snippets": [
@@ -48483,7 +48483,7 @@
             "ideal_answer": [
                 "Nerinetide did not improve the proportion of ischemic stroke patients achieving good clinical outcomes after endovascular thrombectomy compared with patients receiving placebo."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6025fdf41cb411341a0000c0",
             "snippets": [
@@ -48513,7 +48513,7 @@
             "ideal_answer": [
                 "Yes, there are several small molecule CGRPs under development for the treatment of migraine."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6026de661cb411341a0000d1",
             "snippets": [
@@ -48543,7 +48543,7 @@
             "ideal_answer": [
                 "No, eptinezumab is a humanized monoclonal antibody."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6026ee821cb411341a0000d3",
             "snippets": [
@@ -48566,7 +48566,7 @@
                 "To identify therapeutics that can be repurposed as SARS-CoV-2 antivirals, a library of known drugs encompassing approximately 12,000 clinical-stage or FDA-approved small molecules were profiled. In a study the identification of 30 known drugs that inhibit viral replication was reportedd. Of these, six were characterized for cellular dose-activity relationships, and showed effective concentrations likely to be commensurate with therapeutic doses in patients. These include the PIKfyve kinase inhibitor Apilimod, cysteine protease inhibitors MDL-28170, Z LVG CHN2, VBY-825, and ONO 5334, and the CCR1 antagonist MLN-3897. Since many of these molecules have advanced into the clinic, the known pharmacological and human safety profiles of these compounds will accelerate their preclinical and clinical evaluation for COVID-19 treatment.",
                 "Yes, apilimod inhibition is effective for treatment of SARS-CoV-2."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "60324b771cb411341a000139",
             "snippets": [
@@ -48589,7 +48589,7 @@
             "ideal_answer": [
                 "No. Treatment with lanabecestat was well tolerated and did not slow cognitive or functional decline of Alzheimer's disease patients."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "602673e91cb411341a0000c7",
             "snippets": [
@@ -48643,7 +48643,7 @@
             "ideal_answer": [
                 "Yes, among children and young adults with newly diagnosed overt type 1 diabetes, golimumab resulted in better endogenous insulin production and less exogenous insulin use than placebo."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "601c46f61cb411341a00001d",
             "snippets": [
@@ -48691,7 +48691,7 @@
             "ideal_answer": [
                 "Yes,\nRAS GTPase-activating protein-binding protein (G3BP1) is an RNA-binding protein that is essential for assembling stress granules."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "604fc22894d57fd879000008",
             "snippets": [
@@ -49363,7 +49363,7 @@
                 "Yes. IL18 signaling plays a key role in the regulation of thymus function.",
                 "Yes. IL18 signaling plays a crucial role in thymus regulation and differentiation."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6060e1a094d57fd879000049",
             "snippets": [
@@ -49433,7 +49433,7 @@
                 "An  antiphlogistic drug counteracts inflammation",
                 "Antiinflammatory agents: new series of N-substituted amino acids with complex pyrimidine structures endowed with antiphlogistic activity."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "601c18921cb411341a00000f",
             "snippets": [
@@ -49558,7 +49558,7 @@
             "ideal_answer": [
                 "Yes, liraglutide is effective and approved for weight reduction."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6020ad161cb411341a000082",
             "snippets": [
@@ -49740,7 +49740,7 @@
             "ideal_answer": [
                 "No. In a clinical trial, the incidence of progression in Familial Adenomatous Polyposis was not significantly lower with the combination of eflornithine and sulindac than with either drug alone."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6020b0e21cb411341a000085",
             "snippets": [
@@ -49831,7 +49831,7 @@
             "ideal_answer": [
                 "Yes. Olaparib has antitumour activity against metastatic castration-resistant prostate cancer with DDR gene aberrations."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "602498cb1cb411341a00009e",
             "snippets": [
@@ -50037,7 +50037,7 @@
             "ideal_answer": [
                 "No. Long-term treatment with immediate-release isradipine did not slow the clinical progression of early-stage Parkinson's disease."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6025fd261cb411341a0000bf",
             "snippets": [
@@ -50067,7 +50067,7 @@
             "ideal_answer": [
                 "Yes, MK-1602 is a CGRP antagonist."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6026c1071cb411341a0000cb",
             "snippets": [
@@ -50097,7 +50097,7 @@
             "ideal_answer": [
                 "\u039d\u03bf. Inactivation of CYLD in intestinal epithelial cells exacerbates colitis-associated colorectal carcinogenesis."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6027dc011cb411341a0000eb",
             "snippets": [
@@ -50141,7 +50141,7 @@
                 "Yes. There is high nucleotide diversity within the Drosophila suzukii species.",
                 "Yes. There is high nucleotide diversity within and between populations of Drosophila suzukii, manifesting both in gene expression patterns and genomic locations."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "60290c2b1cb411341a00010a",
             "snippets": [
@@ -50183,7 +50183,7 @@
                 "Yes, the X Chromosome is associated with the X chromosome.",
                 "Yes, Hunter's disease is associated with the X Chromosome."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "60327e541cb411341a00013e",
             "snippets": [
@@ -50432,7 +50432,7 @@
             "ideal_answer": [
                 "Yes, Rheumatoid arthritis (RA) was induced by Freund's Complete Adjuvant (FCA; 1 mg/0.1 ml paraffin oil), injected subcutaneously on days 0, 30 and 40"
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "60328f351cb411341a000145",
             "snippets": [
@@ -50482,7 +50482,7 @@
             "ideal_answer": [
                 "Yes,\nsaponin is an ideal adjuvant candidate."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "603291f21cb411341a000146",
             "snippets": [
@@ -50546,7 +50546,7 @@
                 "Erabutoxin b is a short-chain neurotoxic peptide purified from the venom of the sea snake Laticauda semifasciata.",
                 "No, erabutoxin b is not found in plants, it is a transmembrane toxin"
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "603bc16b1cb411341a000158",
             "snippets": [
@@ -50668,7 +50668,7 @@
             "ideal_answer": [
                 "Yes,\nGram-negative bacteria and endogenous molecules coordinate to trigger inflammatory cascades via Toll-like receptor 4 to induce excessive expression of cytokines such as tumor necrosis factor-\u03b1 and to activate NLRP3 inflammasome, a multiprotein complex that processes pro-interleukin-1\u03b2 into its mature form."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "603285861cb411341a000141",
             "snippets": [
@@ -50761,7 +50761,7 @@
                 "Yes, Ixodes is a species of tick.",
                 "ixodid ticks hard ticks (family Ixodidae)"
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "603e43d51cb411341a00015e",
             "snippets": [
@@ -51194,7 +51194,7 @@
                 "No. The HbA1c is a biomarker with a central role in the diagnosis and follow-up of patients with diabetes mellitus, although not a perfect one. It is associated with high morbidity and mortality, and is not an ideal biomarker for assessment of well-controlled diabetes.",
                 "No, HbA1c is not an ideal biomarker of well-controlled diabetes."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "60367f5e1cb411341a000157",
             "snippets": [
@@ -51217,7 +51217,7 @@
             "ideal_answer": [
                 "Yes,\nMajor royal jelly proteins (named MRJP1-5) of honeybee (Apis mellifera), yellow proteins of Drosophila, together with putative proteins found in several bacteria, form a protein family termed the MRJP/yellow family."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6057003594d57fd879000020",
             "snippets": [
@@ -51258,7 +51258,7 @@
             "ideal_answer": [
                 "Yes,\nthe Apis mellifera genome is available since 2006."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6057014c94d57fd879000022",
             "snippets": [
@@ -51312,7 +51312,7 @@
             "ideal_answer": [
                 "Yes,\nOlive pollen is a major allergenic source worldwide due to its extensive cultivation. We have combined available genomics data with a comprehensive proteomics approach to get the annotated olive tree (Olea europaea L.) pollen proteome and define its complex allergenome."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "60570af094d57fd879000025",
             "snippets": [
@@ -51337,7 +51337,7 @@
             "ideal_answer": [
                 "Yes,\ncadherin is a plasma membrane protein marker."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6060c7c094d57fd879000046",
             "snippets": [
@@ -51786,7 +51786,7 @@
             "ideal_answer": [
                 "No, atenolol is metabolized in a CYP2D6-independent manner."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "605e3c8294d57fd879000037",
             "snippets": [
@@ -51810,7 +51810,7 @@
             "ideal_answer": [
                 "Yes,\nThe glucocorticoid receptor (GR) is a ligand-activated transcription factor that translocates to the nucleus upon hormone stimulation and distributes between the nucleoplasm and membraneless compartments named nuclear foci."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "606b3b6794d57fd879000064",
             "snippets": [
@@ -51849,7 +51849,7 @@
                 "Yes. Sex differences have been observed in multiple facets of cancer epidemiology, treatment and biology, and in most cancers outside the sex organs. There are sex-biases in coding and non-coding cancer drivers, mutation prevalence and strikingly, in mutational signatures related to underlying mutational processes.",
                 "Yes. There are sex differences in oncogenic mutational processes."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "601fff6a1cb411341a00007b",
             "snippets": [
@@ -51871,7 +51871,7 @@
             "ideal_answer": [
                 "Yes, metoprolol is metabolized by CYP2D6."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "606a232a94d57fd87900004c",
             "snippets": [
@@ -51910,7 +51910,7 @@
                 "No, curare is an antagonist of acetylcholine-induced currents that binds to the choline receptor.",
                 "No, curare is an inhibitor of acetylcholine-induced currents that only blocks the N-terminal glutamine-rich channel."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "60292e1b1cb411341a000111",
             "snippets": [
@@ -52161,7 +52161,7 @@
             "ideal_answer": [
                 "Yes, belimumab appears to effective for the lupus nephritis."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6020ab801cb411341a000081",
             "snippets": [
@@ -52308,7 +52308,7 @@
             "ideal_answer": [
                 "Yes, dupilumab has been approved by FDA for atopic dermatitis."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "606b718994d57fd87900006b",
             "snippets": [
@@ -52355,7 +52355,7 @@
             "ideal_answer": [
                 "No. Randomized clinical trial did not find any superior effects of cerebrolysin for patients with aneurysmal subarachnoid hemorrhage."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6025dd0c1cb411341a0000b9",
             "snippets": [
@@ -52387,7 +52387,7 @@
             "ideal_answer": [
                 "Yes, Bacterial extracellular vesicles (EVs) are bilayered lipid membrane structures, bearing integral proteins and able to carry diverse cargo outside the cell to distant sites."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "603213ea1cb411341a000131",
             "snippets": [
@@ -52429,7 +52429,7 @@
             "ideal_answer": [
                 "No. According to clinical trial data tranexamic acid does not improve outcomes of patients with intracerebral haemorrhage."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6025ddde1cb411341a0000ba",
             "snippets": [
@@ -52486,7 +52486,7 @@
             "ideal_answer": [
                 "Yes,\nThe innate immune system, in particular the type I interferon (IFN) response, is a powerful defence against virus infections."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "60490dc71cb411341a000167",
             "snippets": [
@@ -52535,7 +52535,7 @@
             "ideal_answer": [
                 "Yes\nhoney contain the protein amylase."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "60354a7b1cb411341a000154",
             "snippets": [
@@ -52575,7 +52575,7 @@
                 "Yes, adenosine signaling is prognostic for cancer outcome.",
                 "Yes, adenosine signaling has been shown to be prognostic for cancer outcome."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "601ecab41cb411341a000065",
             "snippets": [
@@ -53136,7 +53136,7 @@
             "ideal_answer": [
                 "No. Combination of capmatinib buparlisib resulted in no clear activity in patients with recurrent PTEN-deficient glioblastoma."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6025db0e1cb411341a0000b8",
             "snippets": [
@@ -53161,7 +53161,7 @@
             "ideal_answer": [
                 "Yes,\nJelleines, isolated as novel antibacterial peptides from the Royal Jelly (RJ) of bees, exhibit broad-spectrum protection against microbial infections."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6057151094d57fd879000027",
             "snippets": [
@@ -53208,7 +53208,7 @@
             "ideal_answer": [
                 "No. Thiotepa did not improve survival of patients with osteosarcoma and therefore can not be recommended for treatment of osteosarcoma."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6025e2641cb411341a0000bb",
             "snippets": [
@@ -53262,7 +53262,7 @@
                 "Yes. The comet assay is frequently used to measure DNA damage in individual cells.",
                 "Yes, a comet assay measures radiation-induced mutations in DNA."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "601db7fb1cb411341a00004a",
             "snippets": [
@@ -53556,7 +53556,7 @@
             "ideal_answer": [
                 "Yes, the HercepTest has received FDA approval."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "606c017294d57fd879000076",
             "snippets": [
@@ -53590,7 +53590,7 @@
             "ideal_answer": [
                 "Yes, Pck1 is a rate-limiting gluconeogenic enzyme, where its deficiency or mutation contributes to serious clinical situations as neonatal hypoglycemia and liver failure."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6033f5541cb411341a00014c",
             "snippets": [
@@ -53644,7 +53644,7 @@
             "ideal_answer": [
                 "Yes, FTY720 is a strong candidate for stroke treatment."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "605265ee94d57fd87900000d",
             "snippets": [
@@ -53676,7 +53676,7 @@
             "ideal_answer": [
                 "Yes,\ncolistin is an antibiotic."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6081af3c4e6a4cf630000008",
             "snippets": [
@@ -53737,7 +53737,7 @@
                 "yes, tocilizumab (actemra) is used to block/antagonize the  il-6 receptor.",
                 "Yes. Tocilizumab (Actemra) is an anti-IL-6 receptor antagonist. It is a monoclonal antibody against the receptor."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "602e84e61cb411341a000126",
             "snippets": [
@@ -54171,7 +54171,7 @@
                 "Mutational load considerations lead to the conclusion that the functional fraction within the human genome cannot exceed 25%, and is probably considerably lower.",
                 "yes, there is an upper limit on the functional fraction of the human genome."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6060df1e94d57fd879000047",
             "snippets": [
@@ -54195,7 +54195,7 @@
                 "No. Cap analysis of gene expression (CAGE) is a method used for single-nucleotide resolution detection of RNA polymerase II transcription start sites (TSSs). Accurate detection of TSSs enhances identification and discovery of core promoters. In addition, active enhancers can be detected through signatures of bidirectional transcription initiation. Described here is a protocol for performing super-low input carrier-CAGE (SLIC-CAGE). The SLIC adaptation of the CAGE protocol minimizes RNA losses by artificially increasing the RNA amount through use of an in vitro transcribed RNA carrier mix that is added to the sample of interest, thus enabling library preparation from \"\"ogram-amounts of total RNA (i.e., thousands of cells).",
                 "No, the super-low input carrier-CAGE (SLIC-Cage) is not used for quantification of translation."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "601ec5661cb411341a000063",
             "snippets": [
@@ -54245,7 +54245,7 @@
             "ideal_answer": [
                 "No. Hypofractionated radiotherapy does not offers benefit when compared to conventional fractionated radiation therapy for DIPG."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6025fa371cb411341a0000be",
             "snippets": [
@@ -54326,7 +54326,7 @@
                 "yes, progeria is caused by an autosomal recessive gene.",
                 "Yes. Progeria is caused by an autosomal recessive gene."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "601d72e61cb411341a000039",
             "snippets": [
@@ -54571,7 +54571,7 @@
                 "Acupotomy has been used to treat frozen shoulder, cervical spondylosis, third lumbar vertebrae transverse process syndrome, trigger finger, knee osteoarthritis, and lumbar spinal stenosis.",
                 "Yes. Acupotomy has been widely used to treat nerve entrapment syndrome.  URL_0"
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "601d73c71cb411341a00003e",
             "snippets": [
@@ -54850,7 +54850,7 @@
             "ideal_answer": [
                 "Ofatumumab, a fully human anti-CD20 monoclonal antibody, is effective for relapsing forms of multiple sclerosis."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "60234bd51cb411341a000093",
             "snippets": [
@@ -54948,7 +54948,7 @@
                 "Yes. Dickkopf-1 (DKK1) expression is increased in double-negative prostate cancer (DNPC) relative to prostate-specific antigen (PSA)-expressing Metastatic castration-resistant prostate cancer (mCRPC).",
                 "Yes, Dickkopf-1 (DKK-1) stimulated prostate cancer growth and metastasis and inhibited bone formation in osteoblastic bone metastases."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "60206bae1cb411341a00007d",
             "snippets": [
@@ -55035,7 +55035,7 @@
             "ideal_answer": [
                 "Yes, AZD9668 has been tested in clinical trials."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "602c28551cb411341a000123",
             "snippets": [
@@ -55336,7 +55336,7 @@
             "ideal_answer": [
                 "No. Synonymous sites in primates exhibited evidence for higher selective constraint that those in rodents. In primates up to 24% of synonymous sites could be under purifying selection, while in rodents synonymous sites evolved neutrally."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6060e03394d57fd879000048",
             "snippets": [
@@ -55361,7 +55361,7 @@
                 "Yes. The data show that TFII-I acts as a repressor of \u03b2-globin gene transcription and that it is implicated in the differentiation of erythro-megakaryocytic cells.",
                 "Yes. TFII-I acts as a repressor of \u03b2-globin gene transcription and it is implicated in the differentiation of erythrocytes and megakaryopoiesis.  In fact, upregulation of TF II-I expression in mesenchymal stem cells increases both survival and angiogenesis and may therefore represent a novel and efficient therapeutic approach for modulating cell proliferation and differentiation."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6027f7171cb411341a0000ec",
             "snippets": [
@@ -55393,7 +55393,7 @@
             "ideal_answer": [
                 "Yes,\ncerebrospinal fluid (CSF) YKL-40 levels were reported to be a promising candidate biomarker of glial inflammation in Alzheimer's disease (AD)."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "604915581cb411341a00016a",
             "snippets": [
@@ -55448,7 +55448,7 @@
             "ideal_answer": [
                 "Yes, propofol can cause green discoloration of urine. It is a rare and benign condition, which occurs when clearance of propofol exceeds the hepatic and extrahepatic elimination."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "601c3f041cb411341a000018",
             "snippets": [
@@ -55832,7 +55832,7 @@
             "ideal_answer": [
                 "Yes, Gram-negative and Gram-positive bacteria release a variety of membrane vesicles through different formation routes."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6032187e1cb411341a000132",
             "snippets": [
@@ -55871,7 +55871,7 @@
             "ideal_answer": [
                 "No. Treatment with vocimagene amiretrorepvec did not improve survival of glioblastoma patients."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "6025d88c1cb411341a0000b6",
             "snippets": [
@@ -55903,7 +55903,7 @@
             "ideal_answer": [
                 "Yes.  Panitumumab is EGFR inhibitor that is associated with eyelash trichomegaly."
             ],
-            "concepts": "",
+            "concepts": [],
             "type": "yesno",
             "id": "601cb7a61cb411341a000026",
             "snippets": [
