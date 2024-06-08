@@ -5,7 +5,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "61f80d5d882a024a1000003c",
+				"id": "61f80d5d882a024a1000003c_001",
 				"question": "Do only changes in coding regions of MEF2C cause developmental disorders?"
 			  }
 			],
@@ -14,7 +14,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "62211c853a8413c65300006d",
+				"id": "62211c853a8413c65300006d_001",
 				"question": "Is CircRNA produced by back splicing of exon, intron or both, forming exon or intron circRNA?"
 			  }
 			],
@@ -23,7 +23,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "620c27e93a8413c653000006",
+				"id": "620c27e93a8413c653000006_001",
 				"question": "Is METTL1 overexpression associated with better patient survival?"
 			  }
 			],
@@ -32,7 +32,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "61f80c37882a024a1000003b",
+				"id": "61f80c37882a024a1000003b_001",
 				"question": "Do mutations in KCNT2 only cause phenotypes with epilepsy?"
 			  }
 			],
@@ -41,7 +41,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "61f593f8882a024a1000000f",
+				"id": "61f593f8882a024a1000000f_001",
 				"question": "Is there an association between pyostomatitis vegetans and Crohn's disease?"
 			  }
 			],
@@ -50,7 +50,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6217e1ac3a8413c653000031",
+				"id": "6217e1ac3a8413c653000031_001",
 				"question": "Is serotonin transported by platelets?"
 			  }
 			],
@@ -59,7 +59,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "61f59592882a024a10000010",
+				"id": "61f59592882a024a10000010_001",
 				"question": "Is Sotrovimab effective for COVID-19?"
 			  }
 			],
@@ -68,7 +68,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "621b5bcc3a8413c65300003d",
+				"id": "621b5bcc3a8413c65300003d_001",
 				"question": "Is Otolin-1 a matrix protein?"
 			  }
 			],
@@ -77,7 +77,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "620aedee3a8413c653000001",
+				"id": "620aedee3a8413c653000001_001",
 				"question": "Is AGO2 related to cytokinesis?"
 			  }
 			],
@@ -86,7 +86,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "621b61833a8413c65300003e",
+				"id": "621b61833a8413c65300003e_001",
 				"question": "Is the protein HOXA11 associated with endometrial disease?"
 			  }
 			],
@@ -95,7 +95,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "621ed10f3a8413c653000062",
+				"id": "621ed10f3a8413c653000062_001",
 				"question": "Are Tregs CD4(+)CD25(+) regulatory T cells a positive regulator of the immune response?"
 			  }
 			],
@@ -104,7 +104,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5fdb4100a43ad31278000015",
+				"id": "5fdb4100a43ad31278000015_001",
 				"question": "Is Mediator present at super enhancers?"
 			  }
 			],
@@ -113,7 +113,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "62057b35c9dfcb9c0900002d",
+				"id": "62057b35c9dfcb9c0900002d_001",
 				"question": "Does atemoya juice inhibit the CYP1A2 enzyme?"
 			  }
 			],
@@ -122,7 +122,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6217dc9d3a8413c65300002d",
+				"id": "6217dc9d3a8413c65300002d_001",
 				"question": "Is NfL (neurofilament light chain) a biomarker of neurodegeneration?"
 			  }
 			],
@@ -131,7 +131,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "621ebec63a8413c65300005d",
+				"id": "621ebec63a8413c65300005d_001",
 				"question": "Is Epistaxis associated with dental implant placement?"
 			  }
 			],
@@ -140,7 +140,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "61f58a1a882a024a10000009",
+				"id": "61f58a1a882a024a10000009_001",
 				"question": "Is Daprodustat effective for anemia?"
 			  }
 			],
@@ -149,7 +149,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "621218353a8413c653000013",
+				"id": "621218353a8413c653000013_001",
 				"question": "Is REGN5458 a single-targeted antibody?"
 			  }
 			],
@@ -158,7 +158,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6020a7391cb411341a00007e",
+				"id": "6020a7391cb411341a00007e_001",
 				"question": "Is Benralizumab effective for Chronic Spontaneous Urticaria?"
 			  }
 			],
@@ -167,16 +167,16 @@
 		  {
 			"qas": [
 			  {
-				"id": "6217dd013a8413c65300002f",
+				"id": "6217dd013a8413c65300002f_001",
 				"question": "Do the proteins Talin and Amot interact?"
 			  }
 			],
-			"context": "we show that amot binds talin and is essential for relaying forces between fibronectin and the cytoskeleton\nwe show that menin physically interacts with proteins involved in the canonical wnt signaling pathway, including beta - catenin, tcf3 ( tcfl1 ), and weakly with tcf4 ( tcfl2 ).\nbinds to otolin - 1 and forming matrix protein architectures\notolin - 1 is a collagen - like protein expressed in the inner ear of vertebrates.\notoconia matrix protein, otolin - 1\n. we demonstrate that tiam1 shuttles between the cytoplasm and nucleus antagonizing taz / yap by distinct mechanisms in the two compartments\nthe human vitamin e - binding protein afamin\nwhile analyzing chromatin immunoprecipitation data sets from 21 sequence - specific transcription factors active in the drosophila embryo, we found that binding of all factors exhibits a dose - dependent relationship with \" tagteam \" sequence motifs bound\ntlks interact specifically ( and phosphorylate ) with the chromatin assembly factor asf1, a histone h3 - h4 chaperone\ntryptic cleavage and peptide sequence analysis demonstrated that the 98 - kd protein is identical to a recently cloned protein, special a - t - rich binding protein 1 ( satb1 )"
+			"context": "we show that amot binds talin and is essential for relaying forces between fibronectin and the cytoskeleton\nwe show that menin physically interacts with proteins involved in the canonical wnt signaling pathway, including beta - catenin, tcf3 ( tcfl1 ), and weakly with tcf4 ( tcfl2 ).\nbinds to otolin - 1 and forming matrix protein architectures\notolin - 1 is a collagen - like protein expressed in the inner ear of vertebrates.\notoconia matrix protein, otolin - 1\n. we demonstrate that tiam1 shuttles between the cytoplasm and nucleus antagonizing taz / yap by distinct mechanisms in the two compartments\nthe human vitamin e - binding protein afamin\nwhile analyzing chromatin immunoprecipitation data sets from 21 sequence - specific transcription factors active in the drosophila embryo, we found that binding of all factors exhibits a dose - dependent relationship with \" tagteam \" sequence motifs bound\ntlks interact specifically ( and phosphorylate ) with the chromatin assembly factor asf1, a histone h3 - h4 chaperone\nmammalian otolin : a multimeric glycoprotein specific to the inner ear that interacts with otoconial matrix protein otoconin - 90 and cerebellin - 1"
 		  },
 		  {
 			"qas": [
 			  {
-				"id": "6220cbf83a8413c653000067",
+				"id": "6220cbf83a8413c653000067_001",
 				"question": "Do RNA binding Proteins  that bind to adenine uridine (AU)-rich elements (AREs) in the 5' untranslated region (UTR) of mRNAs (AU-RBPs) regulate the DNA Damage Response?"
 			  }
 			],
@@ -185,7 +185,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6211566a3a8413c653000010",
+				"id": "6211566a3a8413c653000010_001",
 				"question": "Has CPX-351 been approved by the FDA and the EMA?"
 			  }
 			],
@@ -194,7 +194,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6217dc173a8413c65300002b",
+				"id": "6217dc173a8413c65300002b_001",
 				"question": "Do we find bacteriophages in the gut?"
 			  }
 			],
@@ -203,7 +203,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "601d6fe11cb411341a000033",
+				"id": "601d6fe11cb411341a000033_001",
 				"question": "Is tirabrutinib effective for lymphoma?"
 			  }
 			],
@@ -212,7 +212,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "621ea5a53a8413c653000055",
+				"id": "621ea5a53a8413c653000055_001",
 				"question": "Are Epoxyeicosatrienoic acids (EETs) synthesized by cytochrome P450 epoxygenases from arachidonic acid?"
 			  }
 			],
@@ -221,7 +221,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6027446d1cb411341a0000dd",
+				"id": "6027446d1cb411341a0000dd_001",
 				"question": "Does trimetazidine protect from myocardial injury after percutaneous coronary intervention?"
 			  }
 			],
@@ -230,7 +230,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "62211d6f3a8413c65300006f",
+				"id": "62211d6f3a8413c65300006f_001",
 				"question": "Are circRNAs susceptible to degradation by RNase R?"
 			  }
 			],
@@ -239,7 +239,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "62057f1ec9dfcb9c0900002e",
+				"id": "62057f1ec9dfcb9c0900002e_001",
 				"question": "Does atemoya juice inhibit tye CYP3A4 enzyme?"
 			  }
 			],
@@ -248,7 +248,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6217db763a8413c653000028",
+				"id": "6217db763a8413c653000028_001",
 				"question": "Is Mycobacterium abscessus a human pathogen?"
 			  }
 			],
@@ -257,7 +257,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "62121c583a8413c653000016",
+				"id": "62121c583a8413c653000016_001",
 				"question": "Is MEDI2228 a bispecific antibody?"
 			  }
 			],
@@ -266,7 +266,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "601c4ff61cb411341a000022",
+				"id": "601c4ff61cb411341a000022_001",
 				"question": "Is proton beam therapy used for treatment of craniopharyngioma?"
 			  }
 			],
@@ -275,7 +275,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "601d73261cb411341a00003a",
+				"id": "601d73261cb411341a00003a_001",
 				"question": "Is there a genetic cause of craniostenosis?"
 			  }
 			],
@@ -284,7 +284,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "620586a8c9dfcb9c09000032",
+				"id": "620586a8c9dfcb9c09000032_001",
 				"question": "Can bergapten cross the blood-brain barrier?"
 			  }
 			],
@@ -293,7 +293,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "620be4fd3a8413c653000002",
+				"id": "620be4fd3a8413c653000002_001",
 				"question": "Does TIMELESS-TIPIN participate in replisome disassembly?"
 			  }
 			],
@@ -302,7 +302,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "60570fe494d57fd879000026",
+				"id": "60570fe494d57fd879000026_001",
 				"question": "Is hemoglobin antimicrobial?"
 			  }
 			],
@@ -311,7 +311,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "620588f9c9dfcb9c09000033",
+				"id": "620588f9c9dfcb9c09000033_001",
 				"question": "Can bergapten cause phototoxicity?"
 			  }
 			],
@@ -320,7 +320,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6217d9bf3a8413c653000024",
+				"id": "6217d9bf3a8413c653000024_001",
 				"question": "Can IFNg induce the expression of IDO?"
 			  }
 			],
@@ -329,7 +329,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "602c2ade1cb411341a000124",
+				"id": "602c2ade1cb411341a000124_001",
 				"question": "Are TAMs good anticancer therapeutic targets?"
 			  }
 			],
@@ -338,7 +338,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6027434c1cb411341a0000dc",
+				"id": "6027434c1cb411341a0000dc_001",
 				"question": "Is gabapentin effective for chronic pelvic pain?"
 			  }
 			],
@@ -347,7 +347,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6056fbfc94d57fd87900001d",
+				"id": "6056fbfc94d57fd87900001d_001",
 				"question": "Does the royal jelly contain proteins?"
 			  }
 			],
@@ -356,7 +356,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6217c0b63a8413c65300001e",
+				"id": "6217c0b63a8413c65300001e_001",
 				"question": "Does UBE4B promote renal cancer?"
 			  }
 			],
@@ -365,7 +365,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6025d9e41cb411341a0000b7",
+				"id": "6025d9e41cb411341a0000b7_001",
 				"question": "Does addition of valproic acid improve survival of patients with diffuse intrinsic pontine glioma?"
 			  }
 			],
@@ -374,7 +374,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "621b950f3a8413c653000044",
+				"id": "621b950f3a8413c653000044_001",
 				"question": "Is SMOC2 expressed during wound healing?"
 			  }
 			],
@@ -383,7 +383,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "620580afc9dfcb9c0900002f",
+				"id": "620580afc9dfcb9c0900002f_001",
 				"question": "Does daily atemoya juice intake change the pharmacokinetics of CYP1A2 substrates?"
 			  }
 			],
@@ -392,7 +392,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "61f602a3882a024a1000001f",
+				"id": "61f602a3882a024a1000001f_001",
 				"question": "Is Cabotegravir effective for HIV prevention?"
 			  }
 			],
@@ -401,7 +401,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "62211b973a8413c65300006c",
+				"id": "62211b973a8413c65300006c_001",
 				"question": "Are G-quadruplexes(G4) possible drug targets for glioblastoma?"
 			  }
 			],
@@ -410,7 +410,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "622608ea3a8413c653000079",
+				"id": "622608ea3a8413c653000079_001",
 				"question": "Is RUNX1T1 associate with obesity?"
 			  }
 			],
@@ -419,7 +419,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "61f9cb19c9dfcb9c09000002",
+				"id": "61f9cb19c9dfcb9c09000002_001",
 				"question": "Is Adamts18 deficiency associated with cancer?"
 			  }
 			],
@@ -428,7 +428,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "61f5f89b882a024a10000019",
+				"id": "61f5f89b882a024a10000019_001",
 				"question": "Is Ozanimod effective for Ulcerative Colitis?"
 			  }
 			],
@@ -437,7 +437,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "621bd38d3a8413c653000046",
+				"id": "621bd38d3a8413c653000046_001",
 				"question": "Is esophageal adenocarcinoma associated with aberrant glycosylation?"
 			  }
 			],
@@ -446,7 +446,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "622629d13a8413c65300007e",
+				"id": "622629d13a8413c65300007e_001",
 				"question": "Can FTO promote pancreatic cancer development?"
 			  }
 			],
@@ -455,7 +455,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "621b8dee3a8413c653000042",
+				"id": "621b8dee3a8413c653000042_001",
 				"question": "Is Lysozyme abundant in human tears?"
 			  }
 			],
@@ -464,7 +464,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6052715494d57fd87900000e",
+				"id": "6052715494d57fd87900000e_001",
 				"question": "Is FTY720 FDA approved?"
 			  }
 			],
@@ -473,7 +473,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "621d19cc3a8413c65300004a",
+				"id": "621d19cc3a8413c65300004a_001",
 				"question": "Is cytokeratin a tumor marker?"
 			  }
 			],
@@ -482,7 +482,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "602596691cb411341a0000ad",
+				"id": "602596691cb411341a0000ad_001",
 				"question": "Is tofacitinib a JAK inhibitor?"
 			  }
 			],
@@ -491,7 +491,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "60292dc61cb411341a000110",
+				"id": "60292dc61cb411341a000110_001",
 				"question": "\u0391re plants from the genus Strychnos the original source of curare?"
 			  }
 			],
@@ -500,7 +500,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "61f9605f882a024a1000004f",
+				"id": "61f9605f882a024a1000004f_001",
 				"question": "Are variants in FHF2 (also known as FGF13) associated with encephalopathy?"
 			  }
 			],
@@ -509,7 +509,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "602c26171cb411341a000122",
+				"id": "602c26171cb411341a000122_001",
 				"question": "Is AZD9668 a VEGF mRNA drug?"
 			  }
 			],
@@ -518,7 +518,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "603400051cb411341a00014e",
+				"id": "603400051cb411341a00014e_001",
 				"question": "Is histone variant H3.3K27M associated with gliomas?"
 			  }
 			],
@@ -527,7 +527,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6081a83f4e6a4cf630000007",
+				"id": "6081a83f4e6a4cf630000007_001",
 				"question": "Is FKBP52 encoding a chaperone ?"
 			  }
 			],
@@ -536,7 +536,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "62004357c9dfcb9c09000015",
+				"id": "62004357c9dfcb9c09000015_001",
 				"question": "Does \u03b1CGRP have amyloidogenic properties?"
 			  }
 			],
@@ -545,7 +545,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "60282c3f1cb411341a0000fe",
+				"id": "60282c3f1cb411341a0000fe_001",
 				"question": "Is istiratumab effective for pancreatic cancer?"
 			  }
 			],
@@ -554,7 +554,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "601efda31cb411341a000069",
+				"id": "601efda31cb411341a000069_001",
 				"question": "Does bleomycin cause lung toxicity?"
 			  }
 			],
@@ -563,7 +563,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6082f4374e6a4cf63000000f",
+				"id": "6082f4374e6a4cf63000000f_001",
 				"question": "Is Keutel syndrome a common genetic disorder?"
 			  }
 			],
@@ -572,7 +572,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "601d724a1cb411341a000035",
+				"id": "601d724a1cb411341a000035_001",
 				"question": "Is fusobacterium associated with Lemierre's syndrome?"
 			  }
 			],
@@ -581,7 +581,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "621fd6083a8413c653000066",
+				"id": "621fd6083a8413c653000066_001",
 				"question": "Unlike DNA, RNA is not methylated, yes or no?"
 			  }
 			],
@@ -590,7 +590,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "620155b6c9dfcb9c09000024",
+				"id": "620155b6c9dfcb9c09000024_001",
 				"question": "Is covid-19 induced anosmia caused by disruption of nuclear architecture?"
 			  }
 			],
@@ -599,7 +599,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "622dd1433a8413c6530000a5",
+				"id": "622dd1433a8413c6530000a5_001",
 				"question": "Is taxilin a cancer marker?"
 			  }
 			],
@@ -608,7 +608,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "622668313a8413c653000087",
+				"id": "622668313a8413c653000087_001",
 				"question": "Is PCAT6 a microRNA?"
 			  }
 			],
@@ -617,7 +617,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6201a4edc9dfcb9c09000028",
+				"id": "6201a4edc9dfcb9c09000028_001",
 				"question": "Is HDAC1 required for GATA-1 transcriptional activity?"
 			  }
 			],
@@ -626,7 +626,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "623a24d6f0baec9a1b000002",
+				"id": "623a24d6f0baec9a1b000002_001",
 				"question": "Is telomestatin, a novel statin drug used to treat high cholesterol?"
 			  }
 			],
@@ -635,7 +635,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "61f7d4da882a024a10000033",
+				"id": "61f7d4da882a024a10000033_001",
 				"question": "Is there an association between Guillain\u2013Barr\u00e9 syndrome and covid vaccine?"
 			  }
 			],
@@ -644,7 +644,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "61fa904fc9dfcb9c09000004",
+				"id": "61fa904fc9dfcb9c09000004_001",
 				"question": "Is Erythropoietin effective for neuroprotection of Preterm Infants."
 			  }
 			],
@@ -653,7 +653,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6226317a3a8413c653000080",
+				"id": "6226317a3a8413c653000080_001",
 				"question": "Is Ameloblastoma (AB) a common benign tumor occurring in the brain?"
 			  }
 			],
@@ -662,7 +662,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "622901d23a8413c65300008c",
+				"id": "622901d23a8413c65300008c_001",
 				"question": "Is Ameloblastoma (AB) a benign tumor that never metastasizes?"
 			  }
 			],
@@ -671,7 +671,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "620157bec9dfcb9c09000025",
+				"id": "620157bec9dfcb9c09000025_001",
 				"question": "Is there any role of the 'Greek islands' in olfactory receptor choice?"
 			  }
 			],
@@ -680,7 +680,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "622dc4b63a8413c6530000a4",
+				"id": "622dc4b63a8413c6530000a4_001",
 				"question": "Is paxillin affected by RANKL?"
 			  }
 			],
@@ -689,7 +689,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "622b95dc3a8413c653000092",
+				"id": "622b95dc3a8413c653000092_001",
 				"question": "Is retinol binding protein 4 an adipokine?"
 			  }
 			],
@@ -698,7 +698,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "622ce21d3a8413c65300009c",
+				"id": "622ce21d3a8413c65300009c_001",
 				"question": "Is HYDIN (Hydrocephalus-inducing protein homolog) an axonemal protein?"
 			  }
 			],
@@ -707,7 +707,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "621e62c33a8413c653000050",
+				"id": "621e62c33a8413c653000050_001",
 				"question": "Are there any R packages that help with visualizing data on spirals?"
 			  }
 			],
@@ -716,7 +716,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "61faa3bac9dfcb9c0900000b",
+				"id": "61faa3bac9dfcb9c0900000b_001",
 				"question": "Was ALVAC-HIV effective for HIV prevention in the HVTN 702 trial?"
 			  }
 			],
@@ -725,7 +725,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "622baf3f3a8413c653000099",
+				"id": "622baf3f3a8413c653000099_001",
 				"question": "Do Afamin bind Vitamin E?"
 			  }
 			],
@@ -734,7 +734,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "622632483a8413c653000081",
+				"id": "622632483a8413c653000081_001",
 				"question": "Is disruption of immune regulation mechanisms associated with adverse pregnancy outcomes, including preeclampsia (PE)?"
 			  }
 			],
@@ -743,7 +743,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "62266c353a8413c65300008a",
+				"id": "62266c353a8413c65300008a_001",
 				"question": "Can autophagy related lncRNAs be used for colorectal cancer prognosis?"
 			  }
 			],
@@ -752,7 +752,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "621e9aa13a8413c653000053",
+				"id": "621e9aa13a8413c653000053_001",
 				"question": "Are there roles for cohesin mutations in AML?"
 			  }
 			],
@@ -761,7 +761,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "622d0aa63a8413c6530000a0",
+				"id": "622d0aa63a8413c6530000a0_001",
 				"question": "Is ASF1 phopshorylated by  the Tousled-like kinases?"
 			  }
 			],
@@ -770,7 +770,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6237a6e93a8413c6530000b1",
+				"id": "6237a6e93a8413c6530000b1_001",
 				"question": "Does sphingosine-1 phosphoate suppress epiregulin?"
 			  }
 			],
@@ -779,7 +779,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "62068e67c9dfcb9c09000038",
+				"id": "62068e67c9dfcb9c09000038_001",
 				"question": "Can whole genome sequencing be used for diagnosis of mitochondrial disease?"
 			  }
 			],
@@ -788,7 +788,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "622662e13a8413c653000085",
+				"id": "622662e13a8413c653000085_001",
 				"question": "Can METTL3 methylate long noncoding RNAs?"
 			  }
 			],
@@ -797,7 +797,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "622f6ad13a8413c6530000aa",
+				"id": "622f6ad13a8413c6530000aa_001",
 				"question": "Can parasite infections by Schistosoma japonicum prevent or improve asthma?"
 			  }
 			],
@@ -806,7 +806,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6212c25c3a8413c653000019",
+				"id": "6212c25c3a8413c653000019_001",
 				"question": "Is there a role for CADM1 in Myelodysplastic syndrome (MDS)?"
 			  }
 			],
@@ -815,7 +815,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "625374a8e764a53204000027",
+				"id": "625374a8e764a53204000027_001",
 				"question": "Is periampullary carcinoma (PAC) a relatively rare genitourinary malignancy"
 			  }
 			],
@@ -824,7 +824,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "62015485c9dfcb9c09000023",
+				"id": "62015485c9dfcb9c09000023_001",
 				"question": "Do SETD1A mutations predispose to schizophrenia?"
 			  }
 			],
@@ -833,7 +833,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "61f7cca7882a024a1000002b",
+				"id": "61f7cca7882a024a1000002b_001",
 				"question": "Is Sotatercept effective for Pulmonary Arterial Hypertension?"
 			  }
 			],
@@ -842,7 +842,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "624f2355e764a5320400000b",
+				"id": "624f2355e764a5320400000b_001",
 				"question": "Is the 22-item sino-nasal outcome test (SNOT-22) a widely used measure for Health-Related Quality-of-Life (HRQOL) associated with chronic rhinosinusitis (CRS)?"
 			  }
 			],
@@ -851,7 +851,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "626aa563e764a53204000036",
+				"id": "626aa563e764a53204000036_001",
 				"question": "Is pRETRO-SUPER an adenoviral vector?"
 			  }
 			],
@@ -860,7 +860,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6201a85cc9dfcb9c0900002a",
+				"id": "6201a85cc9dfcb9c0900002a_001",
 				"question": "Is there a dependence between chromatin organization and dorsoventral gene expression in Drosophila?"
 			  }
 			],
@@ -869,7 +869,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "61faa1fcc9dfcb9c0900000a",
+				"id": "61faa1fcc9dfcb9c0900000a_001",
 				"question": "Is vocimagene amiretrorepvec effective for recurrent high-grade glioma?"
 			  }
 			],
@@ -878,7 +878,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "61f93e68882a024a1000004d",
+				"id": "61f93e68882a024a1000004d_001",
 				"question": "Should perampanel be used for amyotrophic lateral sclerosis?"
 			  }
 			],
@@ -887,7 +887,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "624c88a1e764a53204000002",
+				"id": "624c88a1e764a53204000002_001",
 				"question": "Is Satb1 a transcription factor?"
 			  }
 			],
@@ -896,7 +896,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6228b3553a8413c65300008b",
+				"id": "6228b3553a8413c65300008b_001",
 				"question": "Are circular RNAs implicated in diseases of the eye?"
 			  }
 			],
@@ -905,7 +905,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "626aaaa8e764a5320400003a",
+				"id": "626aaaa8e764a5320400003a_001",
 				"question": "Can epigenetic modifications be heritable?"
 			  }
 			],
@@ -914,7 +914,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "61f7d2a5882a024a10000032",
+				"id": "61f7d2a5882a024a10000032_001",
 				"question": "Is Belimumab used for lupus nephritis?"
 			  }
 			],
@@ -923,7 +923,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "62507ca3e764a5320400000f",
+				"id": "62507ca3e764a5320400000f_001",
 				"question": "Is SOX10 expressed in melanoma cells?"
 			  }
 			],
@@ -932,7 +932,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "61f939a5882a024a1000004a",
+				"id": "61f939a5882a024a1000004a_001",
 				"question": "Is tivantinib effective for MET-high hepatocellular carcinoma?"
 			  }
 			],
@@ -941,7 +941,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6250a545e764a53204000012",
+				"id": "6250a545e764a53204000012_001",
 				"question": "Is EuroQol 5-Dimension Health Assessment (EQ-5D) [a widely used, simple instrument that monitors the general health-related quality of life (HRQoL) in chronic disease] a 5 question assessment?"
 			  }
 			],
@@ -950,7 +950,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "61f608d4882a024a10000023",
+				"id": "61f608d4882a024a10000023_001",
 				"question": "Is sacituzumab govitecan effective for breast cancer?"
 			  }
 			],
@@ -959,7 +959,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "622905043a8413c65300008e",
+				"id": "622905043a8413c65300008e_001",
 				"question": "Is Acute Necrotizing Encephalopathy (ANE) which typically affects young, healthy children usually triggered by exposure to air pollution?"
 			  }
 			],
@@ -968,7 +968,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6251465ae764a53204000017",
+				"id": "6251465ae764a53204000017_001",
 				"question": "Is Phospholemman a membrane protein?"
 			  }
 			],
@@ -977,7 +977,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "61f93c38882a024a1000004b",
+				"id": "61f93c38882a024a1000004b_001",
 				"question": "Can Isradipine slow progression of Early Parkinson Disease?"
 			  }
 			],
@@ -986,7 +986,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "625144c9e764a53204000016",
+				"id": "625144c9e764a53204000016_001",
 				"question": "Is neurofilament light marker for disease?"
 			  }
 			],
@@ -995,7 +995,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "62532d42e764a53204000022",
+				"id": "62532d42e764a53204000022_001",
 				"question": "Is resistance training usually associated with increasing muscle hypertrophy?"
 			  }
 			],
@@ -1004,7 +1004,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "61f93cc7882a024a1000004c",
+				"id": "61f93cc7882a024a1000004c_001",
 				"question": "Is nerinetide effective for ischaemic stroke?"
 			  }
 			],
@@ -1013,7 +1013,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "61f938e7882a024a10000049",
+				"id": "61f938e7882a024a10000049_001",
 				"question": "Is Algenpantucel-L effective for pancreatic cancer?"
 			  }
 			],
@@ -1022,7 +1022,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "62515021e764a53204000018",
+				"id": "62515021e764a53204000018_001",
 				"question": "Is Mical an oxidoreductase?"
 			  }
 			],
@@ -1031,7 +1031,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "61fa9a60c9dfcb9c09000007",
+				"id": "61fa9a60c9dfcb9c09000007_001",
 				"question": "Should istiratumab be used for Pancreatic Cancer?"
 			  }
 			],
@@ -1040,7 +1040,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "605b9c2a94d57fd879000035",
+				"id": "605b9c2a94d57fd879000035_001",
 				"question": "Does Amblyopia affect the eye?"
 			  }
 			],
@@ -1049,7 +1049,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "603bc2b61cb411341a00015b",
+				"id": "603bc2b61cb411341a00015b_001",
 				"question": "Is autism thought to be related to the  Arginine Vasopressin Peptide (AVP)?"
 			  }
 			],
@@ -1058,7 +1058,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6278da4456bf9aee6f00000f",
+				"id": "6278da4456bf9aee6f00000f_001",
 				"question": "Is thalidomide used as an immunomodulatory drug nowadays?"
 			  }
 			],
@@ -1067,7 +1067,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6278d0a756bf9aee6f00000e",
+				"id": "6278d0a756bf9aee6f00000e_001",
 				"question": "Does p85\u03b1 homodimerize?"
 			  }
 			],
@@ -1076,7 +1076,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6276d2d956bf9aee6f000002",
+				"id": "6276d2d956bf9aee6f000002_001",
 				"question": "Do angiotensin-converting-enzyme (ACE) inhibitors and angiotensin receptor blockers (ARBs) increase the likelihood of severe COVID-19?"
 			  }
 			],
@@ -1085,7 +1085,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6278ddfe56bf9aee6f000013",
+				"id": "6278ddfe56bf9aee6f000013_001",
 				"question": "Are functional tests a good biomarker for Duchenne Muscular Dystrophy?"
 			  }
 			],
@@ -1094,7 +1094,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "627926bc56bf9aee6f00001a",
+				"id": "627926bc56bf9aee6f00001a_001",
 				"question": "Is there a way to distinguish COVID-19 clinically from other respiratory illnesses, particularly influenza?"
 			  }
 			],
@@ -1103,7 +1103,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "627a6ef856bf9aee6f000020",
+				"id": "627a6ef856bf9aee6f000020_001",
 				"question": "Is lumbar puncture the first test that should be performed on a patient with increased intracranial pressure?"
 			  }
 			],
@@ -1112,7 +1112,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6402c910201352f04a00000c",
+				"id": "6402c910201352f04a00000c_001",
 				"question": "Can losartan reduce brain atrophy in Alzheimer's disease?"
 			  }
 			],
@@ -1121,7 +1121,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "63fa13da201352f04a000001",
+				"id": "63fa13da201352f04a000001_001",
 				"question": "Is PRP-40 regulation of microexons a conserved phenomenon?"
 			  }
 			],
@@ -1130,7 +1130,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "64178e15690f196b51000020",
+				"id": "64178e15690f196b51000020_001",
 				"question": "Is casimersen effective for the treatment of Duchenne muscular dystrophy?"
 			  }
 			],
@@ -1139,7 +1139,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "640e2616201352f04a00002a",
+				"id": "640e2616201352f04a00002a_001",
 				"question": "Is medical hydrology the same as Spa therapy?"
 			  }
 			],
@@ -1148,7 +1148,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "64178e73690f196b51000023",
+				"id": "64178e73690f196b51000023_001",
 				"question": "Is eteplirsen effective for the treatment of Duchenne muscular dystrophy?"
 			  }
 			],
@@ -1157,7 +1157,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "63f02a82f36125a426000013",
+				"id": "63f02a82f36125a426000013_001",
 				"question": "Does CIDEB mutation protect from liver disease?"
 			  }
 			],
@@ -1166,7 +1166,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "64105502201352f04a00002d",
+				"id": "64105502201352f04a00002d_001",
 				"question": "Is North Star Ambulatory Assessment score a reliable clinical outcome for disease progression assessment in Duchenne Muscular Dystrophy?"
 			  }
 			],
@@ -1175,7 +1175,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6415ca99690f196b51000019",
+				"id": "6415ca99690f196b51000019_001",
 				"question": "Have chimeric antigen receptor (CAR)-T cell therapies been approved for the treatment of B cell malignancies?"
 			  }
 			],
@@ -1184,7 +1184,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "64178e4b690f196b51000022",
+				"id": "64178e4b690f196b51000022_001",
 				"question": "Is golodirsen effective for the treatment of Duchenne muscular dystrophy?"
 			  }
 			],
@@ -1193,7 +1193,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "63f043e4f36125a426000023",
+				"id": "63f043e4f36125a426000023_001",
 				"question": "Is Baricitinib effective for Alopecia Areata?"
 			  }
 			],
@@ -1202,7 +1202,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "64137616201352f04a000041",
+				"id": "64137616201352f04a000041_001",
 				"question": "Anemia is not associated with chronic kidney failure"
 			  }
 			],
@@ -1211,7 +1211,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "64163660690f196b5100001d",
+				"id": "64163660690f196b5100001d_001",
 				"question": "Is deflazacort more efficient than prednisone/prednisolone for the treatment of Duchenne muscular dystrophy?"
 			  }
 			],
@@ -1220,7 +1220,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "64144200201352f04a000043",
+				"id": "64144200201352f04a000043_001",
 				"question": "Is anaphylaxis a results of mast cell activation?"
 			  }
 			],
@@ -1229,7 +1229,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "64178e34690f196b51000021",
+				"id": "64178e34690f196b51000021_001",
 				"question": "Is viltolarsen effective for the treatment of Duchenne muscular dystrophy?"
 			  }
 			],
@@ -1238,7 +1238,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6410f839201352f04a000032",
+				"id": "6410f839201352f04a000032_001",
 				"question": "Can the concept of digital twins be applied in Precision Nutrition?"
 			  }
 			],
@@ -1247,7 +1247,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "64040edf201352f04a000011",
+				"id": "64040edf201352f04a000011_001",
 				"question": "Based on clinical trial data, can pioglitazone delay cognitive impairment for people at risk for Alzheimer's disease?"
 			  }
 			],
@@ -1256,7 +1256,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "63f9cdb033942b094c000012",
+				"id": "63f9cdb033942b094c000012_001",
 				"question": "Does silencing of SRRM4 promote microexon inclusion?"
 			  }
 			],
@@ -1265,7 +1265,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "64040af9201352f04a00000d",
+				"id": "64040af9201352f04a00000d_001",
 				"question": "Is levosimendan effective for amyotrophic lateral sclerosis?"
 			  }
 			],
@@ -1274,7 +1274,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "641365f6201352f04a00003a",
+				"id": "641365f6201352f04a00003a_001",
 				"question": "Is Iron deficiency anemia a common complication of chronic kidney disease?"
 			  }
 			],
@@ -1283,7 +1283,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6410ef9b201352f04a000031",
+				"id": "6410ef9b201352f04a000031_001",
 				"question": "Can modulation of KCNQ1 splicing prevent arrhythmias?"
 			  }
 			],
@@ -1292,7 +1292,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6414c124690f196b51000002",
+				"id": "6414c124690f196b51000002_001",
 				"question": "Is trichotillomania encountered with equali frequency in males and females?"
 			  }
 			],
@@ -1301,16 +1301,16 @@
 		  {
 			"qas": [
 			  {
-				"id": "63f9cd2f33942b094c000011",
+				"id": "63f9cd2f33942b094c000011_001",
 				"question": "Does microexon alternative splicing of small GTPase regulators have implication in central nervous system diseases?"
 			  }
 			],
-			"context": "microexon alternative splicing of small gtpase regulators : implication in central nervous system diseases.\nprp - 40 is particularly required for inclusion of neuronal microexons, and our data indicate that prp - 40 is a central regulator of microexon splicing\n. knockdown of the orthologous prpf40a in mouse neuroblastoma cells causes widespread dysregulation of microexons but not conventionally sized exons. prp - 40 regulation of neuronal microexons is therefore a widely conserved phenomenon.\nneuronal - specific microexon splicing of taf1 mrna is directly regulated by srrm4 / nsr100.\nin this review, we summarize current knowledge about gene expression regulators - long non - coding and circular rna molecules in eye diseases\nwell as circrnas generated from intronic lariats during colinear splicing, may exhibit physiologically relevant regulatory functions in eukaryotes.\nspanning exons 38 and 39 and affecting highly conserved residues cause a novel multiple malformations syndrome distinct from ks1\nexamination of x - linked degs, such as gtpbp6, taf9l, and cxorf21, that show verbal cognition - gene expression correlations may establish a causal link between these genes, neurodevelopment, and language function.\ngenes that escape x - inactivation in humans have high intraspecific variability in expression, are associated with mental impairment but are not slow evolving.\nde novo mutations in regulatory elements in neurodevelopmental disorders. we previously estimated that 42 % of patients with severe developmental disorders carry pathogenic de novo mutations in coding sequences."
+			"context": "microexon alternative splicing of small gtpase regulators : implication in central nervous system diseases.\nprp - 40 is particularly required for inclusion of neuronal microexons, and our data indicate that prp - 40 is a central regulator of microexon splicing\n. knockdown of the orthologous prpf40a in mouse neuroblastoma cells causes widespread dysregulation of microexons but not conventionally sized exons. prp - 40 regulation of neuronal microexons is therefore a widely conserved phenomenon.\nneuronal - specific microexon splicing of taf1 mrna is directly regulated by srrm4 / nsr100.\nin this review, we summarize current knowledge about gene expression regulators - long non - coding and circular rna molecules in eye diseases\nwell as circrnas generated from intronic lariats during colinear splicing, may exhibit physiologically relevant regulatory functions in eukaryotes.\nspanning exons 38 and 39 and affecting highly conserved residues cause a novel multiple malformations syndrome distinct from ks1\nexamination of x - linked degs, such as gtpbp6, taf9l, and cxorf21, that show verbal cognition - gene expression correlations may establish a causal link between these genes, neurodevelopment, and language function.\ngenes that escape x - inactivation in humans have high intraspecific variability in expression, are associated with mental impairment but are not slow evolving.\n. microexons can be relieved from prp - 40 dependence by artificially increasing exon size or reducing flanking intron size, indicating that prp - 40 is specifically required for microexons surrounded by conventionally sized introns"
 		  },
 		  {
 			"qas": [
 			  {
-				"id": "6411b4a8201352f04a000035",
+				"id": "6411b4a8201352f04a000035_001",
 				"question": "Is prosopagnosia also known as lack of auditory recognition?"
 			  }
 			],
@@ -1319,7 +1319,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "641357bc201352f04a000039",
+				"id": "641357bc201352f04a000039_001",
 				"question": "Do cells undergoing necroptosis show disruption of their cell membranes?"
 			  }
 			],
@@ -1328,7 +1328,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "641ad941690f196b5100003d",
+				"id": "641ad941690f196b5100003d_001",
 				"question": "Are LOQ and LOD the same?"
 			  }
 			],
@@ -1337,7 +1337,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "64179337690f196b51000034",
+				"id": "64179337690f196b51000034_001",
 				"question": "Do machine learning-based methods outperform statistical methods for survival analysis?"
 			  }
 			],
@@ -1346,7 +1346,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6402c868201352f04a00000b",
+				"id": "6402c868201352f04a00000b_001",
 				"question": "Was erythropoietin effective for optic neuritis in the TONE trial?"
 			  }
 			],
@@ -1355,7 +1355,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "64299b6a57b1c7a315000001",
+				"id": "64299b6a57b1c7a315000001_001",
 				"question": "Is COVID-19 caused by the Omicron variant less severe than infection caused by other variants?"
 			  }
 			],
@@ -1364,7 +1364,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "64040bd8201352f04a00000e",
+				"id": "64040bd8201352f04a00000e_001",
 				"question": "Should be used bexarotene for relapsing-remitting multiple sclerosis?"
 			  }
 			],
@@ -1373,7 +1373,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6429ee7457b1c7a31500000b",
+				"id": "6429ee7457b1c7a31500000b_001",
 				"question": "Can analgesics or antipyretics be taken for side effects following COVID-19 vaccination?"
 			  }
 			],
@@ -1382,7 +1382,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "64281a47690f196b5100004f",
+				"id": "64281a47690f196b5100004f_001",
 				"question": "Is OXLUMO (lumasiran) used for the treatment of primary hyperoxaluria?"
 			  }
 			],
@@ -1391,7 +1391,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6429cfb557b1c7a315000005",
+				"id": "6429cfb557b1c7a315000005_001",
 				"question": "Should patients using inhaled glucocorticoids for asthma or COPD be advised to stop these medications to prevent COVID-19?"
 			  }
 			],
@@ -1400,7 +1400,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6432f75757b1c7a31500001d",
+				"id": "6432f75757b1c7a31500001d_001",
 				"question": "Is Zanubrutinib a first-generation BTK inhibitor approved by US Food and Drug Administration (FDA)?"
 			  }
 			],
@@ -1409,7 +1409,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "63eef94ff36125a426000010",
+				"id": "63eef94ff36125a426000010_001",
 				"question": "Is Cinpanemab effective for Parkinson\u2019s Disease?"
 			  }
 			],
@@ -1418,7 +1418,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "643306cc57b1c7a315000027",
+				"id": "643306cc57b1c7a315000027_001",
 				"question": "Can CRISPR/Cas12a be used for the detection of EGFR mutations in circulating DNA?"
 			  }
 			],
@@ -1427,7 +1427,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "63f9ccdc33942b094c00000f",
+				"id": "63f9ccdc33942b094c00000f_001",
 				"question": "Is PRP-40 involved in microexon splicing?"
 			  }
 			],
@@ -1436,7 +1436,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6404199d201352f04a000019",
+				"id": "6404199d201352f04a000019_001",
 				"question": "Is ocrelizumab effective for primary progressive multiple sclerosis?"
 			  }
 			],
@@ -1445,7 +1445,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "63f9cdcc33942b094c000013",
+				"id": "63f9cdcc33942b094c000013_001",
 				"question": "Does silencing of SRRM4 inhibit tumor growth across cancers?"
 			  }
 			],
@@ -1454,7 +1454,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "64041e97201352f04a00001e",
+				"id": "64041e97201352f04a00001e_001",
 				"question": "Is daridorexant effective for insomnia?"
 			  }
 			],
@@ -1463,7 +1463,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "64041dae201352f04a00001d",
+				"id": "64041dae201352f04a00001d_001",
 				"question": "Is deucravacitinib effective for psoriasis?"
 			  }
 			],
@@ -1472,7 +1472,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6428da47690f196b51000051",
+				"id": "6428da47690f196b51000051_001",
 				"question": "Can the epigenetic status of introns affect gene expression?"
 			  }
 			],
@@ -1481,7 +1481,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "642d4c9b57b1c7a315000013",
+				"id": "642d4c9b57b1c7a315000013_001",
 				"question": "Are Luminopsins a fusion proteins of luminol and Rhodopsin ?"
 			  }
 			],
@@ -1490,7 +1490,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6428da98690f196b51000053",
+				"id": "6428da98690f196b51000053_001",
 				"question": "Is there a way to distinguish COVID-19 clinically from other respiratory illnesses, such as influenza?"
 			  }
 			],
@@ -1499,7 +1499,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6428d7da690f196b51000050",
+				"id": "6428d7da690f196b51000050_001",
 				"question": "Can untranslated regions (UTRs) regulate gene expression?"
 			  }
 			],
@@ -1508,7 +1508,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "63f9cbb433942b094c00000c",
+				"id": "63f9cbb433942b094c00000c_001",
 				"question": "Is alternative splicing associated with heart disease?"
 			  }
 			],
@@ -1517,7 +1517,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "61fa941ec9dfcb9c09000005",
+				"id": "61fa941ec9dfcb9c09000005_001",
 				"question": "Should Intepirdine be used for Alzheimer's disease?"
 			  }
 			],
@@ -1526,7 +1526,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "61f7cb37882a024a10000029",
+				"id": "61f7cb37882a024a10000029_001",
 				"question": "Is rilonacept effective for pericarditis?"
 			  }
 			],
@@ -1535,7 +1535,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "64041f38201352f04a00001f",
+				"id": "64041f38201352f04a00001f_001",
 				"question": "Is tebentafusp effective for uveal melanoma?"
 			  }
 			],
@@ -1544,7 +1544,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "63f73f1b33942b094c000008",
+				"id": "63f73f1b33942b094c000008_001",
 				"question": "Is erenumab effective for trigeminal neuralgia?"
 			  }
 			],
@@ -1553,7 +1553,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "643c88a257b1c7a315000030",
+				"id": "643c88a257b1c7a315000030_001",
 				"question": "Can other vaccines be given with COVID-19 vaccine?"
 			  }
 			],
@@ -1562,7 +1562,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6441302d57b1c7a315000056",
+				"id": "6441302d57b1c7a315000056_001",
 				"question": "Is music therapy effective for pain management in neonates?"
 			  }
 			],
@@ -1571,7 +1571,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "63f02b50f36125a426000014",
+				"id": "63f02b50f36125a426000014_001",
 				"question": "Is there any association between Tripe palms and cancer?"
 			  }
 			],
@@ -1580,7 +1580,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "641c516d690f196b5100003f",
+				"id": "641c516d690f196b5100003f_001",
 				"question": "Can Amyotrophic Lateral Sclerosis (ALS) be associated with a mutation of the Super Oxide Dismutase 1 (SOD) gene?"
 			  }
 			],
@@ -1589,7 +1589,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "643c396457b1c7a31500002d",
+				"id": "643c396457b1c7a31500002d_001",
 				"question": "Are any medications available to prevent COVID-19 following exposure?"
 			  }
 			],
@@ -1598,7 +1598,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6440092d57b1c7a315000040",
+				"id": "6440092d57b1c7a315000040_001",
 				"question": "Has RTA 408 received FDA approval?"
 			  }
 			],
@@ -1607,7 +1607,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "643c446357b1c7a31500002f",
+				"id": "643c446357b1c7a31500002f_001",
 				"question": "Can reinfection occur after SARS-CoV-2 infection?"
 			  }
 			],
@@ -1616,7 +1616,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "63ee5eeaf36125a426000002",
+				"id": "63ee5eeaf36125a426000002_001",
 				"question": "Does mutation of ARTEMIS gene causes severe combined immunodeficiency?"
 			  }
 			],
@@ -1625,7 +1625,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "640c821c201352f04a000023",
+				"id": "640c821c201352f04a000023_001",
 				"question": "Is Wilson's disease described as an iron storage disease?"
 			  }
 			],
@@ -1634,7 +1634,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6440084357b1c7a31500003e",
+				"id": "6440084357b1c7a31500003e_001",
 				"question": "Is omaveloxolone an activator of NFkB?"
 			  }
 			],
@@ -1643,7 +1643,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "64040d73201352f04a000010",
+				"id": "64040d73201352f04a000010_001",
 				"question": "Can Efgartigimod be used for myasthenia gravis?"
 			  }
 			],
@@ -1652,7 +1652,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6422e7ba690f196b51000044",
+				"id": "6422e7ba690f196b51000044_001",
 				"question": "Have Quercetin-biapigenin nanoparticles been shown to be effective in penetrating the blood-brain barrier"
 			  }
 			],
@@ -1661,7 +1661,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6429eb8457b1c7a31500000a",
+				"id": "6429eb8457b1c7a31500000a_001",
 				"question": "Is adenosine methylation an epigenetic modification?"
 			  }
 			],
@@ -1670,7 +1670,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "64412c2757b1c7a315000055",
+				"id": "64412c2757b1c7a315000055_001",
 				"question": "Can breastfeeding be used to alleviate the procedural pain in neonates?"
 			  }
 			],
@@ -1679,7 +1679,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "64042000201352f04a000020",
+				"id": "64042000201352f04a000020_001",
 				"question": "Can lenacapavir be used for HIV?"
 			  }
 			],
@@ -1688,7 +1688,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6402c3fd201352f04a000009",
+				"id": "6402c3fd201352f04a000009_001",
 				"question": "Was prehospital transdermal glyceryl trinitrate effective for stroke in the RIGHT-2 trial?"
 			  }
 			],
@@ -1697,7 +1697,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "643ff48a57b1c7a31500003d",
+				"id": "643ff48a57b1c7a31500003d_001",
 				"question": "Is omaveloxolone a suppressor of Nrf2?"
 			  }
 			],
@@ -1706,7 +1706,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "64410f8057b1c7a315000054",
+				"id": "64410f8057b1c7a315000054_001",
 				"question": "Can salivary cortisol be used to evaluate pain in neonates?"
 			  }
 			],
@@ -1715,7 +1715,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6402c0d5201352f04a000008",
+				"id": "6402c0d5201352f04a000008_001",
 				"question": "Does nintedanib improve response rate in patients with bladder cancer?"
 			  }
 			],
@@ -1724,7 +1724,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "63f9ee5c33942b094c000014",
+				"id": "63f9ee5c33942b094c000014_001",
 				"question": "Does SRRM4 regulate neuronal-specific microexon splicing of TAF1 mRNA?"
 			  }
 			],
@@ -1733,7 +1733,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6431f71057b1c7a315000019",
+				"id": "6431f71057b1c7a315000019_001",
 				"question": "In twin-twin transfusion syndrome, are the twins identical?"
 			  }
 			],
@@ -1742,7 +1742,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6415b7b8690f196b5100000c",
+				"id": "6415b7b8690f196b5100000c_001",
 				"question": "Optogenetics refers to the study of gene expression optimization"
 			  }
 			],
@@ -1751,7 +1751,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "63f03155f36125a426000019",
+				"id": "63f03155f36125a426000019_001",
 				"question": "Was DNX-2401 tested for treatment of Diffuse Intrinsic Pontine Glioma?"
 			  }
 			],
@@ -1760,7 +1760,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6436953757b1c7a315000028",
+				"id": "6436953757b1c7a315000028_001",
 				"question": "Is Functional Neurological Disorder (FND) classified as a psychosomatic disorder?"
 			  }
 			],
@@ -1769,7 +1769,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "645004fa57b1c7a31500008b",
+				"id": "645004fa57b1c7a31500008b_001",
 				"question": "Are accessible enhancers necessarily active?"
 			  }
 			],
@@ -1778,16 +1778,16 @@
 		  {
 			"qas": [
 			  {
-				"id": "63eef9b6f36125a426000011",
+				"id": "63eef9b6f36125a426000011_001",
 				"question": "Is Prasinezumab effective for Parkinson\u2019s Disease?"
 			  }
 			],
-			"context": "conclusions : prasinezumab therapy had no meaningful effect on global or imaging measures of parkinson's disease progression as compared with placebo and was associated with infusion reactions.\nconclusions : in participants with early parkinson's disease, the effects of cinpanemab on clinical measures of disease progression and changes in dat - spect imaging did not differ from those of placebo over a 52 - week period.\n[ pimavanserin : a new treatment for the parkinson's disease psychosis ].\npimavanserin 34 mg / d was effective in treating hallucinations and delusions associated with parkinson's disease.\nif this is granted, we believe the evidence of pimavanserin efficacy, safety and tolerability will position this medication as the first choice for treatment of parkinson's disease psychosis.\ninterpretation pimavanserin may benefit patients with parkinson's disease psychosis for whom few other treatment options exist.\nis the only fda - approved treatment for the hallucinations and delusions seen in patients with psychosis of parkinson's disease.\npimavanserin ( nuplazid\u2122 ) for the treatment of parkinson disease psychosis : a review of the literature. options for the treatment of parkinson disease psychosis are limited.\npimavanserin : a novel therapeutic option for parkinson disease psychosis. while pimavanserin appears to be a safe, effective, and well - tolerated therapeutic option for pdp, additional clinical trials and open - label extension studies are needed to\nevidence - based review of pharmacotherapy used for parkinson's disease psychosis. despite lack of rigor in study designs, published data to date suggest that clozapine and pimavanserin should be considered drugs of choice to treat pd psychosis."
+			"context": "conclusions : prasinezumab therapy had no meaningful effect on global or imaging measures of parkinson's disease progression as compared with placebo and was associated with infusion reactions.\nconclusions : in participants with early parkinson's disease, the effects of cinpanemab on clinical measures of disease progression and changes in dat - spect imaging did not differ from those of placebo over a 52 - week period.\n[ pimavanserin : a new treatment for the parkinson's disease psychosis ].\npimavanserin 34 mg / d was effective in treating hallucinations and delusions associated with parkinson's disease.\nif this is granted, we believe the evidence of pimavanserin efficacy, safety and tolerability will position this medication as the first choice for treatment of parkinson's disease psychosis.\nis the only fda - approved treatment for the hallucinations and delusions seen in patients with psychosis of parkinson's disease.\npimavanserin ( nuplazid\u2122 ) for the treatment of parkinson disease psychosis : a review of the literature. options for the treatment of parkinson disease psychosis are limited.\ninterpretation pimavanserin may benefit patients with parkinson's disease psychosis for whom few other treatment options exist.\npimavanserin : a novel therapeutic option for parkinson disease psychosis. while pimavanserin appears to be a safe, effective, and well - tolerated therapeutic option for pdp, additional clinical trials and open - label extension studies are needed to\npimavanserin is the first fda - approved atypical antipsychotic drug indicated for the treatment of hallucinations and delusions associated with parkinson's disease psychosis ( pdp )."
 		  },
 		  {
 			"qas": [
 			  {
-				"id": "63f02e1bf36125a426000016",
+				"id": "63f02e1bf36125a426000016_001",
 				"question": "Was AAVS3 developed for hemophilia A?"
 			  }
 			],
@@ -1796,7 +1796,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6419d79c690f196b5100003b",
+				"id": "6419d79c690f196b5100003b_001",
 				"question": "Does iron regulate oligodendrocyte maturation?"
 			  }
 			],
@@ -1805,7 +1805,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "644efd5157b1c7a315000086",
+				"id": "644efd5157b1c7a315000086_001",
 				"question": "Are epigenetic changes heritable?"
 			  }
 			],
@@ -1814,7 +1814,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "644efd2c57b1c7a315000085",
+				"id": "644efd2c57b1c7a315000085_001",
 				"question": "Do epigenetic changes change the DNA sequence?"
 			  }
 			],
@@ -1823,7 +1823,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6414c5ba690f196b51000007",
+				"id": "6414c5ba690f196b51000007_001",
 				"question": "Can skin picking phenotype present following methylphenidate treatment?"
 			  }
 			],
@@ -1832,7 +1832,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "644f0fd257b1c7a31500008a",
+				"id": "644f0fd257b1c7a31500008a_001",
 				"question": "Do enhancers have to be close to their gene targets?"
 			  }
 			],
@@ -1841,7 +1841,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "64463f9357b1c7a31500006a",
+				"id": "64463f9357b1c7a31500006a_001",
 				"question": "Are there any other types of Spinal Muscular Atrophy except for types 1-4?"
 			  }
 			],
@@ -1850,7 +1850,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "640418af201352f04a000018",
+				"id": "640418af201352f04a000018_001",
 				"question": "Is Tilavonemab effective for progressive supranuclear palsy?"
 			  }
 			],
@@ -1859,7 +1859,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "641791ed690f196b51000032",
+				"id": "641791ed690f196b51000032_001",
 				"question": "Is SARS-CoV-2 transmitted through breast milk?"
 			  }
 			],
@@ -1868,7 +1868,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "644284a957b1c7a31500005c",
+				"id": "644284a957b1c7a31500005c_001",
 				"question": "Is there any treatment for the Facioscapulohumeral Muscular Dystrophy?"
 			  }
 			],
@@ -1877,7 +1877,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "644e642a57b1c7a315000075",
+				"id": "644e642a57b1c7a315000075_001",
 				"question": "Do all proteins start with methionine?"
 			  }
 			],
@@ -1886,7 +1886,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c58a74e86df2b917400000d",
+				"id": "5c58a74e86df2b917400000d_001",
 				"question": "Is Baloxavir effective for influenza?"
 			  }
 			],
@@ -1895,7 +1895,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5be44bef133db5eb78000014",
+				"id": "5be44bef133db5eb78000014_001",
 				"question": "Are there microbes in human breast milk?"
 			  }
 			],
@@ -1904,7 +1904,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c61bacae842deac67000001",
+				"id": "5c61bacae842deac67000001_001",
 				"question": "Is cariprazine effective for treatment of bipolar disorder?"
 			  }
 			],
@@ -1913,7 +1913,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c55d75807647bbc4b000008",
+				"id": "5c55d75807647bbc4b000008_001",
 				"question": "Is Bobble head doll syndrome associated with hydrocephalus?"
 			  }
 			],
@@ -1922,7 +1922,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5be44f50133db5eb78000017",
+				"id": "5be44f50133db5eb78000017_001",
 				"question": "Can breastfeeding confer protection from type I diabetes?"
 			  }
 			],
@@ -1931,7 +1931,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5be47bff133db5eb78000018",
+				"id": "5be47bff133db5eb78000018_001",
 				"question": "Can pets affect infant microbiomed?"
 			  }
 			],
@@ -1940,7 +1940,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5be48282133db5eb7800001b",
+				"id": "5be48282133db5eb7800001b_001",
 				"question": "Is there any association between the human gut microbiome and depression?"
 			  }
 			],
@@ -1949,7 +1949,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c2f8127133db5eb78000032",
+				"id": "5c2f8127133db5eb78000032_001",
 				"question": "Are whole-genome duplications more divergent than small-scale duplications in yeast?"
 			  }
 			],
@@ -1958,16 +1958,16 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c34794fda8336e21a000001",
+				"id": "5c34794fda8336e21a000001_001",
 				"question": "Do yeast LTR give rise to circular DNA?"
 			  }
 			],
-			"context": "ty eccdna can arise from the circularization of extrachromosomal linear dna during the transpositional life cycle of retrotransposons, or from circularization of genomic ty dna\nsimilarly, circular dnas can be generated by recombination between ltrs residing at different genomic loci, in which case the circular dna will contain the intervening sequence.\na recent study on circular dnas in yeast found that transposable element sequence residing in circular structures mostly corresponded to full - length transposable elements.\nto explore the potential for using this methodology to express circular rna in vivo, circular forms of the hdv ribozyme and rnasep rna were produced in e. coli.\n. around the same time, it was also shown that the genome of saccharomyces cerevisiae is organized in topologically associated domains ( tads ), which are largely associated with the replication timing.\nendogenous yeast amyloids that control heritable traits and are frequently used as models for human amyloid diseases are termed yeast prions.\nalthough similar structures appear to be conserved in fission yeast, computational modeling and analysis of high - throughput chromosome conformation capture ( hi - c ) data have been used to argue that the small, highly constrained budding yeast\nin support of this model, single - molecule imaging experiments indicate that saccharomyces cerevisiae condensin complexes can extrude dna loops in an atp - hydrolysis - dependent manner in vitro.\nthat the small, highly constrained budding yeast chromosomes could not have these structures\nthousands of eukaryotic protein - coding genes generate circular rnas that have covalently linked ends and are resistant to degradation by exonucleases."
+			"context": "ty eccdna can arise from the circularization of extrachromosomal linear dna during the transpositional life cycle of retrotransposons, or from circularization of genomic ty dna\na recent study on circular dnas in yeast found that transposable element sequence residing in circular structures mostly corresponded to full - length transposable elements.\nsimilarly, circular dnas can be generated by recombination between ltrs residing at different genomic loci, in which case the circular dna will contain the intervening sequence.\nto explore the potential for using this methodology to express circular rna in vivo, circular forms of the hdv ribozyme and rnasep rna were produced in e. coli.\n. around the same time, it was also shown that the genome of saccharomyces cerevisiae is organized in topologically associated domains ( tads ), which are largely associated with the replication timing.\nendogenous yeast amyloids that control heritable traits and are frequently used as models for human amyloid diseases are termed yeast prions.\nalthough similar structures appear to be conserved in fission yeast, computational modeling and analysis of high - throughput chromosome conformation capture ( hi - c ) data have been used to argue that the small, highly constrained budding yeast\nin support of this model, single - molecule imaging experiments indicate that saccharomyces cerevisiae condensin complexes can extrude dna loops in an atp - hydrolysis - dependent manner in vitro.\nthat the small, highly constrained budding yeast chromosomes could not have these structures\nthe synthetic circular sponge was resistant to digestion with rnase r. luciferase assays and functional experiments showed that the circular multi - mir sponge was more stable than its linear counterpart."
 		  },
 		  {
 			"qas": [
 			  {
-				"id": "5c644c3de842deac67000018",
+				"id": "5c644c3de842deac67000018_001",
 				"question": "Is cohesin linked to myeloid differentiation?"
 			  }
 			],
@@ -1976,7 +1976,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5be49287133db5eb7800001e",
+				"id": "5be49287133db5eb7800001e_001",
 				"question": "Is pembrolizumab effective against Ewing's sarcoma?"
 			  }
 			],
@@ -1985,7 +1985,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5be94b87133db5eb78000020",
+				"id": "5be94b87133db5eb78000020_001",
 				"question": "Can gene therapy restore auditory function?"
 			  }
 			],
@@ -1994,7 +1994,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c58447f07647bbc4b000021",
+				"id": "5c58447f07647bbc4b000021_001",
 				"question": "Is the PINES framework being used for the prediction of coding variants?"
 			  }
 			],
@@ -2003,7 +2003,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c647c52e842deac6700001c",
+				"id": "5c647c52e842deac6700001c_001",
 				"question": "Is erythropoietin effective for treatment of amyotrophic lateral sclerosis?"
 			  }
 			],
@@ -2012,7 +2012,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c6638717c78d69471000012",
+				"id": "5c6638717c78d69471000012_001",
 				"question": "Is celecoxib effective for treatment of amyotrophic lateral sclerosis?"
 			  }
 			],
@@ -2021,7 +2021,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c531e887e3cb0e231000018",
+				"id": "5c531e887e3cb0e231000018_001",
 				"question": "Are ultraconserved enhancers important for normal development?"
 			  }
 			],
@@ -2030,7 +2030,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c5f12d91a4c55d80b000016",
+				"id": "5c5f12d91a4c55d80b000016_001",
 				"question": "Is chlorotoxin a peptide?"
 			  }
 			],
@@ -2039,7 +2039,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c00f38e133db5eb78000023",
+				"id": "5c00f38e133db5eb78000023_001",
 				"question": "Does vesatolimod inhibit TLR7?"
 			  }
 			],
@@ -2048,7 +2048,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c5f21a81a4c55d80b00001c",
+				"id": "5c5f21a81a4c55d80b00001c_001",
 				"question": "Is selenocysteine an aminoacid?"
 			  }
 			],
@@ -2057,7 +2057,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c58923c86df2b9174000005",
+				"id": "5c58923c86df2b9174000005_001",
 				"question": "Is Tecovirimat effective for smallpox?"
 			  }
 			],
@@ -2066,7 +2066,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c010e09133db5eb78000024",
+				"id": "5c010e09133db5eb78000024_001",
 				"question": "Can simvastatin alleviate depressive symptoms?"
 			  }
 			],
@@ -2075,7 +2075,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c5f2b771a4c55d80b000020",
+				"id": "5c5f2b771a4c55d80b000020_001",
 				"question": "Is P. gingivalis bacteria found in brain?"
 			  }
 			],
@@ -2084,7 +2084,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c58ac2286df2b917400000f",
+				"id": "5c58ac2286df2b917400000f_001",
 				"question": "Is ibudilast effective for multiple sclerosis?"
 			  }
 			],
@@ -2093,7 +2093,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c0114ec133db5eb78000028",
+				"id": "5c0114ec133db5eb78000028_001",
 				"question": "Does gepotidacin activate bacterial topoisomerase?"
 			  }
 			],
@@ -2102,7 +2102,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c5607aa07647bbc4b00000e",
+				"id": "5c5607aa07647bbc4b00000e_001",
 				"question": "Is durvalumab used for lung cancer treatment?"
 			  }
 			],
@@ -2111,7 +2111,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c5f0c5a1a4c55d80b00000f",
+				"id": "5c5f0c5a1a4c55d80b00000f_001",
 				"question": "Is  LRP1 interacting with Urokinase receptor?"
 			  }
 			],
@@ -2120,7 +2120,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c0e838b133db5eb7800002e",
+				"id": "5c0e838b133db5eb7800002e_001",
 				"question": "Is obesity related to cognitive decline?"
 			  }
 			],
@@ -2129,7 +2129,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c589ddb86df2b917400000b",
+				"id": "5c589ddb86df2b917400000b_001",
 				"question": "Is cabozantinib effective for hepatocellular carcinoma?"
 			  }
 			],
@@ -2138,7 +2138,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c56033607647bbc4b00000c",
+				"id": "5c56033607647bbc4b00000c_001",
 				"question": "Is Tisagenlecleucel effective for B-Cell Lymphoma?"
 			  }
 			],
@@ -2147,7 +2147,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c76cea17c78d694710000a7",
+				"id": "5c76cea17c78d694710000a7_001",
 				"question": "Is ADP-ribosylation a PTM?"
 			  }
 			],
@@ -2156,7 +2156,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c56fd7407647bbc4b000013",
+				"id": "5c56fd7407647bbc4b000013_001",
 				"question": "Does epidural anesthesia for pain management during labor affect the Apgar score of the the infant?"
 			  }
 			],
@@ -2165,7 +2165,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c5f22951a4c55d80b00001d",
+				"id": "5c5f22951a4c55d80b00001d_001",
 				"question": "Is phospholipid hydroperoxide glutathione peroxidase a selenoprotein?"
 			  }
 			],
@@ -2174,7 +2174,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c73aced7c78d69471000087",
+				"id": "5c73aced7c78d69471000087_001",
 				"question": "Is inositol effective for trichotillomania?"
 			  }
 			],
@@ -2183,7 +2183,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c640fa1e842deac67000011",
+				"id": "5c640fa1e842deac67000011_001",
 				"question": "Is TIAM1 favoring tumor progression in colorectal cancer (CRC)?"
 			  }
 			],
@@ -2192,7 +2192,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c663afe7c78d69471000013",
+				"id": "5c663afe7c78d69471000013_001",
 				"question": "Is pacritinib effective for treatment of myelofibrosis?"
 			  }
 			],
@@ -2201,7 +2201,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c571f7607647bbc4b000017",
+				"id": "5c571f7607647bbc4b000017_001",
 				"question": "Can exposure to heavy metals like lead(Pb) or cadmium(Cd) cause changes in DNA methylation patterns in Isoetes sinensis?"
 			  }
 			],
@@ -2210,7 +2210,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c57031107647bbc4b000014",
+				"id": "5c57031107647bbc4b000014_001",
 				"question": "Has Glyceraldehyde 3-phosphate dehydrogenase (GAPDH) been reported to be a plasminogen receptor in pathogenic bacteria?"
 			  }
 			],
@@ -2219,7 +2219,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c6549e1e842deac67000022",
+				"id": "5c6549e1e842deac67000022_001",
 				"question": "Can CPX-351 be used for the treatment of tuberculosis?"
 			  }
 			],
@@ -2228,7 +2228,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c654c14e842deac67000025",
+				"id": "5c654c14e842deac67000025_001",
 				"question": "Does lucatumumab bind to CD140?"
 			  }
 			],
@@ -2237,7 +2237,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c73ad0b7c78d69471000093",
+				"id": "5c73ad0b7c78d69471000093_001",
 				"question": "Does simvastatin improve outcomes of aneurysmal subarachnoid hemorrhage?"
 			  }
 			],
@@ -2246,7 +2246,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c72aaed7c78d6947100006f",
+				"id": "5c72aaed7c78d6947100006f_001",
 				"question": "Is pazopanib an effective treatment of glioblastoma?"
 			  }
 			],
@@ -2255,7 +2255,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c643485e842deac67000015",
+				"id": "5c643485e842deac67000015_001",
 				"question": "Are de novo mutations in regulatory elements responsible for neurodevelopmental disorders?"
 			  }
 			],
@@ -2264,7 +2264,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c7c0e2fd774d0424000000d",
+				"id": "5c7c0e2fd774d0424000000d_001",
 				"question": "Are phagosomal proteins ubiquitinated?"
 			  }
 			],
@@ -2273,7 +2273,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c73ad327c78d69471000097",
+				"id": "5c73ad327c78d69471000097_001",
 				"question": "Does tremelimumab improve survival of mesothelioma patients?"
 			  }
 			],
@@ -2282,7 +2282,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c6587d77c78d69471000005",
+				"id": "5c6587d77c78d69471000005_001",
 				"question": "Can enasidenib be used for the treatment of acute myeloid leukemia?"
 			  }
 			],
@@ -2291,7 +2291,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c783236d774d04240000001",
+				"id": "5c783236d774d04240000001_001",
 				"question": "Is collagen the most abundant human protein?"
 			  }
 			],
@@ -2300,7 +2300,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c76be617c78d694710000a5",
+				"id": "5c76be617c78d694710000a5_001",
 				"question": "Is the enzyme ERAP2 associated with the disease birdshot chorioretinopathy?"
 			  }
 			],
@@ -2309,7 +2309,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c73ad377c78d6947100009a",
+				"id": "5c73ad377c78d6947100009a_001",
 				"question": "Does Panitumumab prolong survival of biliary tract cancer patients?"
 			  }
 			],
@@ -2318,7 +2318,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c6582207c78d69471000001",
+				"id": "5c6582207c78d69471000001_001",
 				"question": "Is lucatumumab a polyclonal antibody?"
 			  }
 			],
@@ -2327,7 +2327,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c662c507c78d6947100000d",
+				"id": "5c662c507c78d6947100000d_001",
 				"question": "Is lithium effective for treatment of amyotrophic lateral sclerosis?"
 			  }
 			],
@@ -2336,7 +2336,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c73acea7c78d69471000085",
+				"id": "5c73acea7c78d69471000085_001",
 				"question": "Should dacomitinib be used for treatment of glioblastoma patients?"
 			  }
 			],
@@ -2345,7 +2345,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c6d7bb57c78d6947100003b",
+				"id": "5c6d7bb57c78d6947100003b_001",
 				"question": "Are there ultraconserved regions in the budding yeast (Saccharomyces cerevisiae)?"
 			  }
 			],
@@ -2354,7 +2354,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c640c2ee842deac67000010",
+				"id": "5c640c2ee842deac67000010_001",
 				"question": "Is there any role for HUWE1 in MYC signalling?"
 			  }
 			],
@@ -2363,7 +2363,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c674aed7c78d69471000019",
+				"id": "5c674aed7c78d69471000019_001",
 				"question": "Do raspberries improve postprandial glucose and acute and chronic inflammation in adults with type 2 Diabetes?"
 			  }
 			],
@@ -2372,7 +2372,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c7836dad774d04240000002",
+				"id": "5c7836dad774d04240000002_001",
 				"question": "Are Mesenchymal stem cells (MSC) multipotent cells?"
 			  }
 			],
@@ -2381,7 +2381,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c6b198f7c78d69471000025",
+				"id": "5c6b198f7c78d69471000025_001",
 				"question": "Is there a deep-learning algorithm for protein solubility prediction?"
 			  }
 			],
@@ -2390,7 +2390,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c5215e67e3cb0e231000004",
+				"id": "5c5215e67e3cb0e231000004_001",
 				"question": "Have machine learning methods been used to predict the severity of major depressive disorder(MDD)?"
 			  }
 			],
@@ -2399,7 +2399,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c6583117c78d69471000002",
+				"id": "5c6583117c78d69471000002_001",
 				"question": "Can midostaurin inhibit angiogenesis?"
 			  }
 			],
@@ -2408,7 +2408,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c629fffe842deac67000009",
+				"id": "5c629fffe842deac67000009_001",
 				"question": "Does Groucho related gene 5 (GRG5) have a role only in late development?"
 			  }
 			],
@@ -2417,7 +2417,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c6da11e7c78d69471000042",
+				"id": "5c6da11e7c78d69471000042_001",
 				"question": "Are there tools for reviewing variant calls?"
 			  }
 			],
@@ -2426,7 +2426,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c65495be842deac67000021",
+				"id": "5c65495be842deac67000021_001",
 				"question": "Has ivosidenib been FDA approved for use against acute myeloid leukemia?"
 			  }
 			],
@@ -2435,7 +2435,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c51f44c07ef653866000004",
+				"id": "5c51f44c07ef653866000004_001",
 				"question": "Are Copy Number Variants (CNVs) depleted in regions of low mappability?"
 			  }
 			],
@@ -2444,7 +2444,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c5b2f4b1a4c55d80b000001",
+				"id": "5c5b2f4b1a4c55d80b000001_001",
 				"question": "Is Adar3 involved in learning and memory?"
 			  }
 			],
@@ -2453,7 +2453,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c5f2cef1a4c55d80b000022",
+				"id": "5c5f2cef1a4c55d80b000022_001",
 				"question": "There is no drug available to prevent HIV infection, Pre-exposure prophylaxis (PrEP), yes or no?"
 			  }
 			],
@@ -2462,7 +2462,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c52cde87e3cb0e23100000e",
+				"id": "5c52cde87e3cb0e23100000e_001",
 				"question": "Does allele phasing improve the phylogenetic utility of ultraconserved elements?"
 			  }
 			],
@@ -2471,7 +2471,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c5723a007647bbc4b000019",
+				"id": "5c5723a007647bbc4b000019_001",
 				"question": "Have yeast prions become important models for the study of the basic mechanisms underlying human amyloid diseases?"
 			  }
 			],
@@ -2480,7 +2480,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c6b7bee7c78d6947100002a",
+				"id": "5c6b7bee7c78d6947100002a_001",
 				"question": "Is dupilumab effective for treatment of asthma?"
 			  }
 			],
@@ -2489,7 +2489,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c6d441d7c78d69471000037",
+				"id": "5c6d441d7c78d69471000037_001",
 				"question": "Does Eucommia ulmoides leaf extract ameliorates steatosis/fatty liver induced by high-fat diet?"
 			  }
 			],
@@ -2498,7 +2498,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c6b82a17c78d6947100002f",
+				"id": "5c6b82a17c78d6947100002f_001",
 				"question": "Is verubecestat effective for Alzheimer\u2019s Disease?"
 			  }
 			],
@@ -2507,7 +2507,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c6f15577c78d69471000053",
+				"id": "5c6f15577c78d69471000053_001",
 				"question": "Is galcanezumab effective for treatment of migraine?"
 			  }
 			],
@@ -2516,7 +2516,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c52028807ef653866000009",
+				"id": "5c52028807ef653866000009_001",
 				"question": "Can mitochondria be inherited by both parents in humans?"
 			  }
 			],
@@ -2525,16 +2525,16 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c71648b7c78d69471000067",
+				"id": "5c71648b7c78d69471000067_001",
 				"question": "Can Diazepam be beneficial  in the treatment of  traumatic brain injury?"
 			  }
 			],
-			"context": "he present experiment examined the effects of diazepam, a positive modulator at the gaba ( a ) receptor, on survival and cognitive performance in traumatically brain - injured animals. i\nhesperidin attenuates depression - related symptoms in mice with mild traumatic brain injury\nhesperidin potentiates the neuroprotective effects of diazepam and gabapentin against pentylenetetrazole - induced convulsions in mice : possible behavioral, biochemical and mitochondrial alterations. hesp possesses potent anticonvulsant activity which\ninterpretation : functional status 90 days after intracerebral haemorrhage did not differ significantly between patients who received tranexamic acid and those who received placebo, despite a reduction in early deaths and serious adverse events.\ntranexamic acid did not increase the risk of post - intracerebral haemorrhage seizures in the first 90 days.\nthe authors investigated whether the lack of effect of tirilazad on clinical outcome in patients with acute ischemic stroke is explained by failure of tirilazad to reduce infarct volume.\nlasmiditan for the treatment of acute migraine : a review and potential role in clinical practice.\npossesses potent anticonvulsant activity which might be mediated through modulation of gamma - amino butyric acid / benzodiazepine receptor action.\nten classes of neuroprotective agents have reached phase iii efficacy trials but have shown mixed results\na large number of controlled trials demonstrated that exogenous oxytocin or arginine - vasopressin administration can mitigate social behavior impairment in asd"
+			"context": "he present experiment examined the effects of diazepam, a positive modulator at the gaba ( a ) receptor, on survival and cognitive performance in traumatically brain - injured animals. i\nhesperidin attenuates depression - related symptoms in mice with mild traumatic brain injury\nhesperidin potentiates the neuroprotective effects of diazepam and gabapentin against pentylenetetrazole - induced convulsions in mice : possible behavioral, biochemical and mitochondrial alterations. hesp possesses potent anticonvulsant activity which\ninterpretation : functional status 90 days after intracerebral haemorrhage did not differ significantly between patients who received tranexamic acid and those who received placebo, despite a reduction in early deaths and serious adverse events.\ntranexamic acid did not increase the risk of post - intracerebral haemorrhage seizures in the first 90 days.\nthe authors investigated whether the lack of effect of tirilazad on clinical outcome in patients with acute ischemic stroke is explained by failure of tirilazad to reduce infarct volume.\nlasmiditan for the treatment of acute migraine : a review and potential role in clinical practice.\nten classes of neuroprotective agents have reached phase iii efficacy trials but have shown mixed results\npossesses potent anticonvulsant activity which might be mediated through modulation of gamma - amino butyric acid / benzodiazepine receptor action.\na large number of controlled trials demonstrated that exogenous oxytocin or arginine - vasopressin administration can mitigate social behavior impairment in asd"
 		  },
 		  {
 			"qas": [
 			  {
-				"id": "5c57216e07647bbc4b000018",
+				"id": "5c57216e07647bbc4b000018_001",
 				"question": "In clinical trials, the H3 R antagonist CEP-26401 has a positive effect on cognition, yes or no?"
 			  }
 			],
@@ -2543,7 +2543,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c6f6d997c78d69471000055",
+				"id": "5c6f6d997c78d69471000055_001",
 				"question": "Is pimavanserin effective for Parkinson's disease psychosis?"
 			  }
 			],
@@ -2552,7 +2552,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c5b52731a4c55d80b000003",
+				"id": "5c5b52731a4c55d80b000003_001",
 				"question": "Is deletion at 6q24.2-26 associated with longer survival of patients with high-grade serous ovarian carcinoma (HGSOCs)?"
 			  }
 			],
@@ -2561,7 +2561,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c65484ee842deac6700001f",
+				"id": "5c65484ee842deac6700001f_001",
 				"question": "Can mogamulizumab be used for the treatment of cutaneous T-cell lymphoma?"
 			  }
 			],
@@ -2570,7 +2570,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c72ba807c78d69471000076",
+				"id": "5c72ba807c78d69471000076_001",
 				"question": "Is avelumab effective for bladder cancer?"
 			  }
 			],
@@ -2579,7 +2579,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c6b7a9e7c78d69471000029",
+				"id": "5c6b7a9e7c78d69471000029_001",
 				"question": "Is cabozantinib effective for Hepatocellular Carcinoma?"
 			  }
 			],
@@ -2588,7 +2588,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c5839e707647bbc4b00001f",
+				"id": "5c5839e707647bbc4b00001f_001",
 				"question": "Is there a link between BCL11B haploinsufficiency and syndromic neurodevelopmental delay?"
 			  }
 			],
@@ -2597,7 +2597,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c6f6ae37c78d69471000054",
+				"id": "5c6f6ae37c78d69471000054_001",
 				"question": "Is Lasmiditan effective for migraine?"
 			  }
 			],
@@ -2606,7 +2606,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c6d97497c78d69471000040",
+				"id": "5c6d97497c78d69471000040_001",
 				"question": "Are there graph kernel libraries available implemented in JAVA?"
 			  }
 			],
@@ -2615,7 +2615,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c6df86b7c78d69471000045",
+				"id": "5c6df86b7c78d69471000045_001",
 				"question": "Is baricitinib effective for rheumatoid arthritis?"
 			  }
 			],
@@ -2624,7 +2624,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c73acf27c78d6947100008a",
+				"id": "5c73acf27c78d6947100008a_001",
 				"question": "Is Semagacestat effective for treatment of Alzheimer's disease?"
 			  }
 			],
@@ -2633,7 +2633,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c840daf617e120c34000007",
+				"id": "5c840daf617e120c34000007_001",
 				"question": "Does Rhamnose have any effect on aging?"
 			  }
 			],
@@ -2642,7 +2642,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c7d6b3e45e140a523000001",
+				"id": "5c7d6b3e45e140a523000001_001",
 				"question": "Is there any approved treatment for NAFLD?"
 			  }
 			],
@@ -2651,7 +2651,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c72bd047c78d69471000077",
+				"id": "5c72bd047c78d69471000077_001",
 				"question": "Can pazopanib be used for treatment von Hippel-Lindau disease?"
 			  }
 			],
@@ -2660,7 +2660,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c89461675a4a5d219000013",
+				"id": "5c89461675a4a5d219000013_001",
 				"question": "Is Netrin-1 a secreted protein?"
 			  }
 			],
@@ -2669,7 +2669,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c62a529e842deac6700000b",
+				"id": "5c62a529e842deac6700000b_001",
 				"question": "Is the yeast (Saccharomyces cerevisiae) genome organized into topologically associated domains (TADs)?"
 			  }
 			],
@@ -2678,7 +2678,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c72a5ca7c78d6947100006d",
+				"id": "5c72a5ca7c78d6947100006d_001",
 				"question": "As of Feb 2019, are major brain gangliosides a target for the treatment of Alzheimer's disease?"
 			  }
 			],
@@ -2687,7 +2687,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c72f8557c78d69471000080",
+				"id": "5c72f8557c78d69471000080_001",
 				"question": "Is Miller-Dieker syndrome associated with abnormalities of chromosome 1?"
 			  }
 			],
@@ -2696,7 +2696,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c93e6a1ecadf2e73f00001b",
+				"id": "5c93e6a1ecadf2e73f00001b_001",
 				"question": "Does the interaction of MOV10 and RNASEH2 promote L1 retrotransposition?"
 			  }
 			],
@@ -2705,7 +2705,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c8cfca70101eac870000005",
+				"id": "5c8cfca70101eac870000005_001",
 				"question": "Has the protein SIRT2 been associated to cervical cancer?"
 			  }
 			],
@@ -2714,7 +2714,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c6438a5e842deac67000016",
+				"id": "5c6438a5e842deac67000016_001",
 				"question": "Are recessive coding variants responsible for the majority of undiagnosed nonconsanguineous individuals?"
 			  }
 			],
@@ -2723,7 +2723,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c6445f0e842deac67000017",
+				"id": "5c6445f0e842deac67000017_001",
 				"question": "Is the NLM medical text indexer (MTI) still useful and relevant?"
 			  }
 			],
@@ -2732,7 +2732,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c8972d4d558e5f232000006",
+				"id": "5c8972d4d558e5f232000006_001",
 				"question": "Has strimvelis been approved by the European Medicines Agency?"
 			  }
 			],
@@ -2741,7 +2741,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c83f858617e120c34000003",
+				"id": "5c83f858617e120c34000003_001",
 				"question": "Is treatment with Bacillus Calmette Guerin used for bladder cancer?"
 			  }
 			],
@@ -2750,7 +2750,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c73acf17c78d69471000089",
+				"id": "5c73acf17c78d69471000089_001",
 				"question": "Is eculizumab used for treatment of myasthenia gravis?"
 			  }
 			],
@@ -2759,7 +2759,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c928afeecadf2e73f000018",
+				"id": "5c928afeecadf2e73f000018_001",
 				"question": "Can cardiospheres be produced from skin fibroblasts?"
 			  }
 			],
@@ -2768,7 +2768,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c73ad347c78d69471000098",
+				"id": "5c73ad347c78d69471000098_001",
 				"question": "Does Axitinib prolong survival of Pancreatic Cancer patients?"
 			  }
 			],
@@ -2777,7 +2777,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c5217fd7e3cb0e231000005",
+				"id": "5c5217fd7e3cb0e231000005_001",
 				"question": "Is there any association between suicide and autism in adolescents, yes or no?"
 			  }
 			],
@@ -2786,7 +2786,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c8c05c70101eac870000001",
+				"id": "5c8c05c70101eac870000001_001",
 				"question": "Is lactotransferrin a tumour suppressor?"
 			  }
 			],
@@ -2795,7 +2795,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c6ad3be7c78d69471000021",
+				"id": "5c6ad3be7c78d69471000021_001",
 				"question": "Are there tools for visualizing and processing long-read sequencing data?"
 			  }
 			],
@@ -2804,7 +2804,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c674eac7c78d6947100001b",
+				"id": "5c674eac7c78d6947100001b_001",
 				"question": "Has Hesperidin any role as a Neuroprotective Agent?"
 			  }
 			],
@@ -2813,7 +2813,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c8857e975a4a5d219000009",
+				"id": "5c8857e975a4a5d219000009_001",
 				"question": "Are apoE mimetics being considered as a treatment against Alzheimer's disease?"
 			  }
 			],
@@ -2822,7 +2822,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c6d9a157c78d69471000041",
+				"id": "5c6d9a157c78d69471000041_001",
 				"question": "Can you computationally predict Molecular Recognition Features (MoRFs) regions in Intrinsically Disordered Proteins (IDPs)?"
 			  }
 			],
@@ -2831,7 +2831,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c97a08becadf2e73f000029",
+				"id": "5c97a08becadf2e73f000029_001",
 				"question": "Velocardial facial syndrome, otherwise known as Di George syndrome  is caused by a deletion in chromosome 21, yes or no?"
 			  }
 			],
@@ -2840,7 +2840,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c8ab614d558e5f23200000d",
+				"id": "5c8ab614d558e5f23200000d_001",
 				"question": "Is the protein Asporin related to disease?"
 			  }
 			],
@@ -2849,7 +2849,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5ca61176ecadf2e73f00004e",
+				"id": "5ca61176ecadf2e73f00004e_001",
 				"question": "Can TAD disruption lead to disease?"
 			  }
 			],
@@ -2858,7 +2858,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c8908a475a4a5d21900000c",
+				"id": "5c8908a475a4a5d21900000c_001",
 				"question": "Is L-4F an apoE mimetic peptide?"
 			  }
 			],
@@ -2867,7 +2867,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c890c3375a4a5d21900000e",
+				"id": "5c890c3375a4a5d21900000e_001",
 				"question": "Can oleuropein aglycone interfere with amyloid aggregation?"
 			  }
 			],
@@ -2876,7 +2876,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5caa0806ecadf2e73f000057",
+				"id": "5caa0806ecadf2e73f000057_001",
 				"question": "Is Apelin usually decreased in diabetes?"
 			  }
 			],
@@ -2885,7 +2885,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5ca0fdb0ecadf2e73f000049",
+				"id": "5ca0fdb0ecadf2e73f000049_001",
 				"question": "Is actin present in the nucleus?"
 			  }
 			],
@@ -2894,7 +2894,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c8fea130101eac87000000d",
+				"id": "5c8fea130101eac87000000d_001",
 				"question": "Can miR-122 target RUNX2?"
 			  }
 			],
@@ -2903,7 +2903,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c960d88ecadf2e73f00001f",
+				"id": "5c960d88ecadf2e73f00001f_001",
 				"question": "Tocilizumab is an anti-TNF antibody, yes or no?"
 			  }
 			],
@@ -2912,7 +2912,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c9e6ab9ecadf2e73f000035",
+				"id": "5c9e6ab9ecadf2e73f000035_001",
 				"question": "Is it possible to analyze exosomes with FACS?"
 			  }
 			],
@@ -2921,7 +2921,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c915e51ecadf2e73f00000c",
+				"id": "5c915e51ecadf2e73f00000c_001",
 				"question": "Can prevnar 13 be used in children?"
 			  }
 			],
@@ -2930,7 +2930,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c9160bcecadf2e73f00000d",
+				"id": "5c9160bcecadf2e73f00000d_001",
 				"question": "Was stelara developed by Amgen?"
 			  }
 			],
@@ -2939,7 +2939,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c9e766becadf2e73f000038",
+				"id": "5c9e766becadf2e73f000038_001",
 				"question": "Can mitochondria pass through membrane nanotubes?"
 			  }
 			],
@@ -2948,7 +2948,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c9f1b0cecadf2e73f00003c",
+				"id": "5c9f1b0cecadf2e73f00003c_001",
 				"question": "Are protamines ubiquitously expressed?"
 			  }
 			],
@@ -2957,7 +2957,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c891d5075a4a5d219000011",
+				"id": "5c891d5075a4a5d219000011_001",
 				"question": "Are Crocus sativus compounds being considered against Alzheimer's disease?"
 			  }
 			],
@@ -2966,7 +2966,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5ca0848aecadf2e73f000044",
+				"id": "5ca0848aecadf2e73f000044_001",
 				"question": "Are there any anti-amyloid antibody approved as drug for Alzheimer's disease treatment?"
 			  }
 			],
@@ -2975,7 +2975,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c891e5575a4a5d219000012",
+				"id": "5c891e5575a4a5d219000012_001",
 				"question": "Do Crocus sativus extracts loosen the blood-brain barrier?"
 			  }
 			],
@@ -2984,7 +2984,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5ca0fa96ecadf2e73f000048",
+				"id": "5ca0fa96ecadf2e73f000048_001",
 				"question": "Are artificial blood cells available?"
 			  }
 			],
@@ -2993,7 +2993,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c895cf0f9c2ba6b28000001",
+				"id": "5c895cf0f9c2ba6b28000001_001",
 				"question": "Have apolipoprotein mimetics been used in clinical trials?"
 			  }
 			],
@@ -3002,7 +3002,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5ca10fefecadf2e73f00004a",
+				"id": "5ca10fefecadf2e73f00004a_001",
 				"question": "Is the Philadelphia chromosome a fusion between parts of chromosomes 1 and 9?"
 			  }
 			],
@@ -3011,7 +3011,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c9f7bb6ecadf2e73f00003e",
+				"id": "5c9f7bb6ecadf2e73f00003e_001",
 				"question": "Can therapeutic levels of  Vedolizumab be found in the breast milk of nursing mothers following treatment for Inflammatory bowel disease?"
 			  }
 			],
@@ -3020,7 +3020,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c8fe71b0101eac87000000b",
+				"id": "5c8fe71b0101eac87000000b_001",
 				"question": "Does RUNX2 inhibit astrocyte differentiation?"
 			  }
 			],
@@ -3029,7 +3029,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c9906dcecadf2e73f00002f",
+				"id": "5c9906dcecadf2e73f00002f_001",
 				"question": "Are cardenolides inhibitors of Na+/K+ ATPase?"
 			  }
 			],
@@ -3038,7 +3038,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c900779ecadf2e73f000001",
+				"id": "5c900779ecadf2e73f000001_001",
 				"question": "Can antisense threapy be used for Huntington's disease?"
 			  }
 			],
@@ -3047,7 +3047,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5ca5127eecadf2e73f00004c",
+				"id": "5ca5127eecadf2e73f00004c_001",
 				"question": "Is collagen matrix of human articular cartilage changing with disease?"
 			  }
 			],
@@ -3056,7 +3056,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c9162b5ecadf2e73f00000e",
+				"id": "5c9162b5ecadf2e73f00000e_001",
 				"question": "Is ustekinumab a polyclonal antibody?"
 			  }
 			],
@@ -3065,7 +3065,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5cb37f76ecadf2e73f00005c",
+				"id": "5cb37f76ecadf2e73f00005c_001",
 				"question": "Is Pim-1 a protein phosphatase?"
 			  }
 			],
@@ -3074,7 +3074,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5cb38a56ecadf2e73f00005e",
+				"id": "5cb38a56ecadf2e73f00005e_001",
 				"question": "Is myc a tumour suppressor gene?"
 			  }
 			],
@@ -3083,7 +3083,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5cb3a2dd99d1e53537000001",
+				"id": "5cb3a2dd99d1e53537000001_001",
 				"question": "Is CD63 an exosomal marker?"
 			  }
 			],
@@ -3092,7 +3092,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5ca0c81eecadf2e73f000047",
+				"id": "5ca0c81eecadf2e73f000047_001",
 				"question": "Is subdural empyema a complication of sinusitis?"
 			  }
 			],
@@ -3101,7 +3101,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c98ac7fecadf2e73f00002b",
+				"id": "5c98ac7fecadf2e73f00002b_001",
 				"question": "Anaplasma phagocytophilum is an obligate gram-negative, intracellular bacterium, yes  or no"
 			  }
 			],
@@ -3110,7 +3110,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5cb380b8ecadf2e73f00005d",
+				"id": "5cb380b8ecadf2e73f00005d_001",
 				"question": "Is the crystal structure of Pim-1 available?"
 			  }
 			],
@@ -3119,7 +3119,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c92159becadf2e73f000012",
+				"id": "5c92159becadf2e73f000012_001",
 				"question": "Do tumour-associated macrophages have a prognostic role in gliomas?"
 			  }
 			],
@@ -3128,7 +3128,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c9f0dabecadf2e73f00003b",
+				"id": "5c9f0dabecadf2e73f00003b_001",
 				"question": "Is TNF-\u03b1 an activator of pancreatic stellate cells?"
 			  }
 			],
@@ -3137,7 +3137,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c9e738decadf2e73f000037",
+				"id": "5c9e738decadf2e73f000037_001",
 				"question": "Can mitochondria transfer from cell to cell?"
 			  }
 			],
@@ -3146,7 +3146,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e48e0e0f8b2df0d49000001",
+				"id": "5e48e0e0f8b2df0d49000001_001",
 				"question": "Are gut microbiota profiles altered by irradiation?"
 			  }
 			],
@@ -3155,7 +3155,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c7a4c35d774d04240000007",
+				"id": "5c7a4c35d774d04240000007_001",
 				"question": "Is TIM-3 a target for cancer immunotherapy in NSCLC?"
 			  }
 			],
@@ -3164,7 +3164,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c7019557c78d6947100005f",
+				"id": "5c7019557c78d6947100005f_001",
 				"question": "Does an interferon (IFN) signature exist for SLE patients?"
 			  }
 			],
@@ -3173,7 +3173,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e36d924b5b409ea5300000b",
+				"id": "5e36d924b5b409ea5300000b_001",
 				"question": "Is AND-1/Ctf4 essential for proliferation?"
 			  }
 			],
@@ -3182,7 +3182,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e4adcbe6d0a277941000017",
+				"id": "5e4adcbe6d0a277941000017_001",
 				"question": "Does the BRAFV600E mutation have an effect on clinical response to radioiodine therapy?"
 			  }
 			],
@@ -3191,7 +3191,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e30b56efbd6abf43b000037",
+				"id": "5e30b56efbd6abf43b000037_001",
 				"question": "Is the BAGEL algorithm used for arrayed CRISPR screens?"
 			  }
 			],
@@ -3200,7 +3200,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e2b253ffbd6abf43b000006",
+				"id": "5e2b253ffbd6abf43b000006_001",
 				"question": "Is AZD5153 active in prostate cancer?"
 			  }
 			],
@@ -3209,7 +3209,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e2b3784fbd6abf43b000009",
+				"id": "5e2b3784fbd6abf43b000009_001",
 				"question": "Is GRG5 involved only in late embryonic mouse development?"
 			  }
 			],
@@ -3218,7 +3218,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e480909d14c9f295d000003",
+				"id": "5e480909d14c9f295d000003_001",
 				"question": "Are astronauts in higher risk for developing cancer?"
 			  }
 			],
@@ -3227,7 +3227,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e2906948b3851296d00000a",
+				"id": "5e2906948b3851296d00000a_001",
 				"question": "Is Niraparib effective for ovarian cancer?"
 			  }
 			],
@@ -3236,7 +3236,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c72768a7c78d6947100006c",
+				"id": "5c72768a7c78d6947100006c_001",
 				"question": "Are genes that escape X-chromosome inactivation related to mental impairment?"
 			  }
 			],
@@ -3245,7 +3245,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e29fe76aa19d74431000007",
+				"id": "5e29fe76aa19d74431000007_001",
 				"question": "Has LB-100 been tested in clinical trials?"
 			  }
 			],
@@ -3254,7 +3254,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e290a268b3851296d00000d",
+				"id": "5e290a268b3851296d00000d_001",
 				"question": "Is palbociclib effective for glioblastoma?"
 			  }
 			],
@@ -3263,7 +3263,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e36d807b5b409ea5300000a",
+				"id": "5e36d807b5b409ea5300000a_001",
 				"question": "Does the Mcm2-Ctf4-Pol\u03b1 axis play a role in transfer of histones to leading strand DNA at the replication forks?"
 			  }
 			],
@@ -3272,7 +3272,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e2b0d71fbd6abf43b000001",
+				"id": "5e2b0d71fbd6abf43b000001_001",
 				"question": "Can discharge destinations be accurately predicted using the Risk Assessment and Prediction Tool (RAPT)?"
 			  }
 			],
@@ -3281,7 +3281,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e2db15cfbd6abf43b000014",
+				"id": "5e2db15cfbd6abf43b000014_001",
 				"question": "Has amantadine ER been approved by the FDA?"
 			  }
 			],
@@ -3290,7 +3290,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e2a0eb1aa19d7443100000c",
+				"id": "5e2a0eb1aa19d7443100000c_001",
 				"question": "Can PRL3-zumab inhibit PRL3+ cancer cells in vitro and in vivo?"
 			  }
 			],
@@ -3299,7 +3299,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5ca61b14ecadf2e73f00004f",
+				"id": "5ca61b14ecadf2e73f00004f_001",
 				"question": "Does Estrogen lead to forkhead FoxA1 activation?"
 			  }
 			],
@@ -3308,7 +3308,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5cc011e2a49efeb44c000001",
+				"id": "5cc011e2a49efeb44c000001_001",
 				"question": "Does association with the nuclear pore promote gene silencing?"
 			  }
 			],
@@ -3317,7 +3317,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e29f959aa19d74431000004",
+				"id": "5e29f959aa19d74431000004_001",
 				"question": "Can LB-100 sensitize ovarian carcinoma to cisplatin?"
 			  }
 			],
@@ -3326,7 +3326,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e2dac4efbd6abf43b00000f",
+				"id": "5e2dac4efbd6abf43b00000f_001",
 				"question": "Has istadefylline been considered as a treatment for Parkinson's disease?"
 			  }
 			],
@@ -3335,7 +3335,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e2dad57fbd6abf43b000010",
+				"id": "5e2dad57fbd6abf43b000010_001",
 				"question": "Is amantadine ER the first approved treatment for akinesia?"
 			  }
 			],
@@ -3344,7 +3344,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e480ccfd14c9f295d000005",
+				"id": "5e480ccfd14c9f295d000005_001",
 				"question": "Is g-H2AX a marker for double strand breaks?"
 			  }
 			],
@@ -3353,7 +3353,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5c7f806d617e120c34000001",
+				"id": "5c7f806d617e120c34000001_001",
 				"question": "Are tumour specific antigens originating from known protein coding genes?"
 			  }
 			],
@@ -3362,7 +3362,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e2a04feaa19d74431000009",
+				"id": "5e2a04feaa19d74431000009_001",
 				"question": "Can LB-100 downregulate miR-33?"
 			  }
 			],
@@ -3371,7 +3371,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e30f638fbd6abf43b000045",
+				"id": "5e30f638fbd6abf43b000045_001",
 				"question": "Does teplizumab hold promise for diabetes prevention?"
 			  }
 			],
@@ -3380,7 +3380,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e2dfab2fbd6abf43b00001d",
+				"id": "5e2dfab2fbd6abf43b00001d_001",
 				"question": "Does ProSavin use an adenoviral vector?"
 			  }
 			],
@@ -3389,7 +3389,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e3238bcfbd6abf43b000056",
+				"id": "5e3238bcfbd6abf43b000056_001",
 				"question": "Does radiation for tinea capitis increases brain tumor risk?"
 			  }
 			],
@@ -3398,7 +3398,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e2dbd0afbd6abf43b000017",
+				"id": "5e2dbd0afbd6abf43b000017_001",
 				"question": "Is pimavanserin a typical antipsychotic?"
 			  }
 			],
@@ -3407,7 +3407,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e5b93a2752ebcdc7a000003",
+				"id": "5e5b93a2752ebcdc7a000003_001",
 				"question": "Can Flotillin be used as exosomal marker?"
 			  }
 			],
@@ -3416,7 +3416,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e30f417fbd6abf43b000043",
+				"id": "5e30f417fbd6abf43b000043_001",
 				"question": "Is Apremilast effective for Beh\u00e7et\u2019s Syndrome?"
 			  }
 			],
@@ -3425,7 +3425,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e46ece93f5415952900000e",
+				"id": "5e46ece93f5415952900000e_001",
 				"question": "Is Rad4/XPC a DNA damage sensing protein?"
 			  }
 			],
@@ -3434,7 +3434,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e5b60adb761aafe0900000b",
+				"id": "5e5b60adb761aafe0900000b_001",
 				"question": "Is the protein ABCG2 transmembrane?"
 			  }
 			],
@@ -3443,7 +3443,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e3247f1fbd6abf43b00005b",
+				"id": "5e3247f1fbd6abf43b00005b_001",
 				"question": "Can radiotherapy cause radiation induced osteosarcoma?"
 			  }
 			],
@@ -3452,7 +3452,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5cf4dec0a49efeb44c00000c",
+				"id": "5cf4dec0a49efeb44c00000c_001",
 				"question": "Are lamina-associated domains (LADs) associated with transcriptional activation?"
 			  }
 			],
@@ -3461,7 +3461,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e31cc22fbd6abf43b000050",
+				"id": "5e31cc22fbd6abf43b000050_001",
 				"question": "Is Hemochromatosis type 4 is caused by a mutation in a recessive gene?"
 			  }
 			],
@@ -3470,7 +3470,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e371a1db5b409ea53000015",
+				"id": "5e371a1db5b409ea53000015_001",
 				"question": "Can Patient-derived organoids (PDOs) recapitulate patient responses in the clinic?"
 			  }
 			],
@@ -3479,7 +3479,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e49c5336d0a277941000011",
+				"id": "5e49c5336d0a277941000011_001",
 				"question": "Is overexpression of LY6K associated with better prognosis for non-small cell lung cancer patients?"
 			  }
 			],
@@ -3488,7 +3488,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5d31daacb3a6380763000003",
+				"id": "5d31daacb3a6380763000003_001",
 				"question": "Are the members of the KRAB-ZNF  gene family promoting gene repression?"
 			  }
 			],
@@ -3497,7 +3497,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e5b5c6fb761aafe0900000a",
+				"id": "5e5b5c6fb761aafe0900000a_001",
 				"question": "Is the protein ABCG2 (ATP-Binding Cassette, subfamily G, member 2, transporter) excreting uric acid?"
 			  }
 			],
@@ -3506,7 +3506,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e30f23cfbd6abf43b000042",
+				"id": "5e30f23cfbd6abf43b000042_001",
 				"question": "Is modified vaccinia Ankara effective for smallpox?"
 			  }
 			],
@@ -3515,7 +3515,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e30f76afbd6abf43b000046",
+				"id": "5e30f76afbd6abf43b000046_001",
 				"question": "Does nintedanib hold promise for lung disease associated with systemic sclerosis?"
 			  }
 			],
@@ -3524,7 +3524,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e49a1196d0a27794100000d",
+				"id": "5e49a1196d0a27794100000d_001",
 				"question": "Is PF-05190457 an inverse agonist of the ghrelin receptor?"
 			  }
 			],
@@ -3533,7 +3533,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e30e9e3fbd6abf43b00003c",
+				"id": "5e30e9e3fbd6abf43b00003c_001",
 				"question": "Is Ubrogepant effective for migraine?"
 			  }
 			],
@@ -3542,7 +3542,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e30f494fbd6abf43b000044",
+				"id": "5e30f494fbd6abf43b000044_001",
 				"question": "Is Selinexor effective for multiple myeloma?"
 			  }
 			],
@@ -3551,7 +3551,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e447f2448dab47f26000013",
+				"id": "5e447f2448dab47f26000013_001",
 				"question": "Are there lncRNAs that control the extent of neuronal outgrowth?"
 			  }
 			],
@@ -3560,7 +3560,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e4af1d86d0a277941000018",
+				"id": "5e4af1d86d0a277941000018_001",
 				"question": "Does metformin has as an antitumor effect?"
 			  }
 			],
@@ -3569,7 +3569,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e3234e0fbd6abf43b000054",
+				"id": "5e3234e0fbd6abf43b000054_001",
 				"question": "Can radiation induced meningiomas be treated with radiosurgery?"
 			  }
 			],
@@ -3578,7 +3578,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e3709a4b5b409ea53000012",
+				"id": "5e3709a4b5b409ea53000012_001",
 				"question": "Is there a BRCA mutation analysis in the Greek population?"
 			  }
 			],
@@ -3587,7 +3587,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e2dbf48fbd6abf43b00001a",
+				"id": "5e2dbf48fbd6abf43b00001a_001",
 				"question": "Has ProSavin undergone phase IV clinical trials by 2018?"
 			  }
 			],
@@ -3596,7 +3596,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5d35b9ecb3a6380763000004",
+				"id": "5d35b9ecb3a6380763000004_001",
 				"question": "Does deletion of cohesin change gene expression?"
 			  }
 			],
@@ -3605,7 +3605,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e2e1d6afbd6abf43b000026",
+				"id": "5e2e1d6afbd6abf43b000026_001",
 				"question": "Do MAIT cells have a role in multiple myeloma?"
 			  }
 			],
@@ -3614,7 +3614,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e3e843748dab47f26000007",
+				"id": "5e3e843748dab47f26000007_001",
 				"question": "Are stretch enhancers transcribed more than super-enhancers?"
 			  }
 			],
@@ -3623,7 +3623,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e31c4adfbd6abf43b00004d",
+				"id": "5e31c4adfbd6abf43b00004d_001",
 				"question": "Is mesothelioma caused by asbestos exposure?"
 			  }
 			],
@@ -3632,7 +3632,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e46fda33f54159529000012",
+				"id": "5e46fda33f54159529000012_001",
 				"question": "Are there interactions between short and long noncoding RNAs?"
 			  }
 			],
@@ -3641,7 +3641,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e5b90b3752ebcdc7a000002",
+				"id": "5e5b90b3752ebcdc7a000002_001",
 				"question": "Can brain derived exosomes carry APP molecules?"
 			  }
 			],
@@ -3650,7 +3650,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5d38826ea1e1595105000016",
+				"id": "5d38826ea1e1595105000016_001",
 				"question": "Is SATB1 positioned close to AT-rich sequences?"
 			  }
 			],
@@ -3659,7 +3659,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5d38462b7bc3fee31f000012",
+				"id": "5d38462b7bc3fee31f000012_001",
 				"question": "Does metformin alleviate atherosclerosis?"
 			  }
 			],
@@ -3668,7 +3668,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e2e1017fbd6abf43b000020",
+				"id": "5e2e1017fbd6abf43b000020_001",
 				"question": "Are CD8+ (cytotoxic) T cells and  CD4+ Helper T cells generated in the thyroid and express the T-cell receptor?"
 			  }
 			],
@@ -3677,7 +3677,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e31d181fbd6abf43b000053",
+				"id": "5e31d181fbd6abf43b000053_001",
 				"question": "Is Huntington's disease is caused by expansion of a CTG repeat in the HTT gene on Chromosome 4?"
 			  }
 			],
@@ -3686,7 +3686,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e323780fbd6abf43b000055",
+				"id": "5e323780fbd6abf43b000055_001",
 				"question": "Is there an increased risk of meningiomas in atomic bomb survivors?"
 			  }
 			],
@@ -3695,7 +3695,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e41620648dab47f2600000e",
+				"id": "5e41620648dab47f2600000e_001",
 				"question": "Is poliosis circumscripta another term for a white or unpigmented patch of hair or skin?"
 			  }
 			],
@@ -3704,7 +3704,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e44bdba48dab47f2600001c",
+				"id": "5e44bdba48dab47f2600001c_001",
 				"question": "Is Selumetinib effective for low-grade glioma?"
 			  }
 			],
@@ -3713,7 +3713,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5d35c227b3a6380763000007",
+				"id": "5d35c227b3a6380763000007_001",
 				"question": "Is SATB1 expressed in thymocytes?"
 			  }
 			],
@@ -3722,7 +3722,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e44c18648dab47f2600001f",
+				"id": "5e44c18648dab47f2600001f_001",
 				"question": "Does gavestinel improve outcomes of stroke patients?"
 			  }
 			],
@@ -3731,7 +3731,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e4c06d96d0a27794100002e",
+				"id": "5e4c06d96d0a27794100002e_001",
 				"question": "Can Systemic Lupus Erythematosus cause seizures?"
 			  }
 			],
@@ -3740,7 +3740,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e4fd4d56d0a277941000034",
+				"id": "5e4fd4d56d0a277941000034_001",
 				"question": "Is Impetigo a viral infection that affects the skin?"
 			  }
 			],
@@ -3749,7 +3749,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e44caaf48dab47f26000024",
+				"id": "5e44caaf48dab47f26000024_001",
 				"question": "Should Lubeluzole be used for treatment of ischemic stroke?"
 			  }
 			],
@@ -3758,7 +3758,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e36994092b3349b55000002",
+				"id": "5e36994092b3349b55000002_001",
 				"question": "Is there a role for TET proteins in invariant natural killer T cells (iNKT) cell fate?"
 			  }
 			],
@@ -3767,7 +3767,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e3c80abb5b409ea53000024",
+				"id": "5e3c80abb5b409ea53000024_001",
 				"question": "Thymoquinone is ineffective against radiation induced enteritis, yes or no?"
 			  }
 			],
@@ -3776,7 +3776,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e5d27531af46fc130000007",
+				"id": "5e5d27531af46fc130000007_001",
 				"question": "Has the Spanich flu virus been reconstructed?"
 			  }
 			],
@@ -3785,7 +3785,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e3a6c49b5b409ea53000017",
+				"id": "5e3a6c49b5b409ea53000017_001",
 				"question": "Is Verubecestat effective for Alzheimer's Disease?"
 			  }
 			],
@@ -3794,7 +3794,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e44c76f48dab47f26000022",
+				"id": "5e44c76f48dab47f26000022_001",
 				"question": "Is Aptiganel effective for treatment of stroke?"
 			  }
 			],
@@ -3803,7 +3803,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e47656935b8f0833c000004",
+				"id": "5e47656935b8f0833c000004_001",
 				"question": "Is indinavir effective for treatment of amyotrophic lateral sclerosis?"
 			  }
 			],
@@ -3812,7 +3812,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e324167fbd6abf43b00005a",
+				"id": "5e324167fbd6abf43b00005a_001",
 				"question": "Is there an increased risk for meningiomas in childhood leukemia survivors?"
 			  }
 			],
@@ -3821,7 +3821,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e540ed36d0a277941000054",
+				"id": "5e540ed36d0a277941000054_001",
 				"question": "Does saracatinib promote oncogenesis?"
 			  }
 			],
@@ -3830,7 +3830,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e2e0fa2fbd6abf43b00001f",
+				"id": "5e2e0fa2fbd6abf43b00001f_001",
 				"question": "Is BCL11B involved in schizophrenia?"
 			  }
 			],
@@ -3839,7 +3839,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e338cf5fbd6abf43b00005d",
+				"id": "5e338cf5fbd6abf43b00005d_001",
 				"question": "Are Chernobyl survivors at increased risk for breast cancer?"
 			  }
 			],
@@ -3848,7 +3848,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5d36b4817bc3fee31f000007",
+				"id": "5d36b4817bc3fee31f000007_001",
 				"question": "Is SATB1 necessary for T-cell maturation?"
 			  }
 			],
@@ -3857,7 +3857,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e46bf743f54159529000008",
+				"id": "5e46bf743f54159529000008_001",
 				"question": "Have toll-like receptor 2 activators been found in food?"
 			  }
 			],
@@ -3866,7 +3866,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e33904afbd6abf43b00005f",
+				"id": "5e33904afbd6abf43b00005f_001",
 				"question": "Does radiotherapy for Hodgkin disease increases risk for lung cancer?"
 			  }
 			],
@@ -3875,7 +3875,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e33916afbd6abf43b000061",
+				"id": "5e33916afbd6abf43b000061_001",
 				"question": "Does radiotherapy for prostate cancer increase bladder cancer risk?"
 			  }
 			],
@@ -3884,7 +3884,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e51a2d76d0a27794100003a",
+				"id": "5e51a2d76d0a27794100003a_001",
 				"question": "Do genes with monoallelic expression contribute proportionally to genetic diversity in humans?"
 			  }
 			],
@@ -3893,7 +3893,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e5437ffb761aafe09000002",
+				"id": "5e5437ffb761aafe09000002_001",
 				"question": "Has MLE4901 been tested in phase III clinical trials?"
 			  }
 			],
@@ -3902,7 +3902,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e5508e2b761aafe09000006",
+				"id": "5e5508e2b761aafe09000006_001",
 				"question": "Does ESN364 activate the hypothalamic-pituitary-gonadal axis?"
 			  }
 			],
@@ -3911,7 +3911,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e763645c6a8763d2300000d",
+				"id": "5e763645c6a8763d2300000d_001",
 				"question": "Has ORMD-0801 been tested in patients?"
 			  }
 			],
@@ -3920,7 +3920,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e763c3fc6a8763d23000010",
+				"id": "5e763c3fc6a8763d23000010_001",
 				"question": "Was vivotif licensed in Europe and the US at the same time?"
 			  }
 			],
@@ -3929,7 +3929,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e43090d48dab47f26000011",
+				"id": "5e43090d48dab47f26000011_001",
 				"question": "Are stem cell transplants used to treat acute kidney injury?"
 			  }
 			],
@@ -3938,7 +3938,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e51dab06d0a27794100003d",
+				"id": "5e51dab06d0a27794100003d_001",
 				"question": "Is deletion at 6q24.2-26 associated with shorter survival for ovarian cancer patients?"
 			  }
 			],
@@ -3947,7 +3947,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5d35eb01b3a638076300000f",
+				"id": "5d35eb01b3a638076300000f_001",
 				"question": "Are there negative enhancers?"
 			  }
 			],
@@ -3956,7 +3956,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e540db06d0a277941000053",
+				"id": "5e540db06d0a277941000053_001",
 				"question": "Has saracatinib been tested in clinical trials?"
 			  }
 			],
@@ -3965,7 +3965,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e500d8c6d0a277941000035",
+				"id": "5e500d8c6d0a277941000035_001",
 				"question": "Is \u03b1CGRP a member of the CGRP family?"
 			  }
 			],
@@ -3974,7 +3974,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e44c33a48dab47f26000020",
+				"id": "5e44c33a48dab47f26000020_001",
 				"question": "Can Enlimomab improve stroke outcomes?"
 			  }
 			],
@@ -3983,7 +3983,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5d384ce87bc3fee31f000013",
+				"id": "5d384ce87bc3fee31f000013_001",
 				"question": "Does GRHL2 over-expression lead to EMT?"
 			  }
 			],
@@ -3992,7 +3992,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e7f5cc5835f4e4777000015",
+				"id": "5e7f5cc5835f4e4777000015_001",
 				"question": "Is the Fluzone intradermal and the Fluzone intradermal quadrivalent vaccine produced by different companies?"
 			  }
 			],
@@ -4001,7 +4001,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e821ac5835f4e4777000031",
+				"id": "5e821ac5835f4e4777000031_001",
 				"question": "Is endotrophin derived from collagen?"
 			  }
 			],
@@ -4010,7 +4010,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e7f6090835f4e477700001a",
+				"id": "5e7f6090835f4e477700001a_001",
 				"question": "Can Daptacel be used instead of IPOL?"
 			  }
 			],
@@ -4019,7 +4019,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e806ff7835f4e4777000027",
+				"id": "5e806ff7835f4e4777000027_001",
 				"question": "Is ACE2 expressed on cell surfaces?"
 			  }
 			],
@@ -4028,7 +4028,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e7744c3835f4e4777000005",
+				"id": "5e7744c3835f4e4777000005_001",
 				"question": "Can leuprorelin acetate be used as androgen deprivation therapy?"
 			  }
 			],
@@ -4037,7 +4037,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e6e35b07fc1ee872b000004",
+				"id": "5e6e35b07fc1ee872b000004_001",
 				"question": "Are astrocytes part of the blood brain barrier?"
 			  }
 			],
@@ -4046,7 +4046,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e639a8b1af46fc130000011",
+				"id": "5e639a8b1af46fc130000011_001",
 				"question": "Is Li\u2013Fraumeni syndrome a rare, autosomal recessive, hereditary disorder that predisposes carriers to cancer development?"
 			  }
 			],
@@ -4055,7 +4055,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e776c72835f4e477700000e",
+				"id": "5e776c72835f4e477700000e_001",
 				"question": "Has the drug Afrezza been approved by the FDA?"
 			  }
 			],
@@ -4064,7 +4064,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e8220e6835f4e4777000032",
+				"id": "5e8220e6835f4e4777000032_001",
 				"question": "Is Protoporphyrinogen oxidase localized to the mitochondrium?"
 			  }
 			],
@@ -4073,7 +4073,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e36d498b5b409ea53000008",
+				"id": "5e36d498b5b409ea53000008_001",
 				"question": "Do de novo truncating mutations in WASF1 cause cancer?"
 			  }
 			],
@@ -4082,7 +4082,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e64ed381af46fc130000015",
+				"id": "5e64ed381af46fc130000015_001",
 				"question": "Are ICAMS, Intracellular Adhesion Molecules, part of the immunoglobulin superfamily?"
 			  }
 			],
@@ -4091,7 +4091,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e57fa23b761aafe09000008",
+				"id": "5e57fa23b761aafe09000008_001",
 				"question": "Is traditional Chinese medicine associated with a decreased risk of heart failure in breast cancer patients receiving doxorubicin treatment?"
 			  }
 			],
@@ -4100,7 +4100,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e6df5b51af46fc130000025",
+				"id": "5e6df5b51af46fc130000025_001",
 				"question": "Is PTEN a tumour suppressor?"
 			  }
 			],
@@ -4109,7 +4109,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5d387098a1e1595105000006",
+				"id": "5d387098a1e1595105000006_001",
 				"question": "Is the tyrosine kinase BTK implicated in autoimmunity?"
 			  }
 			],
@@ -4118,7 +4118,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5d387721a1e159510500000c",
+				"id": "5d387721a1e159510500000c_001",
 				"question": "Is induction of interferon by TLR7 higher in males?"
 			  }
 			],
@@ -4127,7 +4127,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e64f1921af46fc130000018",
+				"id": "5e64f1921af46fc130000018_001",
 				"question": "Is there a vaccine for rotavirus?"
 			  }
 			],
@@ -4136,7 +4136,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e2d7ceefbd6abf43b00000b",
+				"id": "5e2d7ceefbd6abf43b00000b_001",
 				"question": "Is BNN20 involved in Parkinson's disease?"
 			  }
 			],
@@ -4145,7 +4145,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e35d3c6158f994d3a000003",
+				"id": "5e35d3c6158f994d3a000003_001",
 				"question": "Is there a role for MRPL53 in cancer?"
 			  }
 			],
@@ -4154,7 +4154,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e36a4b7b5b409ea53000003",
+				"id": "5e36a4b7b5b409ea53000003_001",
 				"question": "Does Uc.63+ promote sensitivity to treatment in prostate cancer?"
 			  }
 			],
@@ -4163,7 +4163,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e2b3d97fbd6abf43b00000a",
+				"id": "5e2b3d97fbd6abf43b00000a_001",
 				"question": "Does BNN27 promote memory loss?"
 			  }
 			],
@@ -4172,7 +4172,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e4946bf6d0a277941000005",
+				"id": "5e4946bf6d0a277941000005_001",
 				"question": "Are genomic regulatory blocks (GRBs) any different than TADs?"
 			  }
 			],
@@ -4181,7 +4181,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e67bc121af46fc13000001c",
+				"id": "5e67bc121af46fc13000001c_001",
 				"question": "Are Spinal Intradural Primary Malignant Peripheral Nerve Sheath Tumors(MPNST) rare in neurofibromatosis patients?"
 			  }
 			],
@@ -4190,7 +4190,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e776541835f4e4777000009",
+				"id": "5e776541835f4e4777000009_001",
 				"question": "Can MVA85A confer immunity against smallpox?"
 			  }
 			],
@@ -4199,7 +4199,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e6e2c1e7fc1ee872b000002",
+				"id": "5e6e2c1e7fc1ee872b000002_001",
 				"question": "Is MLL3 part of the ASCOM complex?"
 			  }
 			],
@@ -4208,7 +4208,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e476da1d14c9f295d000002",
+				"id": "5e476da1d14c9f295d000002_001",
 				"question": "Is marimastat effective for small-cell lung cancer?"
 			  }
 			],
@@ -4217,7 +4217,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e4b64126d0a277941000028",
+				"id": "5e4b64126d0a277941000028_001",
 				"question": "Is Figitumumab effective for non-small cell lung cancer?"
 			  }
 			],
@@ -4226,7 +4226,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e3ab58db5b409ea5300001c",
+				"id": "5e3ab58db5b409ea5300001c_001",
 				"question": "The LINCS L1000 data set contains gene expression data for drug treated human cells, yes or no?"
 			  }
 			],
@@ -4235,7 +4235,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e46bdcd3f54159529000007",
+				"id": "5e46bdcd3f54159529000007_001",
 				"question": "Is there a vaccine for peanut allergy?"
 			  }
 			],
@@ -4244,7 +4244,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e476b99d14c9f295d000001",
+				"id": "5e476b99d14c9f295d000001_001",
 				"question": "Is golimumab effective for sarcoidosis?"
 			  }
 			],
@@ -4253,7 +4253,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e80675d835f4e4777000026",
+				"id": "5e80675d835f4e4777000026_001",
 				"question": "Is SARS virus interacting with ACE2 encoded protein?"
 			  }
 			],
@@ -4262,7 +4262,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e3ebaa348dab47f2600000a",
+				"id": "5e3ebaa348dab47f2600000a_001",
 				"question": "Is the FIP virus thought to be a mutated strain for the Feline enteric Coronavirus?"
 			  }
 			],
@@ -4271,7 +4271,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5d36bb777bc3fee31f00000a",
+				"id": "5d36bb777bc3fee31f00000a_001",
 				"question": "Does SATB1 regulate the RAG1 and RAG2 genes?"
 			  }
 			],
@@ -4280,7 +4280,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5d371ec97bc3fee31f00000c",
+				"id": "5d371ec97bc3fee31f00000c_001",
 				"question": "Is CTCF bound at nucleosome free regions?"
 			  }
 			],
@@ -4289,7 +4289,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e3c6850b5b409ea5300001f",
+				"id": "5e3c6850b5b409ea5300001f_001",
 				"question": "Is bortezomib a Proteasome inhibitor?"
 			  }
 			],
@@ -4298,7 +4298,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5d3856ca7bc3fee31f000016",
+				"id": "5d3856ca7bc3fee31f000016_001",
 				"question": "Is PRDM9 essential for meiosis?"
 			  }
 			],
@@ -4307,7 +4307,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e4b5f9a6d0a277941000021",
+				"id": "5e4b5f9a6d0a277941000021_001",
 				"question": "Should Pentoxifylline be used for treatment of amyotrophic lateral sclerosis?"
 			  }
 			],
@@ -4316,7 +4316,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e52bc986d0a277941000049",
+				"id": "5e52bc986d0a277941000049_001",
 				"question": "Is the CADM2 gene associated with differences in information processing speed?"
 			  }
 			],
@@ -4325,7 +4325,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e494cf96d0a277941000008",
+				"id": "5e494cf96d0a277941000008_001",
 				"question": "Is Nivolumab (Opdivo) a PD-L1 inhibitor?"
 			  }
 			],
@@ -4334,7 +4334,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e4b5fd86d0a277941000022",
+				"id": "5e4b5fd86d0a277941000022_001",
 				"question": "Does clinical trial data support the use of minocycline for amyotrophic lateral sclerosis?"
 			  }
 			],
@@ -4343,7 +4343,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e776a10835f4e477700000c",
+				"id": "5e776a10835f4e477700000c_001",
 				"question": "Is the drug Exubera currently (March 2020) available?"
 			  }
 			],
@@ -4352,7 +4352,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e3c6e15b5b409ea53000023",
+				"id": "5e3c6e15b5b409ea53000023_001",
 				"question": "Are breaks in double stranded DNA associated with ionizing radiation?"
 			  }
 			],
@@ -4361,7 +4361,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e52c0c76d0a27794100004b",
+				"id": "5e52c0c76d0a27794100004b_001",
 				"question": "Is KAT2A involved in Acute myeloid leukemia (AML)?"
 			  }
 			],
@@ -4370,7 +4370,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e4b639c6d0a277941000027",
+				"id": "5e4b639c6d0a277941000027_001",
 				"question": "Is NicVAX vaccine effective for smoking cessation?"
 			  }
 			],
@@ -4379,7 +4379,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e48b1ddd14c9f295d000012",
+				"id": "5e48b1ddd14c9f295d000012_001",
 				"question": "Does natalizumab improve disease course of secondary progressive multiple sclerosis?"
 			  }
 			],
@@ -4388,7 +4388,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e52c9266d0a27794100004e",
+				"id": "5e52c9266d0a27794100004e_001",
 				"question": "AhR ligands are attractive drug targets for pharmaceutical development due to their induction of Cyp1a1, yes or no?"
 			  }
 			],
@@ -4397,7 +4397,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5d385f717bc3fee31f00001a",
+				"id": "5d385f717bc3fee31f00001a_001",
 				"question": "Does the chromatin remodeling complex, RSC target H2A.Z nucleosomes?"
 			  }
 			],
@@ -4406,7 +4406,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e7f69d2835f4e4777000021",
+				"id": "5e7f69d2835f4e4777000021_001",
 				"question": "Has ZP-PTH been tested in a phase II clinical trial?"
 			  }
 			],
@@ -4415,7 +4415,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e48b9abd14c9f295d000015",
+				"id": "5e48b9abd14c9f295d000015_001",
 				"question": "Are multipotent adult progenitor cells effective for treatment of stroke?"
 			  }
 			],
@@ -4424,7 +4424,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e3d8edf48dab47f26000003",
+				"id": "5e3d8edf48dab47f26000003_001",
 				"question": "Autophagy is the process where a virus obtains nutrients from it's host, yes or no?"
 			  }
 			],
@@ -4433,7 +4433,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5d387a51a1e159510500000e",
+				"id": "5d387a51a1e159510500000e_001",
 				"question": "Does CXorf21 escape X chromosome inactivation?"
 			  }
 			],
@@ -4442,7 +4442,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e52ab626d0a277941000046",
+				"id": "5e52ab626d0a277941000046_001",
 				"question": "Does promoter shape vary across populations?"
 			  }
 			],
@@ -4451,7 +4451,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e4b5ef36d0a27794100001f",
+				"id": "5e4b5ef36d0a27794100001f_001",
 				"question": "Does xaliproden improve prognosis of amyotrophic lateral sclerosis?"
 			  }
 			],
@@ -4460,7 +4460,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e8101e3835f4e477700002e",
+				"id": "5e8101e3835f4e477700002e_001",
 				"question": "Is cathepsin L active in endosomes?"
 			  }
 			],
@@ -4469,7 +4469,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e4b5f566d0a277941000020",
+				"id": "5e4b5f566d0a277941000020_001",
 				"question": "Is celecoxib effective for amyotrophic lateral sclerosis?"
 			  }
 			],
@@ -4478,7 +4478,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e6e8600c6a8763d23000002",
+				"id": "5e6e8600c6a8763d23000002_001",
 				"question": "Is the protein MCL-1 anti-apoptotic?"
 			  }
 			],
@@ -4487,7 +4487,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e48bd2ed14c9f295d000017",
+				"id": "5e48bd2ed14c9f295d000017_001",
 				"question": "Is ozanezumab effective for amyotrophic lateral sclerosis?"
 			  }
 			],
@@ -4496,7 +4496,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e4b62946d0a277941000024",
+				"id": "5e4b62946d0a277941000024_001",
 				"question": "Is Dexmecamylamine effective for depression?"
 			  }
 			],
@@ -4505,7 +4505,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e7f64a5835f4e477700001e",
+				"id": "5e7f64a5835f4e477700001e_001",
 				"question": "Can CMB305 be used against sarcomas?"
 			  }
 			],
@@ -4514,7 +4514,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "60258ebe1cb411341a0000a8",
+				"id": "60258ebe1cb411341a0000a8_001",
 				"question": "Has tocilizumab been assessed against Covid-19?"
 			  }
 			],
@@ -4523,7 +4523,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5fdb2e60a43ad3127800000c",
+				"id": "5fdb2e60a43ad3127800000c_001",
 				"question": "Is the TFR1 gene dispensable for erythropoiesis?"
 			  }
 			],
@@ -4532,7 +4532,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e94aadf0d431b5f73000002",
+				"id": "5e94aadf0d431b5f73000002_001",
 				"question": "Is Bcl-2-like protein 1 an pro apoptotic protein?"
 			  }
 			],
@@ -4541,7 +4541,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e52c96b6d0a27794100004f",
+				"id": "5e52c96b6d0a27794100004f_001",
 				"question": "Glucoraphanin from broccoli can help reduce obesity , yes or no?"
 			  }
 			],
@@ -4550,7 +4550,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e6f774ec6a8763d23000009",
+				"id": "5e6f774ec6a8763d23000009_001",
 				"question": "Are bacteria in the genus Clostridium facultative anaerobes?"
 			  }
 			],
@@ -4559,7 +4559,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5fdb4253a43ad31278000022",
+				"id": "5fdb4253a43ad31278000022_001",
 				"question": "Do nematodes contain architectural proteins like CTCF?"
 			  }
 			],
@@ -4568,7 +4568,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6025912a1cb411341a0000aa",
+				"id": "6025912a1cb411341a0000aa_001",
 				"question": "Is tocilizumab a tumor necrosis factor inhibitor?"
 			  }
 			],
@@ -4577,7 +4577,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e43ee1f48dab47f26000012",
+				"id": "5e43ee1f48dab47f26000012_001",
 				"question": "Do circular exons increase gene expression?"
 			  }
 			],
@@ -4586,7 +4586,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e4d6e446d0a27794100002f",
+				"id": "5e4d6e446d0a27794100002f_001",
 				"question": "Is MAGE-A3 immunotherapeutic effective for non-small-cell lung cancer?"
 			  }
 			],
@@ -4595,7 +4595,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e94a8250d431b5f73000001",
+				"id": "5e94a8250d431b5f73000001_001",
 				"question": "Does protein ALEX1 contain armadillo repeats?"
 			  }
 			],
@@ -4604,7 +4604,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e3390fafbd6abf43b000060",
+				"id": "5e3390fafbd6abf43b000060_001",
 				"question": "Does radiotherapy for cervical cancer increases risk of colon cancer?"
 			  }
 			],
@@ -4613,7 +4613,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5fe31321a43ad3127800004b",
+				"id": "5fe31321a43ad3127800004b_001",
 				"question": "Is yeast fbp1 affected by glucose starvation stress?"
 			  }
 			],
@@ -4622,7 +4622,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e4b64516d0a277941000029",
+				"id": "5e4b64516d0a277941000029_001",
 				"question": "Is Semagacestat effective for Alzheimer's Disease?"
 			  }
 			],
@@ -4631,7 +4631,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e9eba150d431b5f73000005",
+				"id": "5e9eba150d431b5f73000005_001",
 				"question": "Do nematodes contain a CTCF gene?"
 			  }
 			],
@@ -4640,7 +4640,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "60259fe91cb411341a0000b3",
+				"id": "60259fe91cb411341a0000b3_001",
 				"question": "Is tocilizumab a csDMARD?"
 			  }
 			],
@@ -4649,7 +4649,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "601c1a271cb411341a000011",
+				"id": "601c1a271cb411341a000011_001",
 				"question": "Can SMAD6 variants cause craniosynostosis?"
 			  }
 			],
@@ -4658,7 +4658,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5fdb4124a43ad31278000017",
+				"id": "5fdb4124a43ad31278000017_001",
 				"question": "Is Tcf3 associated with the Wnt pathway?"
 			  }
 			],
@@ -4667,7 +4667,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e766256835f4e4777000003",
+				"id": "5e766256835f4e4777000003_001",
 				"question": "Have the rotavirus vaccines changed the predominant rotavirus genotypes?"
 			  }
 			],
@@ -4676,7 +4676,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e323e93fbd6abf43b000059",
+				"id": "5e323e93fbd6abf43b000059_001",
 				"question": "Does head ct increase brain tumor risk?"
 			  }
 			],
@@ -4685,7 +4685,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e764732c6a8763d23000017",
+				"id": "5e764732c6a8763d23000017_001",
 				"question": "Can AGY be used as antidiuretic replacement therapy?"
 			  }
 			],
@@ -4694,7 +4694,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e323d79fbd6abf43b000058",
+				"id": "5e323d79fbd6abf43b000058_001",
 				"question": "Can secondary glioblastoma be caused by brain irradiation?"
 			  }
 			],
@@ -4703,7 +4703,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e94902f2d3121100d000012",
+				"id": "5e94902f2d3121100d000012_001",
 				"question": "Is aggrephagy a variant of autophagy?"
 			  }
 			],
@@ -4712,7 +4712,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "601d75281cb411341a000043",
+				"id": "601d75281cb411341a000043_001",
 				"question": "Is there any role of genotoxic pks + E. coli in cancer?"
 			  }
 			],
@@ -4721,7 +4721,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e44c59848dab47f26000021",
+				"id": "5e44c59848dab47f26000021_001",
 				"question": "Should tirilazad be used for treatment of ischemic stroke?"
 			  }
 			],
@@ -4730,7 +4730,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e64f11a1af46fc130000017",
+				"id": "5e64f11a1af46fc130000017_001",
 				"question": "Is the Paramyxovirus geneome segmented, negative-sense RNA?"
 			  }
 			],
@@ -4739,7 +4739,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "602599251cb411341a0000b1",
+				"id": "602599251cb411341a0000b1_001",
 				"question": "Does the use of bDMARDs during pregnancy impact neonatal development?"
 			  }
 			],
@@ -4748,7 +4748,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "601d46d61cb411341a000030",
+				"id": "601d46d61cb411341a000030_001",
 				"question": "Do exon 38 or 39 KMT2D missense variants cause Kabuki syndrome type 1 (KS1)?"
 			  }
 			],
@@ -4757,7 +4757,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "601c4e5e1cb411341a000021",
+				"id": "601c4e5e1cb411341a000021_001",
 				"question": "Is cabergoline used for treatment of the Nelson's syndrome ?"
 			  }
 			],
@@ -4766,7 +4766,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "604903551cb411341a000162",
+				"id": "604903551cb411341a000162_001",
 				"question": "Are mucins glycosylated proteins?"
 			  }
 			],
@@ -4775,7 +4775,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "601d73ee1cb411341a00003f",
+				"id": "601d73ee1cb411341a00003f_001",
 				"question": "Is carpal tunnel syndrome a type of nerve entrapment?"
 			  }
 			],
@@ -4784,7 +4784,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "602905e81cb411341a000108",
+				"id": "602905e81cb411341a000108_001",
 				"question": "Is there a link between rare variants in PPARG and type 1 diabetes?"
 			  }
 			],
@@ -4793,7 +4793,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5fd78702a43ad31278000005",
+				"id": "5fd78702a43ad31278000005_001",
 				"question": "Does steroid 5A-Reductase deficiency lead to hermaphroditism?"
 			  }
 			],
@@ -4802,7 +4802,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6026db1f1cb411341a0000cf",
+				"id": "6026db1f1cb411341a0000cf_001",
 				"question": "Has ubrogepant entered clinical phase III trials?"
 			  }
 			],
@@ -4811,7 +4811,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6031002d1cb411341a000129",
+				"id": "6031002d1cb411341a000129_001",
 				"question": "Are PDXK mutations linked to polyneuropathy?"
 			  }
 			],
@@ -4820,7 +4820,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "601d76131cb411341a000044",
+				"id": "601d76131cb411341a000044_001",
 				"question": "Is avelumab effective for urothelial carcinoma?"
 			  }
 			],
@@ -4829,7 +4829,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "601dc46c1cb411341a000050",
+				"id": "601dc46c1cb411341a000050_001",
 				"question": "Is MIS-C or Multisystem  Inflammatory syndrome in children a complication of Covid-19?"
 			  }
 			],
@@ -4838,7 +4838,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6020010a1cb411341a00007c",
+				"id": "6020010a1cb411341a00007c_001",
 				"question": "Is co-loss of BRCA2-RB1 associated with better prognosis for prostate cancer patients?"
 			  }
 			],
@@ -4847,16 +4847,16 @@
 		  {
 			"qas": [
 			  {
-				"id": "6028ffae1cb411341a000106",
+				"id": "6028ffae1cb411341a000106_001",
 				"question": "Does erenumab target the calcitonin gene-related peptide?"
 			  }
 			],
-			"context": "four monoclonal antibodies have been developed : one targeting the calcitonin gene - related peptide receptor ( erenumab ) and three targeting the calcitonin gene - related peptide ( eptinezumab, fremanezumab, and galcanezumab ).\ncurrently, there is considerable excitement regarding monoclonal antibodies against calcitonin gene - related peptide ( eptinezumab, galcanezumab, fremanezumab ) and the calcitonin gene - related peptide receptor ( erenumab )\npurpose of review : monoclonal antibodies ( mabs ) targeting the calcitonin - gene - related peptide ( cgrp ) pathway have been developed for episodic and chronic migraine prevention, either through binding the cgrp ligand ( eptinezumab, fremanezumab,\nfurthermore, new hope rises for the cgrp ( calcitonin - gene related peptide ) - antagonists, as the data for ubrogepant do not suggest hepatotoxicity but efficacy.\ngalcanezumab, a humanized monoclonal antibody that selectively binds to the calcitonin gene - related peptide, has demonstrated in previous phase 2 and phase 3 clinical studies ( \u22646 - month of treatment ) a reduction in the number of migraine headache\neptinezumab - jjmr ( referred to as eptinezumab hereafter ; vyepti\u2122 ) is a humanised monoclonal antibody that binds to calcitonin gene - related peptide ( cgrp ) and blocks its binding to the receptor.\ncalcitonin gene - related peptide ( cgrp ) receptor antagonists ( gepants - rimegepant and ubrogepant ) and serotonin 5 - ht _ _ sub _ _ 1f _ _ end _ sub _ _ receptor agonists ( ditans - lasmiditan ) have completed phase 3 clinical trials and will soon offer novel,\nwe applied this strategy for another late - stage clinical program : ubrogepant ( mk - 1602 ), a novel oral calcitonin gene - related peptide receptor antagonist for acute treatment of migraine.\nimportance galcanezumab ( ly2951742 ), a monoclonal antibody against calcitonin gene - related peptide ( cgrp ), is one of a novel class of new medicines for migraine prevention.\nbackground galcanezumab is a humanized monoclonal antibody that selectively binds to the calcitonin gene - related peptide ( cgrp ) and has demonstrated efficacy in reducing migraine headache days ( mhd ) in patients with episodic and chronic migraine."
+			"context": "four monoclonal antibodies have been developed : one targeting the calcitonin gene - related peptide receptor ( erenumab ) and three targeting the calcitonin gene - related peptide ( eptinezumab, fremanezumab, and galcanezumab ).\ncurrently, there is considerable excitement regarding monoclonal antibodies against calcitonin gene - related peptide ( eptinezumab, galcanezumab, fremanezumab ) and the calcitonin gene - related peptide receptor ( erenumab )\nfurthermore, new hope rises for the cgrp ( calcitonin - gene related peptide ) - antagonists, as the data for ubrogepant do not suggest hepatotoxicity but efficacy.\npurpose of review : monoclonal antibodies ( mabs ) targeting the calcitonin - gene - related peptide ( cgrp ) pathway have been developed for episodic and chronic migraine prevention, either through binding the cgrp ligand ( eptinezumab, fremanezumab,\ngalcanezumab, a humanized monoclonal antibody that selectively binds to the calcitonin gene - related peptide, has demonstrated in previous phase 2 and phase 3 clinical studies ( \u22646 - month of treatment ) a reduction in the number of migraine headache\neptinezumab - jjmr ( referred to as eptinezumab hereafter ; vyepti\u2122 ) is a humanised monoclonal antibody that binds to calcitonin gene - related peptide ( cgrp ) and blocks its binding to the receptor.\ncalcitonin gene - related peptide ( cgrp ) receptor antagonists ( gepants - rimegepant and ubrogepant ) and serotonin 5 - ht _ _ sub _ _ 1f _ _ end _ sub _ _ receptor agonists ( ditans - lasmiditan ) have completed phase 3 clinical trials and will soon offer novel,\nwe applied this strategy for another late - stage clinical program : ubrogepant ( mk - 1602 ), a novel oral calcitonin gene - related peptide receptor antagonist for acute treatment of migraine.\nimportance galcanezumab ( ly2951742 ), a monoclonal antibody against calcitonin gene - related peptide ( cgrp ), is one of a novel class of new medicines for migraine prevention.\nbackground galcanezumab is a humanized monoclonal antibody that selectively binds to the calcitonin gene - related peptide ( cgrp ) and has demonstrated efficacy in reducing migraine headache days ( mhd ) in patients with episodic and chronic migraine."
 		  },
 		  {
 			"qas": [
 			  {
-				"id": "601c44ab1cb411341a00001c",
+				"id": "601c44ab1cb411341a00001c_001",
 				"question": "Can radiosurgery be used for the DNET tumors?"
 			  }
 			],
@@ -4865,7 +4865,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6026754f1cb411341a0000c8",
+				"id": "6026754f1cb411341a0000c8_001",
 				"question": "Should minocycline be used for mild Alzheimer disease?"
 			  }
 			],
@@ -4874,7 +4874,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "60290a131cb411341a000109",
+				"id": "60290a131cb411341a000109_001",
 				"question": "Is there an association of alterations in ADCY7 and ulcerative colitis?"
 			  }
 			],
@@ -4883,7 +4883,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "604906ed1cb411341a000163",
+				"id": "604906ed1cb411341a000163_001",
 				"question": "Are mucin overexpression associated with disease?"
 			  }
 			],
@@ -4892,7 +4892,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6025fdf41cb411341a0000c0",
+				"id": "6025fdf41cb411341a0000c0_001",
 				"question": "Should nerinetide be used for treatment of ischaemic stroke?"
 			  }
 			],
@@ -4901,7 +4901,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6026de661cb411341a0000d1",
+				"id": "6026de661cb411341a0000d1_001",
 				"question": "Are there small molecule CGRPs under development for the treatment of migraine?"
 			  }
 			],
@@ -4910,7 +4910,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6026ee821cb411341a0000d3",
+				"id": "6026ee821cb411341a0000d3_001",
 				"question": "Is eptinezumab a small molecule?"
 			  }
 			],
@@ -4919,7 +4919,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "60324b771cb411341a000139",
+				"id": "60324b771cb411341a000139_001",
 				"question": "Is the apilimod inhibitor effective against SARS-CoV-2?"
 			  }
 			],
@@ -4928,7 +4928,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "602673e91cb411341a0000c7",
+				"id": "602673e91cb411341a0000c7_001",
 				"question": "Is Lanabecestat effective for Alzheimer's disease?"
 			  }
 			],
@@ -4937,7 +4937,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "601c46f61cb411341a00001d",
+				"id": "601c46f61cb411341a00001d_001",
 				"question": "Was golimumab tested for diabetes?"
 			  }
 			],
@@ -4946,7 +4946,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "604fc22894d57fd879000008",
+				"id": "604fc22894d57fd879000008_001",
 				"question": "Is G3BP1 found in stress granules?"
 			  }
 			],
@@ -4955,7 +4955,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5fdb4290a43ad31278000024",
+				"id": "5fdb4290a43ad31278000024_001",
 				"question": "Do polycomb group proteins (PcG) mediate the formation of chromatin loops?"
 			  }
 			],
@@ -4964,7 +4964,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5fe31319a43ad31278000046",
+				"id": "5fe31319a43ad31278000046_001",
 				"question": "Can ATAC-Seq be employed in single-cell mode?"
 			  }
 			],
@@ -4973,7 +4973,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5fdb42fba43ad31278000027",
+				"id": "5fdb42fba43ad31278000027_001",
 				"question": "Are there negative enhancers?"
 			  }
 			],
@@ -4982,7 +4982,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5fdb42b7a43ad31278000025",
+				"id": "5fdb42b7a43ad31278000025_001",
 				"question": "Are super enhancers structurally insulated in chromatin loops?"
 			  }
 			],
@@ -4991,7 +4991,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6060e1a094d57fd879000049",
+				"id": "6060e1a094d57fd879000049_001",
 				"question": "Does IL18 signaling have a role in thymus?"
 			  }
 			],
@@ -5000,7 +5000,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "601c18921cb411341a00000f",
+				"id": "601c18921cb411341a00000f_001",
 				"question": "Does an antiphlogistic promotes inflammation?"
 			  }
 			],
@@ -5009,7 +5009,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6020ad161cb411341a000082",
+				"id": "6020ad161cb411341a000082_001",
 				"question": "Is liraglutide effective for weight reduction?"
 			  }
 			],
@@ -5018,7 +5018,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6020b0e21cb411341a000085",
+				"id": "6020b0e21cb411341a000085_001",
 				"question": "Is Eflornithine and Sulindac are effective for prevention of progression in Familial Adenomatous Polyposis?"
 			  }
 			],
@@ -5027,7 +5027,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "602498cb1cb411341a00009e",
+				"id": "602498cb1cb411341a00009e_001",
 				"question": "Is Olaparib effective for prostate cancer?"
 			  }
 			],
@@ -5036,7 +5036,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6025fd261cb411341a0000bf",
+				"id": "6025fd261cb411341a0000bf_001",
 				"question": "Is isradipine effective for Parkinson's disease?"
 			  }
 			],
@@ -5045,7 +5045,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6026c1071cb411341a0000cb",
+				"id": "6026c1071cb411341a0000cb_001",
 				"question": "Is MK-1602 a CGRP antagonist?"
 			  }
 			],
@@ -5054,7 +5054,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6027dc011cb411341a0000eb",
+				"id": "6027dc011cb411341a0000eb_001",
 				"question": "Does inactivation of CYLD help in colorectal cancer?"
 			  }
 			],
@@ -5063,7 +5063,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "60290c2b1cb411341a00010a",
+				"id": "60290c2b1cb411341a00010a_001",
 				"question": "Is there high nucleotide diversity in the Drosophila suzukii species?"
 			  }
 			],
@@ -5072,7 +5072,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "60327e541cb411341a00013e",
+				"id": "60327e541cb411341a00013e_001",
 				"question": "Is Hunter's disease is associated with the X Chromosome?"
 			  }
 			],
@@ -5081,7 +5081,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "60328f351cb411341a000145",
+				"id": "60328f351cb411341a000145_001",
 				"question": "Can Freund's complete adjuvant induce arthritis?"
 			  }
 			],
@@ -5090,7 +5090,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "603291f21cb411341a000146",
+				"id": "603291f21cb411341a000146_001",
 				"question": "Can saponins be used as adjuvant?"
 			  }
 			],
@@ -5099,7 +5099,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "603bc16b1cb411341a000158",
+				"id": "603bc16b1cb411341a000158_001",
 				"question": "Is erabutoxin b usually found in plants?"
 			  }
 			],
@@ -5108,7 +5108,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "603285861cb411341a000141",
+				"id": "603285861cb411341a000141_001",
 				"question": "Are Toll-like receptors (TLRs) induced by microbes?"
 			  }
 			],
@@ -5117,7 +5117,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "603e43d51cb411341a00015e",
+				"id": "603e43d51cb411341a00015e_001",
 				"question": "Is Ixodes a species of tick?"
 			  }
 			],
@@ -5126,7 +5126,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "60367f5e1cb411341a000157",
+				"id": "60367f5e1cb411341a000157_001",
 				"question": "Is HbA1c an ideal biomarker of well-controlled diabetes?"
 			  }
 			],
@@ -5135,7 +5135,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6057003594d57fd879000020",
+				"id": "6057003594d57fd879000020_001",
 				"question": "Are the major royal jelly proteins similar to the yellow proteins?"
 			  }
 			],
@@ -5144,7 +5144,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6057014c94d57fd879000022",
+				"id": "6057014c94d57fd879000022_001",
 				"question": "Is the Apis mellifera genome available?"
 			  }
 			],
@@ -5153,7 +5153,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "60570af094d57fd879000025",
+				"id": "60570af094d57fd879000025_001",
 				"question": "Has the olive tree pollen proteome been studied?"
 			  }
 			],
@@ -5162,7 +5162,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6060c7c094d57fd879000046",
+				"id": "6060c7c094d57fd879000046_001",
 				"question": "Is cadherin a plasma membrane marker?"
 			  }
 			],
@@ -5171,7 +5171,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5fe31304a43ad3127800003a",
+				"id": "5fe31304a43ad3127800003a_001",
 				"question": "Is methotrexate used for the treatment of Rheumatoid Arthritis (RA)?"
 			  }
 			],
@@ -5180,7 +5180,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "605e3c8294d57fd879000037",
+				"id": "605e3c8294d57fd879000037_001",
 				"question": "Is atenolol metabolized by CYP2D6?"
 			  }
 			],
@@ -5189,7 +5189,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "606b3b6794d57fd879000064",
+				"id": "606b3b6794d57fd879000064_001",
 				"question": "Is the glucocorticoid receptor a transcription factor?"
 			  }
 			],
@@ -5198,7 +5198,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "601fff6a1cb411341a00007b",
+				"id": "601fff6a1cb411341a00007b_001",
 				"question": "Are there sex differences in oncogenic mutational processes?"
 			  }
 			],
@@ -5207,7 +5207,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "606a232a94d57fd87900004c",
+				"id": "606a232a94d57fd87900004c_001",
 				"question": "Is metoprolol metabolized by CYP2D6?"
 			  }
 			],
@@ -5216,7 +5216,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "60292e1b1cb411341a000111",
+				"id": "60292e1b1cb411341a000111_001",
 				"question": "Does Curare function by stimulating the acetylcholine receptor?"
 			  }
 			],
@@ -5225,7 +5225,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5fdb2ee4a43ad3127800000f",
+				"id": "5fdb2ee4a43ad3127800000f_001",
 				"question": "Are somatic mutations positioned towards the nuclear periphery?"
 			  }
 			],
@@ -5234,7 +5234,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6020ab801cb411341a000081",
+				"id": "6020ab801cb411341a000081_001",
 				"question": "Is belimumab effective for the lupus nephritis?"
 			  }
 			],
@@ -5243,7 +5243,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5fdb4311a43ad31278000028",
+				"id": "5fdb4311a43ad31278000028_001",
 				"question": "Are enhancers directional in their targeting of gene promoters?"
 			  }
 			],
@@ -5252,7 +5252,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "606b718994d57fd87900006b",
+				"id": "606b718994d57fd87900006b_001",
 				"question": "Has dupilumab been FDA approved for atopic dermatitis?"
 			  }
 			],
@@ -5261,7 +5261,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6025dd0c1cb411341a0000b9",
+				"id": "6025dd0c1cb411341a0000b9_001",
 				"question": "Should cerebrolysin be used for aneurysmal subarachnoid hemorrhage?"
 			  }
 			],
@@ -5270,7 +5270,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "603213ea1cb411341a000131",
+				"id": "603213ea1cb411341a000131_001",
 				"question": "Do bacteria release extracellular vesicles?"
 			  }
 			],
@@ -5279,7 +5279,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6025ddde1cb411341a0000ba",
+				"id": "6025ddde1cb411341a0000ba_001",
 				"question": "Is Tranexamic acid effective for intracerebral haemorrhage?"
 			  }
 			],
@@ -5288,7 +5288,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "60490dc71cb411341a000167",
+				"id": "60490dc71cb411341a000167_001",
 				"question": "Are interferons defensive proteins?"
 			  }
 			],
@@ -5297,7 +5297,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "60354a7b1cb411341a000154",
+				"id": "60354a7b1cb411341a000154_001",
 				"question": "Do honey contain diastases/amylases?"
 			  }
 			],
@@ -5306,7 +5306,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "601ecab41cb411341a000065",
+				"id": "601ecab41cb411341a000065_001",
 				"question": "Is adenosine signaling prognostic for cancer outcome?"
 			  }
 			],
@@ -5315,7 +5315,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5e67cd6b1af46fc13000001e",
+				"id": "5e67cd6b1af46fc13000001e_001",
 				"question": "Does AZD3759 cross the blood brain barrier?"
 			  }
 			],
@@ -5324,7 +5324,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5fe0c141a43ad31278000035",
+				"id": "5fe0c141a43ad31278000035_001",
 				"question": "Is the zelda transcription factor a chromatin remodeller?"
 			  }
 			],
@@ -5333,7 +5333,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6025db0e1cb411341a0000b8",
+				"id": "6025db0e1cb411341a0000b8_001",
 				"question": "Is capmatinib effective for glioblastoma?"
 			  }
 			],
@@ -5342,7 +5342,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6057151094d57fd879000027",
+				"id": "6057151094d57fd879000027_001",
 				"question": "Are there antimicrobial proteins in royal jelly?"
 			  }
 			],
@@ -5351,7 +5351,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6025e2641cb411341a0000bb",
+				"id": "6025e2641cb411341a0000bb_001",
 				"question": "Can thiotepa be recommended for treatment of osteosarcoma?"
 			  }
 			],
@@ -5360,7 +5360,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "601db7fb1cb411341a00004a",
+				"id": "601db7fb1cb411341a00004a_001",
 				"question": "Does a comet assay measure radiation induced mutations?"
 			  }
 			],
@@ -5369,7 +5369,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "606c017294d57fd879000076",
+				"id": "606c017294d57fd879000076_001",
 				"question": "Has the companion diagnostic HercepTest received FDA approval?"
 			  }
 			],
@@ -5378,7 +5378,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6033f5541cb411341a00014c",
+				"id": "6033f5541cb411341a00014c_001",
 				"question": "Is phosphoenolpyruvate carboxykinase 1 (PCK1) the rate-limiting enzyme in gluconeogenesis?"
 			  }
 			],
@@ -5387,7 +5387,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "605265ee94d57fd87900000d",
+				"id": "605265ee94d57fd87900000d_001",
 				"question": "Has FTY720  been considered for the treatment of stroke?"
 			  }
 			],
@@ -5396,7 +5396,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6081af3c4e6a4cf630000008",
+				"id": "6081af3c4e6a4cf630000008_001",
 				"question": "Is colistin an antibiotic?"
 			  }
 			],
@@ -5405,7 +5405,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "602e84e61cb411341a000126",
+				"id": "602e84e61cb411341a000126_001",
 				"question": "Is Tocilizumab (Actemra) used to block/antagonize the  IL-6 receptor?"
 			  }
 			],
@@ -5414,7 +5414,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5cebe41ea49efeb44c000006",
+				"id": "5cebe41ea49efeb44c000006_001",
 				"question": "Is the process of DNA loop-extrusion independent of ATP?"
 			  }
 			],
@@ -5423,7 +5423,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6060df1e94d57fd879000047",
+				"id": "6060df1e94d57fd879000047_001",
 				"question": "Is there an upper limit on the functional fraction of the human genome?"
 			  }
 			],
@@ -5432,7 +5432,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "601ec5661cb411341a000063",
+				"id": "601ec5661cb411341a000063_001",
 				"question": "Is SLIC-CAGE used for quantification of translation?"
 			  }
 			],
@@ -5441,7 +5441,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6025fa371cb411341a0000be",
+				"id": "6025fa371cb411341a0000be_001",
 				"question": "Does hypofractionated radiotherapy offers any benefit for DIPG?"
 			  }
 			],
@@ -5450,7 +5450,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "601d72e61cb411341a000039",
+				"id": "601d72e61cb411341a000039_001",
 				"question": "Is progeria caused by an autosomal recessive gene?"
 			  }
 			],
@@ -5459,7 +5459,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "601d73c71cb411341a00003e",
+				"id": "601d73c71cb411341a00003e_001",
 				"question": "Is acupotomy used to treat muscle stiffness?"
 			  }
 			],
@@ -5468,7 +5468,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "60234bd51cb411341a000093",
+				"id": "60234bd51cb411341a000093_001",
 				"question": "Is ofatumumab effective for multiple sclerosis?"
 			  }
 			],
@@ -5477,7 +5477,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "60206bae1cb411341a00007d",
+				"id": "60206bae1cb411341a00007d_001",
 				"question": "Is there a role for Dickkopf-1 (DKK1) in prostate cancer?"
 			  }
 			],
@@ -5486,7 +5486,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "602c28551cb411341a000123",
+				"id": "602c28551cb411341a000123_001",
 				"question": "Has AZD9668 been tested in clinical trials?"
 			  }
 			],
@@ -5495,7 +5495,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "5fdb415ba43ad31278000019",
+				"id": "5fdb415ba43ad31278000019_001",
 				"question": "Is Nanog repressed in pluripotent stem cells?"
 			  }
 			],
@@ -5504,7 +5504,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6060e03394d57fd879000048",
+				"id": "6060e03394d57fd879000048_001",
 				"question": "Are synonymous sites in primates and rodents functionally constrained?"
 			  }
 			],
@@ -5513,7 +5513,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6027f7171cb411341a0000ec",
+				"id": "6027f7171cb411341a0000ec_001",
 				"question": "Is there a role for TFII-I in megakaryopoiesis?"
 			  }
 			],
@@ -5522,7 +5522,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "604915581cb411341a00016a",
+				"id": "604915581cb411341a00016a_001",
 				"question": "Is YKL-40 used as a biomarker for Alzheimer's disease?"
 			  }
 			],
@@ -5531,7 +5531,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "601c3f041cb411341a000018",
+				"id": "601c3f041cb411341a000018_001",
 				"question": "Can propofol cause green urine?"
 			  }
 			],
@@ -5540,7 +5540,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6032187e1cb411341a000132",
+				"id": "6032187e1cb411341a000132_001",
 				"question": "Are Gram positive bacteria able to release extracellular vesicles?"
 			  }
 			],
@@ -5549,7 +5549,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "6025d88c1cb411341a0000b6",
+				"id": "6025d88c1cb411341a0000b6_001",
 				"question": "Is vocimagene amiretrorepvec effective for glioblastoma?"
 			  }
 			],
@@ -5558,7 +5558,7 @@
 		  {
 			"qas": [
 			  {
-				"id": "601cb7a61cb411341a000026",
+				"id": "601cb7a61cb411341a000026_001",
 				"question": "Can Panitumumab cause trichomegaly?"
 			  }
 			],
